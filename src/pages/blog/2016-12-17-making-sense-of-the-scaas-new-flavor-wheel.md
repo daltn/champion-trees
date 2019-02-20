@@ -2,18 +2,13 @@
 templateKey: blog-post
 title: Abies Magnifica
 date: 2019-02-20T10:04:00.000Z
-description: |
-  Common Name: California Red Fir
-
-  Location: Yosemite National Park, CA
+description: 'Common Name: California Red Fir'
 tags:
   - CA
   - California Red Fir
   - Abies Magnifica
 ---
 ![abies_magnifica_01](/img/abies_magnifica_01.jpg "abies_magnifica")
-
-Common Name: California Red Fir
 
 Location: Yosemite National Park, CA
 
