@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Champion Trees',
+    title: 'Gathering Growth',
     description:
       'United States Champion Tree Archive, Gathering Growth in partnership with American Forests, owner of the National Champion Tree Program',
   },
