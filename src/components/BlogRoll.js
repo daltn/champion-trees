@@ -25,7 +25,9 @@ class BlogRoll extends React.Component {
                   </Link>
                 </p>
                 <p>
-                  {post.excerpt}
+                  Common Name:
+                  <br />
+                  {post.frontmatter.description}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
@@ -66,7 +68,8 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                date(formatString: "MMMM DD, YYYY")
+                description
+                date(formatString: "MM-DD-YYYY")
               }
             }
           }
