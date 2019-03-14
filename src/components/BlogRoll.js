@@ -14,11 +14,11 @@ class BlogRoll extends React.Component {
             <div className="is-parent column is-6" key={post.id}>
               <article>
                 <p>
-                  <span className="subtitle is-size-5 is-block">
+                  <span className="subtitle is-size-6 is-block">
                     {post.frontmatter.date}
                   </span>
                   <Link
-                    className="title has-text-primary is-size-4"
+                    className="title has-text-primary is-size-6"
                     to={post.fields.slug}
                   >
                     {post.frontmatter.title}
