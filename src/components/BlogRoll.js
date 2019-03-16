@@ -18,7 +18,7 @@ class BlogRoll extends React.Component {
                     {post.frontmatter.date}
                   </span>
                   <Link
-                    className="title has-text-primary is-size-6"
+                    className="title has-text-primary is-size-4"
                     to={post.fields.slug}
                   >
                     {post.frontmatter.title}
@@ -30,9 +30,6 @@ class BlogRoll extends React.Component {
                   {post.frontmatter.description}
                   <br />
                   <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
                 </p>
               </article>
             </div>
