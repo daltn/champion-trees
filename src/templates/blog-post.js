@@ -21,8 +21,10 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-10 is-offset-1">
+          <div className="column is-8 is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+              National Champion:
+              <br />
               {title}
             </h1>
             <p>
@@ -52,7 +54,7 @@ BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
-  tags: PropTypes.string,
+  tags: PropTypes.array,
   title: PropTypes.string,
   helmet: PropTypes.object,
 };
