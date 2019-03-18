@@ -1,18 +1,15 @@
 ---
-templateKey: 'blog-post'
-title: 'Carnegiea Gigantea'
+templateKey: blog-post
+title: Carnegiea Gigantea
 date: 2019-03-04T15:04:10.000Z
-description: 'Saguaro Cactus'
+description: Saguaro Cactus
 tags:
   - Mesa
   - Carnegiea gigantea
   - Saguaro Cactus
   - AZ
 ---
-
-National Champion: Carnegiea gigantea
-
-Common Name: Saguaro Cactus
+![carnegiea-01](/img/carnegiea-gigantea_01.jpg)
 
 Location: Mesa. AZ
 
@@ -27,3 +24,7 @@ Height: 30’
 Avg Crown Spread: 9’
 
 Total AF Points: 151
+
+![saguaro-02](/img/carnegiea-gigantea_02.jpg)
+
+![saguaro-03](/img/carnegiea-gigantea_03.jpg)
