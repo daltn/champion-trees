@@ -10,6 +10,7 @@ tags:
   - Bishop Pine
   - Pinus muricata
 ---
+
 ![bishop-01](/img/pinus_muricata_01.jpg)
 
 Location: Point Reyes National Seashore, CA
@@ -18,13 +19,13 @@ Year Crowned: 2016
 
 Year Photographed: 2018
 
-## Stats:
+Stats:
 
-Circumference: 242”   
+Circumference: 242”
 
-Height: 82’   
+Height: 82’
 
-Avg Crown Spread: 118.25”   
+Avg Crown Spread: 118.25”
 
 Total AF Points: 354
 
