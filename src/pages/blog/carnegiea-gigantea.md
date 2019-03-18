@@ -10,8 +10,6 @@ tags:
   - AZ
 ---
 
-![carnegiea-gigantea_01](img/carnegiea-gigantea_01.jpg 'carnegiea-gigantea')
-
 National Champion: Carnegiea gigantea
 
 Common Name: Saguaro Cactus
