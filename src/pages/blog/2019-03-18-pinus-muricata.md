@@ -10,8 +10,6 @@ tags:
   - Bishop Pine
   - Pinus muricata
 ---
-
-
 ![bishop-01](/img/pinus_muricata_01.jpg)
 
 Location: Point Reyes National Seashore, CA
@@ -20,7 +18,7 @@ Year Crowned: 2016
 
 Year Photographed: 2018
 
-## Stats: 
+## Stats:
 
 Circumference: 242”   
 
