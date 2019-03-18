@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../components/Layout';
 import BlogRoll from '../components/BlogRoll';
-import gigan from '../../public/img/gigantea.jpg';
+import gigan from '../img/gigantea.jpg';
 
 export const IndexPageTemplate = () => (
   <div>
