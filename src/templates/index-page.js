@@ -6,17 +6,9 @@ import BlogRoll from '../components/BlogRoll';
 
 export const IndexPageTemplate = ({ image }) => (
   <div>
-    <section className="section section--gradient">
+    <section className="section">
       <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="content">
-              <div className="column is-12">
-                <BlogRoll />
-              </div>
-            </div>
-          </div>
-        </div>
+        <BlogRoll />
       </div>
     </section>
   </div>
