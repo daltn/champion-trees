@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from '../components/Layout';
 import BlogRoll from '../components/BlogRoll';
+import gigan from '../../public/img/gigantea.jpg';
 
 export const IndexPageTemplate = () => (
   <div>
@@ -9,6 +10,7 @@ export const IndexPageTemplate = () => (
         <BlogRoll />
       </div>
     </section>
+    <img src={gigan} alt="index-tree" id="index" />
   </div>
 );
 
