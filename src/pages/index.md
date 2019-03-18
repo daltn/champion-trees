@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Champion Trees
-image: img/carnegiea-gigantea_01.jpg
+image: /img/home-jumbotron.jpg
 heading: Champion Tree Archive
 subheading: photographed & documented by Brian Kelley
 mainpitch:
@@ -26,4 +26,3 @@ main:
     alt: abies
     image: /img/abies_magnifica_02.jpg
 ---
-
