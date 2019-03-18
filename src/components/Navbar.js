@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { Link } from 'gatsby';
 
-const Navbar = class extends React.Component {
+class Navbar extends Component {
   componentDidMount() {
     // Get all "navbar-burger" elements
     const $navbarBurgers = Array.prototype.slice.call(
@@ -55,6 +55,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/blog">
                 Archive
               </Link>
+              <Link className="navbar-item" to="/tags">
+                Tags
+              </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
@@ -69,6 +72,6 @@ const Navbar = class extends React.Component {
       </nav>
     );
   }
-};
+}
 
 export default Navbar;
