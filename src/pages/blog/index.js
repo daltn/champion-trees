@@ -10,7 +10,9 @@ export default class BlogIndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1 className="has-text-weight-bold is-size-1">Archive</h1>
+              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
+                Archive
+              </h2>
             </div>
             <BlogRoll />
           </div>
