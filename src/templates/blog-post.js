@@ -21,7 +21,7 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-6 is-offset-1">
+          <div className="column is-6 ">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               National Champion:
               <br />
@@ -30,6 +30,8 @@ export const BlogPostTemplate = ({
             <p>
               <strong>Common Name:</strong> {description}
             </p>
+          </div>
+          <div className="column is-6 ">
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
