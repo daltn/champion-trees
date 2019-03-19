@@ -8,13 +8,13 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <div className="columns is-multiline">
+      <div className="columns is-multiline" id="postContainer">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-one-third" key={post.id}>
+            <div className="is-parent column is-half" key={post.id}>
               <article>
                 <p>
-                  <span className="subtitle is-size-6 is-block">
+                  <span className="is-size-6 is-block">
                     {post.frontmatter.date}
                   </span>
                   <Link
