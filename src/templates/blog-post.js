@@ -9,7 +9,7 @@ import Content, { HTMLContent } from '../components/Content';
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  description,
+  commonName,
   tags,
   title,
   helmet,
@@ -28,7 +28,7 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>
-              <strong>Common Name:</strong> {description}
+              <strong>Common Name:</strong> {commonName}
             </p>
           </div>
           <div className="column is-6 ">
@@ -55,7 +55,7 @@ export const BlogPostTemplate = ({
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
-  description: PropTypes.string,
+  commonName: PropTypes.string,
   tags: PropTypes.array,
   title: PropTypes.string,
   helmet: PropTypes.object,
@@ -75,7 +75,7 @@ const BlogPost = ({ data }) => {
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
-              content={`${post.frontmatter.description}`}
+              content={`${post.frontmatter.commonName}`}
             />
           </Helmet>
         }
