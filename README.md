@@ -1,7 +1,13 @@
-# Champion Trees
+## Champion Trees
 
-Website for photographer Brian Kelley's project documenting the United States Champion Tree Archive, in partnership with American Forests.
+United States Champion Tree Archive, Gathering Growth in partnership with American Forests, owner of the National Champion Tree Program.
 
-### Notes
+Photographed and documented by Brian Kelley.
 
-Built with Gatsby, Bulma, GraphQL, & Netlify CMS
+#### Design
+
+[FAY](http://fay.design/)
+
+#### Dev
+
+[Dalton Saffe](http://daltonsaffe.com)
