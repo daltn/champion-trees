@@ -27,7 +27,7 @@ class BlogRoll extends React.Component {
                 <p>
                   Common Name:
                   <br />
-                  {post.frontmatter.description}
+                  {post.frontmatter.common_name}
                   <br />
                   <br />
                 </p>
@@ -65,7 +65,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                description
+                common_name
                 date(formatString: "MM-DD-YYYY")
               }
             }

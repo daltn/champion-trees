@@ -35,10 +35,7 @@ class Navbar extends Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <strong>
-                Gathering
-                <br /> Growth
-              </strong>
+              <strong>Gathering Growth</strong>
             </Link>
             {/* Hamburger menu */}
             <div className="navbar-burger burger" data-target="navMenu">
