@@ -9,7 +9,7 @@ import Content, { HTMLContent } from '../components/Content';
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  commonName,
+  common_name,
   tags,
   title,
   helmet,
@@ -28,7 +28,7 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>
-              <strong>Common Name:</strong> {commonName}
+              <strong>Common Name:</strong> {common_name}
             </p>
           </div>
           <div className="column is-6 ">
@@ -55,7 +55,7 @@ export const BlogPostTemplate = ({
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
-  commonName: PropTypes.string,
+  common_name: PropTypes.string,
   tags: PropTypes.array,
   title: PropTypes.string,
   helmet: PropTypes.object,
@@ -69,18 +69,19 @@ const BlogPost = ({ data }) => {
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
-        description={post.frontmatter.description}
+        description={post.frontmatter.common_name}
         helmet={
-          <Helmet titleTemplate="%s | Blog">
+          <Helmet titleTemplate="%s">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
-              content={`${post.frontmatter.commonName}`}
+              content={`${post.frontmatter.common_name}`}
             />
           </Helmet>
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        common_name={post.frontmatter.common_name}
       />
     </Layout>
   );
@@ -102,7 +103,7 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
-        description
+        common_name
         tags
       }
     }
