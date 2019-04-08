@@ -50,13 +50,7 @@ class Navbar extends Component {
                 Archive
               </Link>
               <Link className="navbar-item" to="/about">
-                About
-              </Link>
-              <Link className="navbar-item" to="/tags">
-                Tags
-              </Link>
-              <Link className="navbar-item" to="/contact">
-                Contact
+                Information
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
