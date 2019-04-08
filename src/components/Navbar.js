@@ -37,25 +37,19 @@ class Navbar extends Component {
             <Link to="/" className="navbar-item" title="Logo">
               <strong>Gathering Growth</strong>
             </Link>
-            {/* Hamburger menu */}
             <div className="navbar-burger burger" data-target="navMenu">
-              <span />
-              <span />
-              <span />
+              <span aria-hidden="true" />
+              <span aria-hidden="true" />
+              <span aria-hidden="true" />
             </div>
           </div>
           <div id="navMenu" className="navbar-menu">
-            <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/blog">
-                Archive
-              </Link>
+            <div className="navbar-end has-text-centered">
               <Link className="navbar-item" to="/info">
                 Information
               </Link>
-            </div>
-            <div className="navbar-end has-text-centered">
               <Link className="navbar-item" to="/contact">
-                [[ Future Search Bar ]]
+                Search
               </Link>
             </div>
           </div>

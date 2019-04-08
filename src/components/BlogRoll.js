@@ -17,10 +17,7 @@ class BlogRoll extends React.Component {
                   <span className="is-size-6 is-block">
                     {post.frontmatter.date}
                   </span>
-                  <Link
-                    className="title has-text-primary is-size-5"
-                    to={post.fields.slug}
-                  >
+                  <Link className="title is-size-5" to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
                 </p>
@@ -52,12 +49,11 @@ export default () => (
     query={graphql`
       query BlogRollQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
+          sort: { order: ASC, fields: [frontmatter___photographed] }
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
           edges {
             node {
-              excerpt(pruneLength: 80)
               id
               fields {
                 slug
@@ -67,6 +63,19 @@ export default () => (
                 templateKey
                 common_name
                 date(formatString: "MM-DD-YYYY")
+                location
+                crowned
+                photographed
+                circumference
+                height
+                crown_spread
+                total_af_points
+                image1 {
+                  alt
+                }
+                image2 {
+                  alt
+                }
               }
             }
           }
