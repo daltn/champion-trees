@@ -49,7 +49,7 @@ class Navbar extends Component {
               <Link className="navbar-item" to="/blog">
                 Archive
               </Link>
-              <Link className="navbar-item" to="/about">
+              <Link className="navbar-item" to="/info">
                 Information
               </Link>
             </div>

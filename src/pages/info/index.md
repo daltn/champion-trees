@@ -1,7 +1,7 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About
+templateKey: 'info-page'
+path: /info
+title: Information
 ---
 
 ### Champion Trees
