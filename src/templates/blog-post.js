@@ -29,20 +29,19 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-6 ">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              National Champion:
-              <br />
-              {title}
-            </h1>
+            <div className="has-text-weight-bold">
+              National Champion: {title}
+            </div>
             <p>
-              <strong>Common Name:</strong> {common_name}
-              {location}
-              {crowned}
-              {photographed}
-              {circumference}
-              {height}
-              {crown_spread}
-              {total_af_points}
+              Common Name: {common_name} <br />
+              Location: {location} <br />
+              Year crowned: {crowned} <br />
+              Year photographed: {photographed} <br />
+              - <br />
+              Circumference: {circumference} <br />
+              Height: {height} <br />
+              Avg Crown Spread: {crown_spread} <br />
+              Total AF Points: {total_af_points} <br />
             </p>
           </div>
           <div className="column is-6 ">
