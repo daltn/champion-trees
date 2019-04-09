@@ -14,7 +14,7 @@ class BlogRoll extends React.Component {
             <div className="is-parent column is-half" key={post.id}>
               <article>
                 <p>
-                  <span className="is-size-6 is-block">
+                  <span className="is-size-5 is-block">
                     {post.frontmatter.date}
                   </span>
                   <Link className="title is-size-5" to={post.fields.slug}>
@@ -26,8 +26,8 @@ class BlogRoll extends React.Component {
                   <br />
                   {post.frontmatter.common_name}
                   <br />
-                  <br />
                 </p>
+                <p>{post.frontmatter.photographed}</p>
               </article>
             </div>
           ))}
@@ -63,19 +63,7 @@ export default () => (
                 templateKey
                 common_name
                 date(formatString: "MM-DD-YYYY")
-                location
-                crowned
                 photographed
-                circumference
-                height
-                crown_spread
-                total_af_points
-                image1 {
-                  alt
-                }
-                image2 {
-                  alt
-                }
               }
             }
           }

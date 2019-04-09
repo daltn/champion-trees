@@ -13,6 +13,13 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  location,
+  crowned,
+  photographed,
+  circumference,
+  height,
+  crown_spread,
+  total_af_points,
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -29,6 +36,13 @@ export const BlogPostTemplate = ({
             </h1>
             <p>
               <strong>Common Name:</strong> {common_name}
+              {location}
+              {crowned}
+              {photographed}
+              {circumference}
+              {height}
+              {crown_spread}
+              {total_af_points}
             </p>
           </div>
           <div className="column is-6 ">
@@ -56,6 +70,13 @@ BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   common_name: PropTypes.string,
+  location: PropTypes.string,
+  crowned: PropTypes.string,
+  photographed: PropTypes.string,
+  circumference: PropTypes.string,
+  height: PropTypes.string,
+  crown_spread: PropTypes.string,
+  total_af_points: PropTypes.string,
   tags: PropTypes.array,
   title: PropTypes.string,
   helmet: PropTypes.object,
@@ -63,13 +84,11 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-
   return (
     <Layout>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
-        description={post.frontmatter.common_name}
         helmet={
           <Helmet titleTemplate="%s">
             <title>{`${post.frontmatter.title}`}</title>
@@ -82,6 +101,13 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         common_name={post.frontmatter.common_name}
+        location={post.frontmatter.location}
+        crowned={post.frontmatter.crowned}
+        photographed={post.frontmatter.photographed}
+        circumference={post.frontmatter.circumference}
+        height={post.frontmatter.height}
+        crown_spread={post.frontmatter.crown_spread}
+        total_af_points={post.frontmatter.total_af_points}
       />
     </Layout>
   );
@@ -105,6 +131,19 @@ export const pageQuery = graphql`
         title
         common_name
         tags
+        location
+        crowned
+        photographed
+        circumference
+        height
+        crown_spread
+        total_af_points
+        image1 {
+          alt
+        }
+        image2 {
+          alt
+        }
       }
     }
   }
