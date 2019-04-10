@@ -7,13 +7,7 @@ const Index = () => {
       <section className="section">
         <div className="container">
           <div className="content">
-            <h2>Contact</h2>
-            <a href="mailto:brian@briankelley.nyc">brian@briankelley.nyc</a>
-            <br />
-            <br />
-            <a href="https://instagram.com/champion_trees/?hl=en">
-              instagram.com/champion_trees
-            </a>
+            <h2>Search</h2>
           </div>
         </div>
       </section>
