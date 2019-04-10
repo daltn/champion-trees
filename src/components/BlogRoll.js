@@ -14,10 +14,14 @@ class BlogRoll extends React.Component {
             <div className="is-parent column is-half" key={post.id}>
               <article>
                 <p>
-                  <span className="is-size-5 is-block">
-                    {post.frontmatter.date}
+                  <span className="is-block">
+                    {post.frontmatter.photographed}
                   </span>
-                  <Link className="title is-size-5" to={post.fields.slug}>
+                  <Link
+                    style={{ color: '#2b2523' }}
+                    className="has-text-weight-bold"
+                    to={post.fields.slug}
+                  >
                     {post.frontmatter.title}
                   </Link>
                 </p>
@@ -27,7 +31,6 @@ class BlogRoll extends React.Component {
                   {post.frontmatter.common_name}
                   <br />
                 </p>
-                <p>{post.frontmatter.photographed}</p>
               </article>
             </div>
           ))}
