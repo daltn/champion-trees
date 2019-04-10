@@ -13,16 +13,4 @@ description: >-
 intro:
   heading: Gathering Growth
   description: National Champion Tree program
-main:
-  heading: Gathering Growth
-  description: National Champion Tree Program
-  image1:
-    alt: carnegia
-    image: /img/carnegiea-gigantea_01.jpg
-  image2:
-    alt: cnegia
-    image: /img/abies_magnifica_03.jpg
-  image3:
-    alt: abies
-    image: /img/abies_magnifica_02.jpg
 ---
