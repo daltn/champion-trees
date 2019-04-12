@@ -10,9 +10,6 @@ circumference: 242”
 height: 82'
 crown-spread: 118.25”
 total-af-points: '354'
-image1:
-  alt: pinus-01
-  image: /img/pinus_muricata_01.jpg
 image2:
   alt: pinus-02
   image: /img/pinus_muricata_02.jpg
@@ -21,6 +18,7 @@ tags:
   - CA
   - Pinus muricata
 ---
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/570360024&color=%234d503e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ![a cone ](/img/pinus_muricata_03.jpg)

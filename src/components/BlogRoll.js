@@ -14,9 +14,7 @@ class BlogRoll extends React.Component {
             <div className="is-parent column is-half" key={post.id}>
               <article>
                 <p>
-                  <span className="is-block">
-                    {post.frontmatter.photographed}
-                  </span>
+                  <span className="is-block">{post.frontmatter.date}</span>
                   <Link
                     style={{ color: '#2b2523' }}
                     className="has-text-weight-bold"
@@ -52,7 +50,7 @@ export default () => (
     query={graphql`
       query BlogRollQuery {
         allMarkdownRemark(
-          sort: { order: ASC, fields: [frontmatter___photographed] }
+          sort: { order: ASC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
           edges {

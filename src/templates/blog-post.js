@@ -5,6 +5,7 @@ import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
+import PreviewImg from '../components/PreviewCompatibleImage';
 
 export const BlogPostTemplate = ({
   content,
@@ -20,6 +21,7 @@ export const BlogPostTemplate = ({
   height,
   crown_spread,
   total_af_points,
+  image1,
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -29,6 +31,7 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-6 ">
+            {console.log(image1)}
             <div className="has-text-weight-bold">
               National Champion: {title}
             </div>
@@ -79,6 +82,7 @@ BlogPostTemplate.propTypes = {
   tags: PropTypes.array,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  image1: PropTypes.object,
 };
 
 const BlogPost = ({ data }) => {
@@ -107,6 +111,7 @@ const BlogPost = ({ data }) => {
         height={post.frontmatter.height}
         crown_spread={post.frontmatter.crown_spread}
         total_af_points={post.frontmatter.total_af_points}
+        image1={post.frontmatter.image1}
       />
     </Layout>
   );
@@ -137,12 +142,6 @@ export const pageQuery = graphql`
         height
         crown_spread
         total_af_points
-        image1 {
-          alt
-        }
-        image2 {
-          alt
-        }
       }
     }
   }

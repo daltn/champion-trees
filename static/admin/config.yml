@@ -33,16 +33,7 @@ collections:
           widget: 'string',
           required: false,
         }
-      - {
-          label: Image1,
-          name: image1,
-          widget: object,
-          fields:
-            [
-              { label: Image, name: image, widget: image },
-              { label: Alt, name: alt, widget: string },
-            ],
-        }
+      - { label: Image1, name: image1, widget: image }
       - {
           label: Image2,
           name: image2,
