@@ -1,8 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
-import { graphql, Link } from 'gatsby';
+import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
@@ -11,7 +10,6 @@ export const BlogPostTemplate = ({
   content,
   contentComponent,
   common_name,
-  tags,
   title,
   helmet,
   location,
@@ -69,7 +67,6 @@ BlogPostTemplate.propTypes = {
   height: PropTypes.string,
   crown_spread: PropTypes.string,
   total_af_points: PropTypes.string,
-  tags: PropTypes.array,
   title: PropTypes.string,
   helmet: PropTypes.object,
   image1: PropTypes.object,
