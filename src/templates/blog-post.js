@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
+import Img from 'gatsby-image';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
 import PreviewImg from '../components/PreviewCompatibleImage';
@@ -22,6 +23,7 @@ export const BlogPostTemplate = ({
   crown_spread,
   total_af_points,
   image1,
+  image2,
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -31,7 +33,8 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-6 ">
-            {console.log(image1)}
+            {console.log(image2)}
+            <Img fluid={image1.childImageSharp.fluid} />
             <div className="has-text-weight-bold">
               National Champion: {title}
             </div>
@@ -82,7 +85,8 @@ BlogPostTemplate.propTypes = {
   tags: PropTypes.array,
   title: PropTypes.string,
   helmet: PropTypes.object,
-  image1: PropTypes.object,
+  image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  image2: PropTypes.object,
 };
 
 const BlogPost = ({ data }) => {
@@ -112,6 +116,7 @@ const BlogPost = ({ data }) => {
         crown_spread={post.frontmatter.crown_spread}
         total_af_points={post.frontmatter.total_af_points}
         image1={post.frontmatter.image1}
+        image2={post.frontmatter.image2}
       />
     </Layout>
   );
@@ -142,6 +147,13 @@ export const pageQuery = graphql`
         height
         crown_spread
         total_af_points
+        image1 {
+          childImageSharp {
+            fluid(maxWidth: 1000, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
