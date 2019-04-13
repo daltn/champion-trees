@@ -6,7 +6,6 @@ import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
-import PreviewImg from '../components/PreviewCompatibleImage';
 
 export const BlogPostTemplate = ({
   content,
@@ -32,9 +31,8 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-6 ">
-            {console.log(image2)}
-            <Img fluid={image1.childImageSharp.fluid} />
+          <div className="column is-4 ">
+            <Img fluid={image2.image.childImageSharp.fluid} alt={image2.alt} />
             <div className="has-text-weight-bold">
               National Champion: {title}
             </div>
@@ -50,7 +48,7 @@ export const BlogPostTemplate = ({
               Total AF Points: {total_af_points} <br />
             </p>
           </div>
-          <div className="column is-6 ">
+          <div className="column is-8 ">
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -85,7 +83,7 @@ BlogPostTemplate.propTypes = {
   tags: PropTypes.array,
   title: PropTypes.string,
   helmet: PropTypes.object,
-  image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  image1: PropTypes.object,
   image2: PropTypes.object,
 };
 
@@ -148,9 +146,20 @@ export const pageQuery = graphql`
         crown_spread
         total_af_points
         image1 {
+          alt
           childImageSharp {
             fluid(maxWidth: 1000, quality: 100) {
               ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        image2 {
+          alt
+          image {
+            childImageSharp {
+              fluid(maxWidth: 526, quality: 92) {
+                ...GatsbyImageSharpFluid
+              }
             }
           }
         }
