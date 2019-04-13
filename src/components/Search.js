@@ -29,7 +29,6 @@ class Search extends Component {
               <p>
                 Common Name:
                 <br />
-                {console.log(page)}
                 {page.common_name}
                 <br />
               </p>
