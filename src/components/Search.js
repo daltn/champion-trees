@@ -19,8 +19,20 @@ class Search extends Component {
         <ul>
           {this.state.results.map(page => (
             <li key={page.id}>
-              {console.log(page)}
-              <Link to={'/' + page.slug}>{page.title}</Link>
+              <Link
+                style={{ color: '#2b2523' }}
+                className="has-text-weight-bold"
+                to={'/' + page.slug}
+              >
+                {page.title}
+              </Link>
+              <p>
+                Common Name:
+                <br />
+                {console.log(page)}
+                {page.common_name}
+                <br />
+              </p>
             </li>
           ))}
         </ul>

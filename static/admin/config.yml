@@ -20,16 +20,16 @@ collections:
         }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Common Name', name: 'common-name', widget: 'string' }
+      - { label: 'Common Name', name: 'common_name', widget: 'string' }
       - { label: 'Location', name: 'location', widget: 'string' }
       - { label: 'Year Crowned', name: 'crowned', widget: 'string' }
       - { label: 'Year Photographed', name: 'photographed', widget: 'string' }
       - { label: 'Circumference', name: 'circumference', widget: 'string' }
       - { label: 'Height', name: 'height', widget: 'string' }
-      - { label: 'Avg Crown Spread', name: 'crown-spread', widget: 'string' }
+      - { label: 'Avg Crown Spread', name: 'crown_spread', widget: 'string' }
       - {
           label: 'Total AF Points',
-          name: 'total-af-points',
+          name: 'total_af_points',
           widget: 'string',
           required: false,
         }
