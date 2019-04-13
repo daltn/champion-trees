@@ -1,5 +1,6 @@
 import React from 'react';
 import Layout from '../../components/Layout';
+import Search from '../../components/Search';
 
 const Index = () => {
   return (
@@ -8,6 +9,7 @@ const Index = () => {
         <div className="container">
           <div className="content">
             <h2>Search</h2>
+            <Search />
           </div>
         </div>
       </section>
