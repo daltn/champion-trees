@@ -147,9 +147,11 @@ export const pageQuery = graphql`
         total_af_points
         image1 {
           alt
-          childImageSharp {
-            fluid(maxWidth: 1000, quality: 100) {
-              ...GatsbyImageSharpFluid
+          image {
+            childImageSharp {
+              fluid(maxWidth: 526, quality: 92) {
+                ...GatsbyImageSharpFluid
+              }
             }
           }
         }

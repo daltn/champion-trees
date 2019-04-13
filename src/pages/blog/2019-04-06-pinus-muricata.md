@@ -10,6 +10,9 @@ circumference: 242”
 height: 82'
 crown-spread: 118.25”
 total-af-points: '354'
+image1:
+  alt: pinus-01
+  image: /img/pinus_muricata_01.jpg
 image2:
   alt: pinus-02
   image: /img/pinus_muricata_02.jpg
