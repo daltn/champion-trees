@@ -31,8 +31,8 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-4 ">
-            <Img fluid={image2.image.childImageSharp.fluid} alt={image2.alt} />
+          <div className="column is-4">
+            <Img fluid={image1.image.childImageSharp.fluid} alt={image1.alt} />
             <div className="has-text-weight-bold">
               National Champion: {title}
             </div>
@@ -48,7 +48,8 @@ export const BlogPostTemplate = ({
               Total AF Points: {total_af_points} <br />
             </p>
           </div>
-          <div className="column is-8 ">
+          <div className="column is-8">
+            <Img fluid={image2.image.childImageSharp.fluid} alt={image2.alt} />
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -149,7 +150,7 @@ export const pageQuery = graphql`
           alt
           image {
             childImageSharp {
-              fluid(maxWidth: 526, quality: 92) {
+              fluid(maxWidth: 900, quality: 92) {
                 ...GatsbyImageSharpFluid
               }
             }
@@ -159,7 +160,7 @@ export const pageQuery = graphql`
           alt
           image {
             childImageSharp {
-              fluid(maxWidth: 526, quality: 92) {
+              fluid(maxWidth: 900, quality: 92) {
                 ...GatsbyImageSharpFluid
               }
             }
