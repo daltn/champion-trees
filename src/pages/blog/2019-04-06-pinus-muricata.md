@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Pinus muricata
-date: 2019-04-06T05:17:38.973Z
+date: 2018-04-06T05:17:00.000Z
 common-name: Bishop Pine
 location: 'Point Reyes National Seashore, CA'
 crowned: '2016'
@@ -21,7 +21,12 @@ tags:
   - CA
   - Pinus muricata
 ---
+![a cone](/img/pinus_muricata_03.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/570360024&color=%234d503e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-![a cone](/img/pinus_muricata_03.jpg)
+![pinus-muricata-04](/img/pinus_muricata_04.jpg)
+
+![pinus-leaf-05](/img/pinus_muricata_05.jpg)
+
+![pinus-muricata-06](/img/pinus_muricata_06.jpg)
