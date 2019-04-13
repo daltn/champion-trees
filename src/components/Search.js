@@ -19,7 +19,8 @@ class Search extends Component {
         <ul>
           {this.state.results.map(page => (
             <li key={page.id}>
-              <Link to={'/' + page.path}>{page.title}</Link>
+              {console.log(page)}
+              <Link to={'/' + page.slug}>{page.title}</Link>
             </li>
           ))}
         </ul>

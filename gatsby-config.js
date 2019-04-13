@@ -78,7 +78,7 @@ module.exports = {
             height: node => node.frontmatter.height,
             crown_spread: node => node.frontmatter.crown_spread,
             total_af_points: node => node.frontmatter.total_af_points,
-            path: node => node.frontmatter.slug,
+            slug: node => node.fields.slug,
           },
         },
       },
