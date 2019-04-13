@@ -61,6 +61,29 @@ module.exports = {
       },
     },
     {
+      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      options: {
+        // Fields to index
+        fields: [`title`, `tags`],
+        // How to resolve each field`s value for a supported node type
+        resolvers: {
+          // For any node of type MarkdownRemark, list how to resolve the fields` values
+          MarkdownRemark: {
+            title: node => node.frontmatter.title,
+            common_name: node => node.frontmatter.common_name,
+            location: node => node.frontmatter.location,
+            crowned: node => node.frontmatter.crowned,
+            photographed: node => node.frontmatter.photographed,
+            circumference: node => node.frontmatter.circumference,
+            height: node => node.frontmatter.height,
+            crown_spread: node => node.frontmatter.crown_spread,
+            total_af_points: node => node.frontmatter.total_af_points,
+            slug: node => node.frontmatter.slug,
+          },
+        },
+      },
+    },
+    {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
