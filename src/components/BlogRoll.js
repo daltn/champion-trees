@@ -4,6 +4,16 @@ import { Link, graphql, StaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
 class BlogRoll extends React.Component {
+  state = {
+    hover: false,
+  };
+
+  hoverToggle = () => {
+    this.setState({
+      hover: !this.state.hover,
+    });
+  };
+
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
@@ -19,6 +29,8 @@ class BlogRoll extends React.Component {
                     <p>
                       <span className="is-block">{post.frontmatter.date}</span>
                       <Link
+                        onMouseEnter={this.hoverToggle}
+                        onMouseLeave={this.hoverToggle}
                         style={{ color: '#2b2523' }}
                         className="has-text-weight-bold"
                         to={post.fields.slug}
@@ -34,6 +46,7 @@ class BlogRoll extends React.Component {
                     </p>
                   </article>
                   <Img
+                    className={this.state.hover ? 'idxImgHover' : 'idxImg'}
                     fluid={post.frontmatter.image1.image.childImageSharp.fluid}
                     alt={post.frontmatter.image1.alt}
                   />
