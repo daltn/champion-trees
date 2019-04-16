@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
@@ -13,30 +13,32 @@ class BlogRoll extends React.Component {
         <div className="columns is-multiline" id="postContainer">
           {posts &&
             posts.map(({ node: post }) => (
-              <div className="is-parent column is-half" key={post.id}>
-                <article>
-                  <p>
-                    <span className="is-block">{post.frontmatter.date}</span>
-                    <Link
-                      style={{ color: '#2b2523' }}
-                      className="has-text-weight-bold"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                  </p>
-                  <p>
-                    Common Name:
-                    <br />
-                    {post.frontmatter.common_name}
-                    <br />
-                  </p>
-                </article>
-                <Img
-                  fluid={post.frontmatter.image1.image.childImageSharp.fluid}
-                  alt={post.frontmatter.image1.alt}
-                />
-              </div>
+              <Fragment key={post.id}>
+                <div className="is-parent column is-half" key={post.id}>
+                  <article>
+                    <p>
+                      <span className="is-block">{post.frontmatter.date}</span>
+                      <Link
+                        style={{ color: '#2b2523' }}
+                        className="has-text-weight-bold"
+                        to={post.fields.slug}
+                      >
+                        {post.frontmatter.title}
+                      </Link>
+                    </p>
+                    <p>
+                      Common Name:
+                      <br />
+                      {post.frontmatter.common_name}
+                      <br />
+                    </p>
+                  </article>
+                  <Img
+                    fluid={post.frontmatter.image1.image.childImageSharp.fluid}
+                    alt={post.frontmatter.image1.alt}
+                  />
+                </div>
+              </Fragment>
             ))}
         </div>
       </div>
