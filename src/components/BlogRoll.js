@@ -5,13 +5,17 @@ import Img from 'gatsby-image';
 
 class BlogRoll extends Component {
   state = {
-    hover: false,
+    hover: '',
   };
 
-  hoverToggle = () => {
-    this.setState({
-      hover: !this.state.hover,
-    });
+  hoverToggle = postId => {
+    postId === this.state.hover
+      ? this.setState({
+          hover: '',
+        })
+      : this.setState({
+          hover: postId,
+        });
   };
 
   render() {
@@ -29,8 +33,8 @@ class BlogRoll extends Component {
                     <p>
                       <span className="is-block">{post.frontmatter.date}</span>
                       <Link
-                        onMouseEnter={this.hoverToggle}
-                        onMouseLeave={this.hoverToggle}
+                        onMouseEnter={() => this.hoverToggle(post.id)}
+                        onMouseLeave={() => this.hoverToggle(post.id)}
                         style={{ color: '#2b2523' }}
                         className="has-text-weight-bold"
                         to={post.fields.slug}
@@ -46,7 +50,9 @@ class BlogRoll extends Component {
                     </p>
                   </article>
                   <Img
-                    className={this.state.hover ? 'idxImgHover' : 'idxImg'}
+                    className={
+                      this.state.hover === post.id ? 'idxImgHover' : 'idxImg'
+                    }
                     fluid={post.frontmatter.image1.image.childImageSharp.fluid}
                     alt={post.frontmatter.image1.alt}
                   />
