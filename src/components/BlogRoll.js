@@ -1,9 +1,9 @@
-import React, { Fragment } from 'react';
+import React, { Component, Fragment } from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
-class BlogRoll extends React.Component {
+class BlogRoll extends Component {
   state = {
     hover: false,
   };
