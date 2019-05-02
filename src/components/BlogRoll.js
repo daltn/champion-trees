@@ -28,7 +28,7 @@ class BlogRoll extends Component {
           {posts &&
             posts.map(({ node: post }) => (
               <Fragment key={post.id}>
-                <div className="is-parent column is-half" key={post.id}>
+                <div id="post" className="column is-2" key={post.id}>
                   <section>
                     <p>
                       <span className="is-block">{post.frontmatter.date}</span>
