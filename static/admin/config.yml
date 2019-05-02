@@ -27,12 +27,7 @@ collections:
       - { label: 'Circumference', name: 'circumference', widget: 'string' }
       - { label: 'Height', name: 'height', widget: 'string' }
       - { label: 'Avg Crown Spread', name: 'crown_spread', widget: 'string' }
-      - {
-          label: 'Total AF Points',
-          name: 'total_af_points',
-          widget: 'string',
-          required: false,
-        }
+      - { label: 'Total AF Points', name: 'total_af_points', widget: 'string' }
       - {
           label: Image 1,
           name: image1,
@@ -54,19 +49,3 @@ collections:
             ],
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - name: 'pages'
-    label: 'Pages'
-    files:
-      - file: 'src/pages/about/index.md'
-        label: 'About'
-        name: 'about'
-        fields:
-          - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'about-page',
-            }
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
