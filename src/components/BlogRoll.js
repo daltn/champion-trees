@@ -41,7 +41,9 @@ class BlogRoll extends Component {
                 <div id="post" className="column is-2" key={post.id}>
                   <section>
                     <p>
-                      <span className="is-block">{post.frontmatter.date}</span>
+                      <span className="is-block">
+                        {post.frontmatter.photographed}
+                      </span>
                       <Link
                         onMouseEnter={() => this.hoverToggle(post.id)}
                         onMouseLeave={() => this.hoverToggle(post.id)}
