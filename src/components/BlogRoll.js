@@ -29,7 +29,7 @@ class BlogRoll extends Component {
             posts.map(({ node: post }) => (
               <Fragment key={post.id}>
                 <div className="is-parent column is-half" key={post.id}>
-                  <article>
+                  <section>
                     <p>
                       <span className="is-block">{post.frontmatter.date}</span>
                       <Link
@@ -48,14 +48,18 @@ class BlogRoll extends Component {
                       {post.frontmatter.common_name}
                       <br />
                     </p>
-                  </article>
-                  <Img
-                    className={
-                      this.state.hover === post.id ? 'idxImgHover' : 'idxImg'
-                    }
-                    fluid={post.frontmatter.image1.image.childImageSharp.fluid}
-                    alt={post.frontmatter.image1.alt}
-                  />
+                  </section>
+                  <div className="imageContainer">
+                    <Img
+                      className={
+                        this.state.hover === post.id ? 'idxImgHover' : 'idxImg'
+                      }
+                      fluid={
+                        post.frontmatter.image1.image.childImageSharp.fluid
+                      }
+                      alt={post.frontmatter.image1.alt}
+                    />
+                  </div>
                 </div>
               </Fragment>
             ))}
