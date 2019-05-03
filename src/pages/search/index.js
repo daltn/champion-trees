@@ -8,7 +8,7 @@ const Index = () => {
       <section className="section">
         <div className="container">
           <div className="content">
-            <h2>Search</h2>
+            <h2 className="title is-size-3 has-text-weight-bold">Search</h2>
             <Search />
           </div>
         </div>

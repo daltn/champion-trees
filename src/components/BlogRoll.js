@@ -18,7 +18,8 @@ class BlogRoll extends Component {
         });
   };
 
-  // displayYear = (currentYear, previousYear) => {
+  // displayYear = (currentYear) => {
+  // const prevYear = currentYear[idx - 1]
   //   if (currentYear !== previousYear) {
   //     return (
   //       <div id="post" className="column is-2" key={post.id}>
@@ -33,12 +34,12 @@ class BlogRoll extends Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <div className="idxContainer">
+      <div>
         <div className="columns is-multiline" id="postContainer">
           {posts &&
             posts.map(({ node: post }) => (
               <Fragment key={post.id}>
-                <div id="post" className="column is-2" key={post.id}>
+                <div id="post" className="column is-3" key={post.id}>
                   <section>
                     <p>
                       <span className="is-block">
