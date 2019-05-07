@@ -18,7 +18,7 @@ class Search extends Component {
         <input type="text" value={this.state.query} onChange={this.search} />
         <ul>
           {this.state.results.map(page => (
-            <li key={page.id}>
+            <li className="searchResult" key={page.id}>
               <Link
                 style={{ color: '#2b2523' }}
                 className="has-text-weight-bold"

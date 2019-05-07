@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'gatsby';
+import Search from './Search';
 
 class Navbar extends Component {
   componentDidMount() {
@@ -48,9 +49,7 @@ class Navbar extends Component {
               <Link className="navbar-item" to="/info">
                 Information
               </Link>
-              <Link className="navbar-item" to="/search">
-                Search
-              </Link>
+              <Search />
             </div>
           </div>
         </div>
