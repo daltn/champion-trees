@@ -19,11 +19,7 @@ class Search extends Component {
         <ul>
           {this.state.results.map(page => (
             <li className="searchResult" key={page.id}>
-              <Link
-                style={{ color: '#2b2523' }}
-                className="has-text-weight-bold"
-                to={'/' + page.slug}
-              >
+              <Link className="has-text-weight-bold" to={'/' + page.slug}>
                 {page.title}
               </Link>
               <p>

@@ -48,7 +48,6 @@ class BlogRoll extends Component {
                       <Link
                         onMouseEnter={() => this.hoverToggle(post.id)}
                         onMouseLeave={() => this.hoverToggle(post.id)}
-                        style={{ color: '#2b2523' }}
                         className="has-text-weight-bold"
                         to={post.fields.slug}
                       >

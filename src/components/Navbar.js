@@ -35,8 +35,12 @@ class Navbar extends Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <strong>Gathering Growth</strong>
+            <Link
+              to="/"
+              className="navbar-item has-text-weight-bold"
+              title="Logo"
+            >
+              Gathering Growth
             </Link>
             <div className="navbar-burger burger" data-target="navMenu">
               <span aria-hidden="true" />
