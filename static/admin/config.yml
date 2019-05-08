@@ -54,5 +54,11 @@ collections:
     folder: 'src/pages/news'
     create: false
     fields:
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'info-page',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'News', name: 'news', widget: 'markdown' }
