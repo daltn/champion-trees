@@ -49,3 +49,10 @@ collections:
             ],
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+ - name: 'news'
+    label: 'News'
+    folder: 'src/pages/news'
+    create: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'News', name: 'news', widget: 'markdown' }
