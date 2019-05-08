@@ -53,6 +53,15 @@ class Navbar extends Component {
               <Link className="navbar-item" to="/info">
                 Information
               </Link>
+              <Link className="navbar-item" to="/contact">
+                Contact
+              </Link>
+              <a
+                href="https://www.americanforests.org/get-involved/americas-biggest-trees/"
+                className="navbar-item"
+              >
+                American Forests
+              </a>
               <Search />
             </div>
           </div>

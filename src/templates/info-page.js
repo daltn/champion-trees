@@ -11,7 +11,7 @@ export const InfoPageTemplate = ({ title, content, contentComponent }) => {
     <section className="section">
       <div className="container">
         <div className="content">
-          <h2 className="title is-size-3 has-text-weight-bold">{title}</h2>
+          <h2 className="title has-text-weight-bold">{title}</h2>
           <PageContent className="content" content={content} />
         </div>
       </div>

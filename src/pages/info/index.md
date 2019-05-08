@@ -4,7 +4,7 @@ path: /info
 title: Information
 ---
 
-# Mission Statement
+## Mission Statement
 
 Gathering Growth has partnered with American Forests to create a photographic archive of Champion Trees in the United States. Our commitment is to inspire and inform the public on the necessities of forest preservation and the importance of trees in our everyday lives.
 
@@ -25,7 +25,3 @@ The large format photographs, captured entirely by Kelley, provide an insight in
 Brian Kelley (b. 1988) is a photographer and archivist based in Brooklyn, NY. He received his B.F.A. in Photography from the School of Visual Arts in 2010 before further studying still-life photography under the mentorship of Allen Benedikt. Kelley’s photographic work has been featured in numerous publications, namely American Forests Magazine, American Photography-Issue 32, Victory Journal, Thrasher, Monster Children, among others. In 2016, he received the AIP Year of Photography and the PDN Object of Desire, Still-Life Photography Award.
 
 Kelley’s extensive work in still-life photography continues to support his artistic pursuit of providing to the cultural archive of American ephemera. Building on a variety of long-term projects, such as Gathering Growth - The Champion Tree Archive, the National Park Service Brochures Archive, and the Archive of NYCTA Artifacts resulting in a 356 page book, showcasing over 400 artifacts related to the NYC Subway. In 2017, Kelley began his Artist Residency with American Forests, leading him to receive a grant from the Ziff Foundation in 2018, to continue his work with the Champion Tree Archive.
-
-[brian@briankelley.nyc](mailto:brian@briankelley.nyc)
-
-[instagram.com/champion_trees](https://instagram.com/champion_trees/?hl=en)
