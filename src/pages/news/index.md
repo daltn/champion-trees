@@ -1,4 +1,6 @@
 ---
+templateKey: 'info-page'
+path: /contact
 title: News
 news: >-
   ## 2019
@@ -33,9 +35,4 @@ news: >-
 
   Booooooom - [\#TheCreatorsClass: Gathering Growth with Brian
   Kelley](https://www.booooooom.com/2017/12/13/thecreatorclass-gathering-growth-with-brian-kelley/)
-
-
-  Furthermore / From Equinox - [Master the summer: nurture your
-  passion](https://furthermore.equinox.com/articles/2018/06/allbirds-nurture-your-passion)
 ---
-

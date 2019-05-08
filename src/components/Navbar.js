@@ -53,6 +53,9 @@ class Navbar extends Component {
               <Link className="navbar-item" to="/info">
                 Information
               </Link>
+              <Link className="navbar-item" to="/news">
+                News
+              </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
