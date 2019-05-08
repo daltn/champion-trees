@@ -1,6 +1,6 @@
 ---
 templateKey: 'info-page'
-path: /contact
+path: /news
 title: News
 news: >-
   ## 2019
