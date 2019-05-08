@@ -61,4 +61,4 @@ collections:
           default: 'info-page',
         }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'News', name: 'news', widget: 'markdown' }
+      - { label: 'Links', name: 'links', widget: 'markdown' }
