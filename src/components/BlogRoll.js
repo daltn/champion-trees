@@ -18,17 +18,6 @@ class BlogRoll extends Component {
         });
   };
 
-  // displayYear = (currentYear) => {
-  // const prevYear = currentYear[idx - 1]
-  //   if (currentYear !== previousYear) {
-  //     return (
-  //       <div id="post" className="column is-2" key={post.id}>
-  //         <span className="is-block">{post.frontmatter.date}</span>
-  //       </div>
-  //     );
-  //   }
-  // };
-
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
