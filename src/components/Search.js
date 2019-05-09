@@ -14,7 +14,10 @@ class Search extends Component {
 
   render() {
     return (
-      <div>
+      <div className="content">
+        <label for="search">
+          <h2>Search</h2>
+        </label>
         <input
           className="search"
           type="text"
