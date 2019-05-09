@@ -29,7 +29,7 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-4">
+          <div className="column is-6">
             <Img fluid={image1.image.childImageSharp.fluid} alt={image1.alt} />
             <div className="has-text-weight-bold">
               National Champion: {title}
@@ -46,7 +46,7 @@ export const BlogPostTemplate = ({
               Total AF Points: {total_af_points} <br />
             </p>
           </div>
-          <div className="column is-8">
+          <div className="column is-6">
             <Img fluid={image2.image.childImageSharp.fluid} alt={image2.alt} />
             <PostContent content={content} />
           </div>
