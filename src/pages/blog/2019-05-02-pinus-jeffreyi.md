@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'Pinus jeffreyi '
 date: 2019-05-02T22:29:15.811Z
 common_name: Jeffrey Pine
-location: 'Huntington Lake, CA'
+location: 'Huntington Lake, California'
 crowned: '2018'
 photographed: '2018'
 circumference: 298”
@@ -17,10 +17,11 @@ image2:
   alt: pinus-02
   image: /img/pinus_jeffreyi_02.jpg
 ---
-![pinus-03](/img/pinus_jeffreyi_03.jpg "pinus-03")
 
-![pinus-04](/img/pinus_jeffreyi_04.jpg "pinus-04")
+![pinus-03](/img/pinus_jeffreyi_03.jpg 'pinus-03')
 
-![pinus-05](/img/pinus_jeffreyi_05.jpg "pinus-05")
+![pinus-04](/img/pinus_jeffreyi_04.jpg 'pinus-04')
 
-![pinus-06](/img/pinus_jeffreyi_06.jpg "pinus-06")
+![pinus-05](/img/pinus_jeffreyi_05.jpg 'pinus-05')
+
+![pinus-06](/img/pinus_jeffreyi_06.jpg 'pinus-06')

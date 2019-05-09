@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Larix Decidua
 date: 2019-04-30T22:24:36.538Z
 common_name: European Larch
-location: 'Greenwich, CT'
+location: 'Greenwich, Connecticut'
 crowned: '2014'
 photographed: '2018'
 circumference: 197”
@@ -17,4 +17,5 @@ image2:
   alt: larix-02
   image: /img/larix_decidua-02.jpg
 ---
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/586628022&color=%2351563a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

@@ -28,6 +28,7 @@ class BlogRoll extends Component {
           {posts &&
             posts.map(({ node: post }) => (
               <Fragment key={post.id}>
+                {console.log(post)}
                 <div id="post" className="column is-2" key={post.id}>
                   <section>
                     <p>
@@ -84,7 +85,9 @@ export default () => (
       query BlogRollQuery {
         allMarkdownRemark(
           sort: { order: ASC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+          filter: {
+            frontmatter: { templateKey: { in: ["blog-post", "alt-layout"] } }
+          }
         ) {
           edges {
             node {

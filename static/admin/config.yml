@@ -15,8 +15,9 @@ collections:
       - {
           label: 'Template Key',
           name: 'templateKey',
-          widget: 'hidden',
+          widget: 'select',
           default: 'blog-post',
+          options: ['blog-post', 'alt-layout'],
         }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }

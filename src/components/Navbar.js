@@ -38,6 +38,7 @@ class Navbar extends Component {
               to="/"
               className="navbar-item has-text-weight-bold"
               title="Logo"
+              id="logo"
             >
               Gathering Growth
             </Link>
@@ -48,7 +49,7 @@ class Navbar extends Component {
             </div>
           </div>
           <div id="navMenu" className="navbar-menu">
-            <div className="navbar-end">
+            <div className="navbar-start">
               <Link className="navbar-item" to="/info">
                 Information
               </Link>
