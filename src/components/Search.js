@@ -35,6 +35,9 @@ class Search extends Component {
                 <br />
                 {page.common_name}
                 <br />
+                Location:
+                <br />
+                {page.location}
               </p>
             </li>
           ))}
