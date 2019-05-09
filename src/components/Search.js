@@ -16,8 +16,8 @@ class Search extends Component {
     return (
       <div>
         <input
+          className="search"
           type="text"
-          placeholder="Search"
           value={this.state.query}
           onChange={this.search}
         />
