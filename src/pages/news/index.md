@@ -1,9 +1,7 @@
 ---
-templateKey: 'info-page'
-path: /news
+templateKey: info-page
 title: News
 ---
-
 ## 2019
 
 American Forests - [Our Champion Tree Archivist Brian Kelley Gives as
@@ -28,3 +26,5 @@ Trees](https://maekan.com/article/gathering-growth-with-brian-kelley/)
 
 Booooooom - [\#TheCreatorsClass: Gathering Growth with Brian
 Kelley](https://www.booooooom.com/2017/12/13/thecreatorclass-gathering-growth-with-brian-kelley/)
+
+Furthermore / From Equinox - [Master the summer: nurture your passion](https://furthermore.equinox.com/articles/2018/06/allbirds-nurture-your-passion)
