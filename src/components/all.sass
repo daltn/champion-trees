@@ -21,6 +21,10 @@ $black: #2b2523
   padding: 0 0
   margin-right: 6vw
 
+.column
+  padding: 0
+  padding-bottom: 30px
+
 a
   color: $black
 
@@ -85,7 +89,8 @@ a.has-text-weight-bold:hover
 .icon svg
   width: 1.5rem
   height: 1.5rem
-  fill: currentColor;
+  fill: currentColor
+
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
 
@@ -161,4 +166,11 @@ iframe
 
 li
   list-style-type: none
+
+@media screen and (min-device-width: 1088px)
+  .navbar-end
+    margin-left: 0
+  .navbar-item
+    margin-right: 7.75vw
+
 
