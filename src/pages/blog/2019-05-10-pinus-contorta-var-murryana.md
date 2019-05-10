@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Pinus contorta var. murryana
-date: 2019-05-06T23:32:23.274Z
+date: 2018-05-06T23:32:00.000Z
 common_name: Sierra Lodgepole Pine
 location: 'San Bernardino National Forest, California'
 crowned: '2018'
