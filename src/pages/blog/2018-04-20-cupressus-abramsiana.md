@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Cupressus abramsiana
-date: 2019-05-02T22:18:52.963Z
+date: 2018-04-20T22:18:52.963Z
 common_name: Santa Cruz Cypress
 location: 'Tilden Regional Park, California'
 crowned: '2016'
