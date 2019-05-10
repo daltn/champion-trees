@@ -31,9 +31,7 @@ class BlogRoll extends Component {
                 <div id="tree" className="column is-4" key={post.id}>
                   <section>
                     <p>
-                      <span className="is-block">
-                        {post.frontmatter.photographed}
-                      </span>
+                      <span className="is-block">{post.frontmatter.date}</span>
                       <Link
                         onMouseEnter={() => this.hoverToggle(post.id)}
                         onMouseLeave={() => this.hoverToggle(post.id)}
@@ -83,7 +81,7 @@ export default () => (
     query={graphql`
       query BlogRollQuery {
         allMarkdownRemark(
-          sort: { order: ASC, fields: [frontmatter___date] }
+          sort: { order: DESC, fields: [frontmatter___date] }
           filter: {
             frontmatter: { templateKey: { in: ["blog-post", "alt-layout"] } }
           }
@@ -98,7 +96,7 @@ export default () => (
                 title
                 templateKey
                 common_name
-                date(formatString: "MM-DD-YYYY")
+                date(formatString: "YYYY-MM-DD")
                 photographed
                 image1 {
                   alt

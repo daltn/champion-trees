@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Abies magnifica
-date: 2019-05-02T21:06:17.551Z
+date: 2018-04-22T21:06:17.551Z
 common_name: California Red Fir
 location: 'Yosemite National Park, California'
 crowned: '1999'
