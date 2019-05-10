@@ -2,10 +2,9 @@
 templateKey: info-page
 title: News
 ---
-
 ### 2019
 
-American Forests- [Our Champion Tree Archivist Brian Kelley Gives an
+American Forests - [Our Champion Tree Archivist Brian Kelley Gives an
 Update](https://www.americanforests.org/blog/our-champion-tree-archivist-brian-kelley-gives-an-update/)
 
 ### 2018
