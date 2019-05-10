@@ -35,12 +35,10 @@ class Search extends Component {
                     {page.title}
                   </Link>
                   <p>
-                    Common Name:
-                    <br />
+                    Common Name:{` `}
                     {page.common_name}
                     <br />
-                    Location:
-                    <br />
+                    Location:{` `}
                     {page.location}
                   </p>
                 </li>
