@@ -26,23 +26,25 @@ class Search extends Component {
             onChange={this.search}
           />
           <ul>
-            {this.state.results.map(page => (
-              <li className="searchResult" key={page.id}>
-                {console.log({ page })}
-                <Link className="has-text-weight-bold" to={'/' + page.slug}>
-                  {page.title}
-                </Link>
-                <p>
-                  Common Name:
-                  <br />
-                  {page.common_name}
-                  <br />
-                  Location:
-                  <br />
-                  {page.location}
-                </p>
-              </li>
-            ))}
+            {this.state.results
+              .filter(page => page.common_name !== undefined)
+              .map(page => (
+                <li className="searchResult" key={page.id}>
+                  {console.log({ page })}
+                  <Link className="has-text-weight-bold" to={'/' + page.slug}>
+                    {page.title}
+                  </Link>
+                  <p>
+                    Common Name:
+                    <br />
+                    {page.common_name}
+                    <br />
+                    Location:
+                    <br />
+                    {page.location}
+                  </p>
+                </li>
+              ))}
           </ul>
         </div>
       </Fragment>
