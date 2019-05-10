@@ -4,11 +4,11 @@ path: /info
 title: Information
 ---
 
-## Mission Statement
+### Mission Statement
 
 Gathering Growth has partnered with American Forests to create a photographic archive of Champion Trees in the United States. Our commitment is to inspire and inform the public on the necessities of forest preservation and the importance of trees in our everyday lives.
 
-## Champion Trees
+### Champion Trees
 
 Champion Trees are the largest of their species. In the U.S. there are 795 Champion Trees recorded by the environmental non-profit, American Forests. Surviving the ravages of human and nature, their lives spanning hundreds and even thousands of years, these silent sentinels have watched history unfold around them.
 

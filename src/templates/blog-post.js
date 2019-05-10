@@ -28,7 +28,7 @@ export const BlogPostTemplate = ({
     <section className="section">
       {helmet || ''}
       <div className="container content">
-        <div className="columns">
+        <div className="columns is-multiline">
           <div className="column is-6">
             <Img fluid={image1.image.childImageSharp.fluid} alt={image1.alt} />
             <div className="has-text-weight-bold">

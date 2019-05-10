@@ -49,12 +49,9 @@ class Navbar extends Component {
             </div>
           </div>
           <div id="navMenu" className="navbar-menu">
-            <div className="navbar-start">
+            <div className="navbar-end">
               <Link className="navbar-item" to="/info">
                 Information
-              </Link>
-              <Link className="navbar-item" to="/search">
-                Search
               </Link>
               <Link className="navbar-item" to="/news">
                 News
@@ -68,6 +65,9 @@ class Navbar extends Component {
               >
                 American Forests
               </a>
+              <Link className="navbar-item" to="/search">
+                Search
+              </Link>
             </div>
           </div>
         </div>

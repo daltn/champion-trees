@@ -10,9 +10,12 @@ export const InfoPageTemplate = ({ title, content, contentComponent }) => {
   return (
     <section className="section">
       <div className="container">
-        <div className="content">
-          <h2>{title}</h2>
-          <PageContent className="content" content={content} />
+        <div className="columns">
+          <div className="content column is-2">
+            <h2>{title}</h2>
+          </div>
+          <br />
+          <PageContent className="content column is-6" content={content} />
         </div>
       </div>
     </section>

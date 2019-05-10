@@ -3,12 +3,12 @@ templateKey: info-page
 title: News
 ---
 
-## 2019
+### 2019
 
-American Forests - [Our Champion Tree Archivist Brian Kelley Gives as
+American Forests- [Our Champion Tree Archivist Brian Kelley Gives as
 Update](https://www.americanforests.org/blog/our-champion-tree-archivist-brian-kelley-gives-an-update/)
 
-## 2018
+### 2018
 
 Kodak - [The Kodakery, Episode 115: Photographing Champion Trees with Brian
 Kelley](https://www.kodak.com/corp/region/changeregion/?blitz=off&hash=?contentid=4295011596)
