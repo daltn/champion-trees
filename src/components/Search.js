@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 import { graphql, StaticQuery, Link } from 'gatsby';
 import { Index } from 'elasticlunr';
 
@@ -14,33 +14,37 @@ class Search extends Component {
 
   render() {
     return (
-      <div className="content">
-        <h2>Search</h2>
-        <input
-          className="search"
-          type="text"
-          value={this.state.query}
-          onChange={this.search}
-        />
-        <ul>
-          {this.state.results.map(page => (
-            <li className="searchResult" key={page.id}>
-              <Link className="has-text-weight-bold" to={'/' + page.slug}>
-                {page.title}
-              </Link>
-              <p>
-                Common Name:
-                <br />
-                {page.common_name}
-                <br />
-                Location:
-                <br />
-                {page.location}
-              </p>
-            </li>
-          ))}
-        </ul>
-      </div>
+      <Fragment>
+        <div className="content column is-2">
+          <h2>Search</h2>
+        </div>
+        <div className="contentcolumn is-6">
+          <input
+            className="search"
+            type="text"
+            value={this.state.query}
+            onChange={this.search}
+          />
+          <ul>
+            {this.state.results.map(page => (
+              <li className="searchResult" key={page.id}>
+                <Link className="has-text-weight-bold" to={'/' + page.slug}>
+                  {page.title}
+                </Link>
+                <p>
+                  Common Name:
+                  <br />
+                  {page.common_name}
+                  <br />
+                  Location:
+                  <br />
+                  {page.location}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </Fragment>
     );
   }
   getOrCreateIndex = () =>

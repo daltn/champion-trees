@@ -9,7 +9,9 @@ export default class SearchIndexPage extends Component {
       <Layout>
         <section className="section">
           <div className="container">
-            <Search />
+            <div className="columns">
+              <Search />
+            </div>
           </div>
         </section>
       </Layout>
