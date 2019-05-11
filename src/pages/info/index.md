@@ -23,3 +23,9 @@ The large format photographs, captured entirely by Kelley, provide an insight in
 ### More About Brian Kelley
 
 Brian Kelley (b. 1988) moved to New York City in 2006 and received his BFA in photography from the School of Visual Arts. Kelley’s work resists the hurried march of consumerist modernity, seeking to halt the cyclical emptiness of our material lives to capture a sense of culture at “the end of history.” A mixed-media approach has allowed him to pursue artwork with disruptive capacities—exhaustive research, slow & meditative composition, and the repurposing of photographic mediums—all employed to reveal the artifacts left behind by the precession of simulacra. Kelley was born in Horseheads, NY and currently lives in Lumberland, NY.
+
+### Connect with Us
+
+[Instagram](https://www.instagram.com/champion_trees/)
+
+[Soundcloud](https://soundcloud.com/user-954267106)
