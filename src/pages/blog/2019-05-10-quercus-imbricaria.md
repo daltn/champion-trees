@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Quercus imbricaria
-date: 2019-05-11T01:24:36.566Z
+date: 2018-07-03T01:24:00.000Z
 common_name: Shingle Oak
 location: 'Vinton County, Ohio'
 crowned: '2014'
