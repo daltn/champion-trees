@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Populus balsamifera ssp. trichocarpa
-date: 2018-05-09T23:39:54.809Z
+date: 2018-08-09T23:39:00.000Z
 common_name: Black Cottonwood
 location: 'Willamette Mission State Park, Oregon'
 crowned: '1982'
