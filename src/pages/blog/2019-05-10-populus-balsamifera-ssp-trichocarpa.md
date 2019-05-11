@@ -1,5 +1,5 @@
 ---
-templateKey: alt-layout
+templateKey: blog-post
 title: Populus balsamifera ssp. trichocarpa
 date: 2018-05-09T23:39:54.809Z
 common_name: Black Cottonwood
