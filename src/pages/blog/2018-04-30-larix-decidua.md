@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Larix Decidua
-date: 2018-04-30T22:24:36.538Z
+date: 2018-05-11T22:24:00.000Z
 common_name: European Larch
 location: 'Greenwich, Connecticut'
 crowned: '2014'
