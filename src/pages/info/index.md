@@ -26,6 +26,8 @@ Brian Kelley (b. 1988) moved to New York City in 2006 and received his BFA in ph
 
 ### Connect with Us
 
-[Instagram](https://www.instagram.com/champion_trees/)
-
-[Soundcloud](https://soundcloud.com/user-954267106)
+<a href="https://www.instagram.com/champion_trees/" target="blank" rel="noopener noreferrer" >
+<img src="./instagram-icon.svg" width=50 alt="instagram" class="icons"></a>
+&nbsp; &nbsp;
+<a href="https://soundcloud.com/user-954267106" target="blank" rel="noopener noreferrer">
+<img src="./soundcloud.svg" width=50 alt="soundcloud" class="icons"></a>
