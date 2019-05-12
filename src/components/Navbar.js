@@ -62,6 +62,8 @@ class Navbar extends Component {
               <a
                 href="https://www.americanforests.org/get-involved/americas-biggest-trees/"
                 className="navbar-item"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 American Forests
               </a>

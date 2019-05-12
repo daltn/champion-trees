@@ -2,21 +2,23 @@
 templateKey: info-page
 title: News
 ---
+
 ### 2019
 
-American Forests - [Our Champion Tree Archivist Brian Kelley Gives an
-Update](https://www.americanforests.org/blog/our-champion-tree-archivist-brian-kelley-gives-an-update/)
+American Forests -
+<a href="https://www.americanforests.org/blog/our-champion-tree-archivist-brian-kelley-gives-an-update/" target="blank" rel="noopener noreferrer"> Our Champion Tree Archivist Brian Kelley Gives an
+Update</a>
 
 ### 2018
 
 Kodak - [The Kodakery, Episode 115: Photographing Champion Trees with Brian
-Kelley](https://www.kodak.com/corp/region/changeregion/?blitz=off&hash=?contentid=4295011596)
+Kelley](https://www.kodak.com/corp/podcast/podcastepisode/?contentid=4295011596)
 
 American Forests - [Champion Tree Trek: Gettysburg,
 Pennsylvania](https://www.americanforests.org/recreation/champion-tree-trek-gettysburg-pennsylvania/?msource=18enews11&tr=y&auid=17593293)
 
 American Forests - [Introducing Brian Kelley, Champion Tree
-Archivist](https://www.americanforests.org/blog/introducing-brian-kelley-champion-tree-archivist/)
+Archivist](https://www.americanforests.org/blog/introducing-brian-kelley-champion-tree-archivist)
 
 Atlas Obscura - [The Quiet Glory of Chronicling America’s Champion
 Trees](https://www.atlasobscura.com/articles/brian-kelley-photographer-national-champion-trees-american-forests)
