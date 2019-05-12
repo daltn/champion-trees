@@ -32,7 +32,7 @@ Maekan -
 Trees</a>
 
 Booooooom - 
-<a href="https://maekan.com/article/gathering-growth-with-brian-kelley/" target="blank" rel="noopener noreferrer">\#TheCreatorsClass: Gathering Growth with Brian
+<a href="https://www.booooooom.com/2017/12/13/thecreatorclass-gathering-growth-with-brian-kelley/" target="blank" rel="noopener noreferrer">\#TheCreatorsClass: Gathering Growth with Brian
 Kelley</a>
 
 Furthermore / From Equinox - 
