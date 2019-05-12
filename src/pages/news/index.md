@@ -5,28 +5,35 @@ title: News
 
 ### 2019
 
-American Forests -
+American Forests - 
 <a href="https://www.americanforests.org/blog/our-champion-tree-archivist-brian-kelley-gives-an-update/" target="blank" rel="noopener noreferrer"> Our Champion Tree Archivist Brian Kelley Gives an
 Update</a>
 
 ### 2018
 
-Kodak - [The Kodakery, Episode 115: Photographing Champion Trees with Brian
-Kelley](https://www.kodak.com/corp/podcast/podcastepisode/?contentid=4295011596)
+Kodak - 
+<a href="https://www.kodak.com/corp/podcast/podcastepisode/?contentid=4295011596" target="blank" rel="noopener noreferrer"> The Kodakery, Episode 115: Photographing Champion Trees with Brian
+Kelley</a>
 
-American Forests - [Champion Tree Trek: Gettysburg,
-Pennsylvania](https://www.americanforests.org/recreation/champion-tree-trek-gettysburg-pennsylvania/?msource=18enews11&tr=y&auid=17593293)
+American Forests - 
+<a href="https://www.americanforests.org/recreation/champion-tree-trek-gettysburg-pennsylvania/?msource=18enews11&tr=y&auid=17593293" target="blank" rel="noopener noreferrer"> Champion Tree Trek: Gettysburg, Pennsylvania</a>
 
-American Forests - [Introducing Brian Kelley, Champion Tree
-Archivist](https://www.americanforests.org/blog/introducing-brian-kelley-champion-tree-archivist)
 
-Atlas Obscura - [The Quiet Glory of Chronicling America’s Champion
-Trees](https://www.atlasobscura.com/articles/brian-kelley-photographer-national-champion-trees-american-forests)
+American Forests - 
+<a href="https://www.americanforests.org/blog/introducing-brian-kelley-champion-tree-archivist" target="blank" rel="noopener noreferrer">Introducing Brian Kelley, Champion Tree
+Archivist</a>
 
-Maekan - [Gathering Growth - Documenting the Champion
-Trees](https://maekan.com/article/gathering-growth-with-brian-kelley/)
+Atlas Obscura - 
+<a href="https://www.atlasobscura.com/articles/brian-kelley-photographer-national-champion-trees-american-forests" target="blank" rel="noopener noreferrer">The Quiet Glory of Chronicling America’s Champion
+Trees</a>
 
-Booooooom - [\#TheCreatorsClass: Gathering Growth with Brian
-Kelley](https://www.booooooom.com/2017/12/13/thecreatorclass-gathering-growth-with-brian-kelley/)
+Maekan - 
+<a href="https://maekan.com/article/gathering-growth-with-brian-kelley/" target="blank" rel="noopener noreferrer">Gathering Growth - Documenting the Champion
+Trees</a>
 
-Furthermore / From Equinox - [Master the summer: nurture your passion](https://furthermore.equinox.com/articles/2018/06/allbirds-nurture-your-passion)
+Booooooom - 
+<a href="https://maekan.com/article/gathering-growth-with-brian-kelley/" target="blank" rel="noopener noreferrer">\#TheCreatorsClass: Gathering Growth with Brian
+Kelley</a>
+
+Furthermore / From Equinox - 
+<a href="https://furthermore.equinox.com/articles/2018/06/allbirds-nurture-your-passion" target="blank" rel="noopener noreferrer">Master the summer: nurture your passion</a>
