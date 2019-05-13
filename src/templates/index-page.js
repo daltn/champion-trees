@@ -7,6 +7,7 @@ export const IndexPageTemplate = () => (
     <section className="section">
       <div className="container">
         <BlogRoll />
+        {console.log('👽 dev by https://pulse-code.com/')}
       </div>
     </section>
   </div>

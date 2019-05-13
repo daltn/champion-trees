@@ -30,7 +30,7 @@ class Search extends Component {
               .filter(page => page.common_name !== undefined)
               .map(page => (
                 <li className="searchResult" key={page.id}>
-                  <Link className="has-text-weight-bold" to={'/' + page.slug}>
+                  <Link className="has-text-weight-bold" to={page.slug}>
                     {page.title}
                   </Link>
                   <p>
