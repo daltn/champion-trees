@@ -19,6 +19,14 @@ collections:
           default: 'blog-post',
           options: ['blog-post', 'alt-layout'],
         }
+      - {
+          label: 'Title Type',
+          name: 'title_type',
+          widget: 'select',
+          default: 'National Champion:',
+          options:
+            ['National Champion:', 'Former Champion:', 'National Co Champion:'],
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Common Name', name: 'common_name', widget: 'string' }

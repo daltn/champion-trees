@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+title_type: 'National Champion:'
 title: Abies magnifica
 date: 2018-07-22T21:06:00.000Z
 common_name: California Red Fir
@@ -17,10 +18,11 @@ image2:
   alt: abies-02
   image: /img/abies_magnifica_02.jpg
 ---
-![abies-03](/img/abies_magnifica_03.jpg "abies-03")
+
+![abies-03](/img/abies_magnifica_03.jpg 'abies-03')
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/573445353&color=%23585244&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-![abies-04](/img/abies_magnifica_04.jpg "abies-04")
+![abies-04](/img/abies_magnifica_04.jpg 'abies-04')
 
-![abies-05](/img/abies_magnifica_05.jpg "abies-05")
+![abies-05](/img/abies_magnifica_05.jpg 'abies-05')

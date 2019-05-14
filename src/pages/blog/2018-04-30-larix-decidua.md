@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+title_type: 'National Champion:'
 title: Larix Decidua
 date: 2018-05-11T22:24:00.000Z
 common_name: European Larch

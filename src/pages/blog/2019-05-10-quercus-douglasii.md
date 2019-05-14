@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+title_type: 'National Champion:'
 title: 'Quercus douglasii '
 date: 2018-05-10T00:35:00.000Z
 common_name: Blue Oak
@@ -17,6 +18,7 @@ image2:
   alt: Blue Oak 02
   image: /img/quercus_douglasii_02.jpg
 ---
-![Blue Oak 03](/img/quercus_douglasii_03.jpg "Blue Oak 03")
 
-![Blue Oak 04](/img/quercus_douglasii_04.jpg "Blue Oak 04")
+![Blue Oak 03](/img/quercus_douglasii_03.jpg 'Blue Oak 03')
+
+![Blue Oak 04](/img/quercus_douglasii_04.jpg 'Blue Oak 04')

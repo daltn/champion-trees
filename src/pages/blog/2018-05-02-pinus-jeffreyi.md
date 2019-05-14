@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+title_type: 'National Champion:'
 title: 'Pinus jeffreyi '
 date: 2018-05-02T22:29:15.811Z
 common_name: Jeffrey Pine

@@ -10,6 +10,7 @@ export const AltLayoutTemplate = ({
   content,
   contentComponent,
   common_name,
+  title_type,
   title,
   helmet,
   location,
@@ -32,7 +33,9 @@ export const AltLayoutTemplate = ({
           <div className="column is-8">
             <Img fluid={image1.image.childImageSharp.fluid} alt={image1.alt} />
             <div className="has-text-weight-bold">
-              National Champion: {title}
+              {title_type}
+              {` `}
+              {title}
             </div>
             <p>
               Common Name: {common_name} <br />
@@ -59,6 +62,7 @@ export const AltLayoutTemplate = ({
 AltLayoutTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
+  title_type: PropTypes.string,
   common_name: PropTypes.string,
   location: PropTypes.string,
   crowned: PropTypes.string,
@@ -89,6 +93,7 @@ const AltLayout = ({ data }) => {
             />
           </Helmet>
         }
+        title_type={post.frontmatter.title_type}
         title={post.frontmatter.title}
         common_name={post.frontmatter.common_name}
         location={post.frontmatter.location}
@@ -120,6 +125,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
+        title_type
         title
         common_name
         location
@@ -133,7 +139,7 @@ export const pageQuery = graphql`
           alt
           image {
             childImageSharp {
-              fluid(maxWidth: 2000, quality: 100) {
+              fluid(maxWidth: 1000, quality: 70) {
                 ...GatsbyImageSharpFluid
               }
             }
@@ -143,7 +149,7 @@ export const pageQuery = graphql`
           alt
           image {
             childImageSharp {
-              fluid(maxWidth: 2000, quality: 100) {
+              fluid(maxWidth: 1000, quality: 70) {
                 ...GatsbyImageSharpFluid
               }
             }

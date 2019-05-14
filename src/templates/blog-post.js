@@ -10,6 +10,7 @@ export const BlogPostTemplate = ({
   content,
   contentComponent,
   common_name,
+  title_type,
   title,
   helmet,
   location,
@@ -32,7 +33,9 @@ export const BlogPostTemplate = ({
           <div className="column is-6">
             <Img fluid={image1.image.childImageSharp.fluid} alt={image1.alt} />
             <div className="has-text-weight-bold">
-              National Champion: {title}
+              {title_type}
+              {` `}
+              {title}
             </div>
             <p>
               Common Name: {common_name} <br />
@@ -60,6 +63,7 @@ BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   common_name: PropTypes.string,
+  title_type: PropTypes.string,
   location: PropTypes.string,
   crowned: PropTypes.string,
   photographed: PropTypes.string,
@@ -89,6 +93,7 @@ const BlogPost = ({ data }) => {
             />
           </Helmet>
         }
+        title_type={post.frontmatter.title_type}
         title={post.frontmatter.title}
         common_name={post.frontmatter.common_name}
         location={post.frontmatter.location}
@@ -120,6 +125,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
+        title_type
         title
         common_name
         location
