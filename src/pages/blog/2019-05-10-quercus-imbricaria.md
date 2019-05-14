@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title_type: 'National Champion:'
+title_type: 'National Co Champion:'
 title: Quercus imbricaria
 date: 2018-07-03T01:24:00.000Z
 common_name: Shingle Oak
