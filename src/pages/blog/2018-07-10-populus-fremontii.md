@@ -2,7 +2,7 @@
 templateKey: blog-post
 title_type: 'National Champion:'
 title: Populus fremontii
-date: 2018-07-11T00:25:00.000Z
+date: 2018-07-10T00:25:00.000Z
 common_name: Fremont Cottonwood
 location: 'Yavapai, Arizona'
 crowned: '2012'
