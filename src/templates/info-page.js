@@ -11,11 +11,10 @@ export const InfoPageTemplate = ({ title, content, contentComponent }) => {
     <section className="section">
       <div className="container">
         <div className="columns">
-          <div className="content column is-2">
+          <div className="content column is-6">
             <h2>{title}</h2>
+            <PageContent content={content} />
           </div>
-          <br />
-          <PageContent className="content column is-6" content={content} />
         </div>
       </div>
     </section>

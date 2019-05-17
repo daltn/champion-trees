@@ -15,10 +15,8 @@ class Search extends Component {
   render() {
     return (
       <Fragment>
-        <div className="content column is-2">
+        <div className="content column is-6">
           <h2>Search</h2>
-        </div>
-        <div className="contentcolumn is-6">
           <input
             className="search"
             type="text"
@@ -31,6 +29,8 @@ class Search extends Component {
               .map(page => (
                 <li className="searchResult" key={page.id}>
                   <Link className="has-text-weight-bold" to={page.slug}>
+                    {page.title_type}
+                    {` `}
                     {page.title}
                   </Link>
                   <p>

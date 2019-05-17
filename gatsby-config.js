@@ -66,6 +66,7 @@ module.exports = {
         // Fields to index
         fields: [
           `title`,
+          `title_type`,
           `common_name`,
           `location`,
           `crowned`,
@@ -77,6 +78,7 @@ module.exports = {
           // For any node of type MarkdownRemark, list how to resolve the fields` values
           MarkdownRemark: {
             title: node => node.frontmatter.title,
+            title_type: node => node.frontmatter.title_type,
             common_name: node => node.frontmatter.common_name,
             location: node => node.frontmatter.location,
             crowned: node => node.frontmatter.crowned,
