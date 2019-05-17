@@ -75,7 +75,7 @@ Project Manager
 ### Connect With Us
 
 <a href="https://www.instagram.com/champion_trees/" target="blank" rel="noopener noreferrer" >
-<img src="./instagram-icon.svg" width=50 alt="instagram" class="icons"></a>
+<img src="./instagram-icon.svg" width=25 alt="instagram" class="icons"></a>
 &nbsp; &nbsp;
 <a href="https://soundcloud.com/user-954267106" target="blank" rel="noopener noreferrer">
-<img src="./soundcloud.svg" width=50 alt="soundcloud" class="icons"></a>
+<img src="./soundcloud.svg" width=25 alt="soundcloud" class="icons"></a>
