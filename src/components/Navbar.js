@@ -50,14 +50,11 @@ class Navbar extends Component {
           </div>
           <div id="navMenu" className="navbar-menu">
             <div className="navbar-end">
+              <Link className="navbar-item" to="/search">
+                Search
+              </Link>
               <Link className="navbar-item" to="/info">
                 Information
-              </Link>
-              <Link className="navbar-item" to="/news">
-                News
-              </Link>
-              <Link className="navbar-item" to="/contact">
-                Contact
               </Link>
               <a
                 href="https://www.americanforests.org/get-involved/americas-biggest-trees/"
@@ -67,9 +64,6 @@ class Navbar extends Component {
               >
                 American Forests
               </a>
-              <Link className="navbar-item" to="/search">
-                Search
-              </Link>
             </div>
           </div>
         </div>
