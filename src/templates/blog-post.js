@@ -31,7 +31,17 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns is-multiline">
           <div className="column is-6">
-            <Img fluid={image1.image.childImageSharp.fluid} alt={image1.alt} />
+            <a
+              href={image1.image.childImageSharp.fluid.src}
+              target="blank"
+              rel="noopener noreferrer"
+            >
+              <Img
+                fluid={image1.image.childImageSharp.fluid}
+                alt={image1.alt}
+              />
+            </a>
+
             <div className="has-text-weight-bold">
               {title_type}
               {` `}
@@ -40,8 +50,8 @@ export const BlogPostTemplate = ({
             <p>
               Common Name: {common_name} <br />
               Location: {location} <br />
-              Year crowned: {crowned} <br />
-              Year photographed: {photographed} <br />
+              Year Crowned: {crowned} <br />
+              Year Photographed: {photographed} <br />
               - <br />
               Circumference: {circumference} <br />
               Height: {height} <br />
@@ -50,7 +60,16 @@ export const BlogPostTemplate = ({
             </p>
           </div>
           <div className="column is-6">
-            <Img fluid={image2.image.childImageSharp.fluid} alt={image2.alt} />
+            <a
+              href={image2.image.childImageSharp.fluid.src}
+              target="blank"
+              rel="noopener noreferrer"
+            >
+              <Img
+                fluid={image2.image.childImageSharp.fluid}
+                alt={image2.alt}
+              />
+            </a>
             <PostContent content={content} />
           </div>
         </div>
