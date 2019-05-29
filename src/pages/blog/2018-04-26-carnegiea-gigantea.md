@@ -19,6 +19,7 @@ image2:
   image: /img/carnegiea-gigantea_02.jpg
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/571188039&color=%235c5236&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-![carne-03](/img/carnegiea-gigantea_03.jpg 'carne-03')
+![carne-03](/img/carnegiea-gigantea_03.jpg "carne-03")
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/626534823&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

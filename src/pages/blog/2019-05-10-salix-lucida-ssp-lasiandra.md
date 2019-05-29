@@ -18,11 +18,10 @@ image2:
   alt: pacific willow 02
   image: /img/salix_lucida_ssp_lasiandra_01.jpg
 ---
+![pacific willow 3](/img/salix_lucida_ssp_lasiandra_03.jpg "pacific willow 3")
 
-![pacific willow 3](/img/salix_lucida_ssp_lasiandra_03.jpg 'pacific willow 3')
+![pacific willow 4](/img/salix_lucida_ssp_lasiandra_04.jpg "pacific willow 4")
 
-![pacific willow 4](/img/salix_lucida_ssp_lasiandra_04.jpg 'pacific willow 4')
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/626529444&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/571273338&color=%23505a38&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-![pacific willow 5](/img/salix_lucida_ssp_lasiandra_05.jpg 'pacific willow 5')
+![pacific willow 5](/img/salix_lucida_ssp_lasiandra_05.jpg "pacific willow 5")
