@@ -8,7 +8,7 @@ export const InfoPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <section className="section">
+    <section className="section mainContainer">
       <div className="container">
         <div className="columns">
           <div className="content column is-6">
