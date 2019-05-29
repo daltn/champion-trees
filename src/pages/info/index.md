@@ -62,14 +62,11 @@ Furthermore / From Equinox -
 
 ## Contact
 
-### Brian Kelley  
+Brian Kelley <br />
+Gathering Growth Photographer & Archivist <br />
 
-Gathering Growth Photographer & Archivist
-
-### Sara Meghdari
-
-Project Manager
-
+Sara Meghdari <br />
+Project Manager <br />
 [gatheringgrowth@gmail.com ](mailto:gatheringgrowth@gmail.com)
 
 ### Connect With Us
