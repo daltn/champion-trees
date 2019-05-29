@@ -26,7 +26,7 @@ export const AltLayoutTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
+    <section className="section trees">
       {helmet || ''}
       <div className="container content">
         <div className="columns">
@@ -139,7 +139,7 @@ export const pageQuery = graphql`
           alt
           image {
             childImageSharp {
-              fluid(maxWidth: 1000, quality: 70) {
+              fluid(maxWidth: 2000, quality: 70) {
                 ...GatsbyImageSharpFluid
               }
             }
@@ -149,7 +149,7 @@ export const pageQuery = graphql`
           alt
           image {
             childImageSharp {
-              fluid(maxWidth: 1000, quality: 70) {
+              fluid(maxWidth: 2000, quality: 70) {
                 ...GatsbyImageSharpFluid
               }
             }
