@@ -50,6 +50,7 @@ class BlogRoll extends Component {
                   </section>
                   <div className="imageContainer">
                     <Img
+                      imgStyle={{ paddingTop: `0px` }}
                       className={
                         this.state.hover === post.id ? 'idxImgHover' : 'idxImg'
                       }
