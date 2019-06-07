@@ -1,9 +1,7 @@
 ---
-templateKey: 'info-page'
-path: /info
+templateKey: info-page
 title: Information
 ---
-
 ### Mission Statement
 
 Gathering Growth has partnered with American Forests to create a photographic archive of Champion Trees in the United States. Our commitment is to inspire and inform the public on the necessities of forest preservation and the importance of trees in our everyday lives.
@@ -27,6 +25,8 @@ Brian Kelley (b. 1988) moved to New York City in 2006 and received his BFA in ph
 ## News
 
 ### 2019
+
+International Center of Photography - <a href="https://www.icp.org/events/icp-projected-gathering-growth" target="blank" rel="noopener noreferrer"> ICP Projected: Gathering Growth</a>
 
 American Forests -
 <a href="https://www.americanforests.org/blog/our-champion-tree-archivist-brian-kelley-gives-an-update/" target="blank" rel="noopener noreferrer"> Our Champion Tree Archivist Brian Kelley Gives an
@@ -54,7 +54,7 @@ Maekan -
 Trees</a>
 
 Booooooom -
-<a href="https://www.booooooom.com/2017/12/13/thecreatorclass-gathering-growth-with-brian-kelley/" target="blank" rel="noopener noreferrer">\#TheCreatorsClass: Gathering Growth with Brian
+<a href="https://www.booooooom.com/2017/12/13/thecreatorclass-gathering-growth-with-brian-kelley/" target="blank" rel="noopener noreferrer">#TheCreatorsClass: Gathering Growth with Brian
 Kelley</a>
 
 Furthermore / From Equinox -
@@ -64,11 +64,11 @@ Furthermore / From Equinox -
 
 **Brian Kelley** <br />
 Gathering Growth Photographer & Archivist <br />
-[b.kelley@gatheringgrowth.com](mailto:b.kelley@gatheringgrowth.com)
+<mailto:b.kelley@gatheringgrowth.com>
 
 **Sara Meghdari** <br />
 Project Manager <br />
-[s.meghdari@gatheringgrowth.com](mailto:s.meghdari@gatheringgrowth.com)
+<mailto:s.meghdari@gatheringgrowth.com>
 
 ### Connect With Us
 
