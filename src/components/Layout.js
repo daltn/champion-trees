@@ -25,6 +25,8 @@ const TemplateWrapper = ({ children }) => (
             name="description"
             content={data.site.siteMetadata.description}
           />
+          <meta name="image" content={data.site.siteMetadata.image} />
+          <meta name="url" content={data.site.siteMetadata.url} />
 
           <link
             rel="apple-touch-icon"
@@ -47,10 +49,10 @@ const TemplateWrapper = ({ children }) => (
           <link rel="mask-icon" href="/img/favicon-32x32.png" color="#ff4400" />
           <meta name="theme-color" content="#fff" />
 
-          <meta property="og:type" content="business.business" />
+          <meta property="og:type" content="photographic.archive" />
           <meta property="og:title" content={data.site.siteMetadata.title} />
-          <meta property="og:url" content="/" />
-          <meta property="og:image" content="/img/og-image.jpg" />
+          <meta property="og:url" content={data.site.siteMetadata.url} />
+          <meta property="og:image" content={data.site.siteMetadata.image} />
         </Helmet>
         <Navbar />
         <div className="marginTop">{children}</div>

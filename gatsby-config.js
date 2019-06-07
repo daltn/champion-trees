@@ -2,7 +2,10 @@ module.exports = {
   siteMetadata: {
     title: 'Gathering Growth',
     description:
-      'United States Champion Tree Archive, Gathering Growth in partnership with American Forests, owner of the National Champion Tree Program',
+      'Gathering Growth has partnered with American Forests to create a photographic archive of Champion Trees in the United States.',
+    image:
+      'https://www.gatheringgrowth.com/static/c14cc47c9202c785ba2d20b350f30a47/a1369/acer_macrophyllum_01.jpg',
+    url: 'https://www.gatheringgrowth.com/',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
