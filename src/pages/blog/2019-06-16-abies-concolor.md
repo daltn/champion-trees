@@ -2,7 +2,7 @@
 templateKey: blog-post
 title_type: 'National Champion:'
 title: Abies concolor var. lowiana
-date: 2019-06-16T18:36:16.198Z
+date: 2018-10-30T18:36:00.000Z
 common_name: California White Fir
 location: 'Yosemite National Park, CA'
 crowned: '2018'
