@@ -7,9 +7,9 @@ common_name: Gray Pine
 location: 'Bright Star Wilderness, California.'
 crowned: '2015'
 photographed: '2018'
-circumference: '204'
-height: '118'
-crown_spread: '86'
+circumference: 204"
+height: 118'
+crown_spread: 86'
 total_af_points: '344'
 image1:
   alt: sabiniana-01
