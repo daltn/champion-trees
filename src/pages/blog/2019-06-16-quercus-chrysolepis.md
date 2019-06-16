@@ -22,8 +22,6 @@ image2:
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/602499501&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-
-
 ![chrysolepis-03](/img/5133_quercus_chrysolepis_canyon_live_oak_oak_glen_california_11-11-2018_american_forests_brian_kelley_gall_wasp.jpg)
 
 ![chrysolepis-04](/img/5133_quercus_chrysolepis_canyon_live_oak_oak_glen_california_11-11-2018_american_forests_brian_kelley_leaf_1.jpg)
