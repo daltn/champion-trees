@@ -24,6 +24,8 @@ image2:
 
 ![procera-04](/img/6284_abies_procera_national_champion_noble_fir_gifford_pinchot_national_forest_washington_september_30_208_american_forests_brian_kelley_3.jpg)
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/606029916&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 ![procera-05](/img/6284_abies_procera_national_champion_noble_fir_gifford_pinchot_national_forest_washington_september_30_208_american_forests_brian_kelley_2.jpg)
 
 ![procera-06](/img/6284_abies_procera_national_champion_noble_fir_gifford_pinchot_national_forest_washington_september_30_208_american_forests_brian_kelley_scale.jpg)
