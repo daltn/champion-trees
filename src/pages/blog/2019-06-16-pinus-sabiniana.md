@@ -20,11 +20,11 @@ image2:
   image: >-
     /img/3240_pinus_sabiniana_gray_pine_national_champion_bright_start_wilderness_california_10-19-2018_american_forests_brian_kelley_base.jpg
 ---
-![sabiniana-03](/img/3240_pinus_sabiniana_gray_pine_national_champion_bright_start_wilderness_california_10-19-2018_american_forests_brian_kelley_3.jpg)
+![sabiniana-03](/img/3240_pinus_sabiniana_gray_pine_national_champion_bright_start_wilderness_california_10-19-2018_american_forests_brian_kelley_detail.jpg)
 
 ![sabiniana-04](/img/3240_pinus_sabiniana_gray_pine_national_champion_bright_start_wilderness_california_10-19-2018_american_forests_brian_kelley_1.jpg)
 
-![sabiniana-05](/img/3240_pinus_sabiniana_gray_pine_national_champion_bright_start_wilderness_california_10-19-2018_american_forests_brian_kelley_detail.jpg)
+![sabiniana-05](/img/3240_pinus_sabiniana_gray_pine_national_champion_bright_start_wilderness_california_10-19-2018_american_forests_brian_kelley_3.jpg)
 
 ![sabiniana-06](/img/3240_pinus_sabiniana_gray_pine_national_champion_bright_start_wilderness_california_10-19-2018_american_forests_brian_kelley_scale.jpg)
 
