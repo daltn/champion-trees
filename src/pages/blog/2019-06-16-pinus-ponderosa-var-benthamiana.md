@@ -7,9 +7,9 @@ common_name: Pacific Ponderosa Pine
 location: 'Eldorado National Forest, California'
 crowned: '2008'
 photographed: '2018'
-circumference: '324'
-height: '235'
-crown_spread: '66'
+circumference: 324"
+height: 235'
+crown_spread: 66'
 total_af_points: '576'
 image1:
   alt: Pinus-01
