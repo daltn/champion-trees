@@ -7,9 +7,9 @@ common_name: Toyon
 location: 'Gaviota, California'
 crowned: '2015'
 photographed: '2018'
-circumference: 58"
-height: 32'
-crown_spread: 28'
+circumference: '5'
+height: '32'
+crown_spread: '28'
 total_af_points: '97'
 image1:
   alt: Heteromeles-01
