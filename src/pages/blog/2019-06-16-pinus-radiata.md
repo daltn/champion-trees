@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title_type: 'National Champion:'
-title: Pinus Radiata
+title: Pinus radiata
 date: 2018-10-09T21:08:00.000Z
 common_name: Monterey Pine
 location: 'Fortuna, California.'
