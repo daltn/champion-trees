@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Pinus contorta var. murryana
 date: 2018-07-12T23:32:00.000Z
 common_name: Sierra Lodgepole Pine
-location: 'San Bernardino National Forest, California'
+location: 'Big Bear, California'
 crowned: '2018'
 photographed: '2018'
 circumference: 252”
