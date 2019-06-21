@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title_type: 'National Champion:'
-title: Aesculus Californica
+title: Aesculus californica
 date: 2018-11-04T21:22:00.000Z
 common_name: California Buckeye
 location: 'Swanton Pacific Ranch, California'
