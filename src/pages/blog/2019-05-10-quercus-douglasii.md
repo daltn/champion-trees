@@ -13,10 +13,10 @@ crown_spread: 79’
 total_af_points: '237'
 image1:
   alt: Blue Oak 01
-  image: /img/quercus_douglasii_01.jpg
+  image: /img/quercus_douglasii_02.jpg
 image2:
   alt: Blue Oak 02
-  image: /img/quercus_douglasii_02.jpg
+  image: /img/quercus_douglasii_01.jpg
 ---
 ![Blue Oak 03](/img/quercus_douglasii_03.jpg "Blue Oak 03")
 
