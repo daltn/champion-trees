@@ -18,9 +18,9 @@ image1:
 image2:
   alt: procera-02
   image: >-
-    /img/6284_abies_procera_national_champion_noble_fir_gifford_pinchot_national_forest_washington_september_30_208_american_forests_brian_kelley_scale_2.jpg
+    /img/6284_abies_procera_national_champion_noble_fir_gifford_pinchot_national_forest_washington_september_30_208_american_forests_brian_kelley_looking_up.jpg
 ---
-![procera-03](/img/6284_abies_procera_national_champion_noble_fir_gifford_pinchot_national_forest_washington_september_30_208_american_forests_brian_kelley_looking_up.jpg)
+![procera-03](/img/6284_abies_procera_national_champion_noble_fir_gifford_pinchot_national_forest_washington_september_30_208_american_forests_brian_kelley_scale_2.jpg)
 
 ![procera-04](/img/6284_abies_procera_national_champion_noble_fir_gifford_pinchot_national_forest_washington_september_30_208_american_forests_brian_kelley_3.jpg)
 
