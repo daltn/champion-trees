@@ -20,6 +20,10 @@ image2:
 ---
 ![pinus-contorta-03](/img/pinus_contorta_var._murryana_03.jpg "pinus-contorta-03")
 
+![pinus-contorta-04](/img/national_champion_lodgepole_east_facingpine_big_bear_california_american_forests_brian_kelley_7-13-2018.jpg)
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/622364994&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ![pinus-contorta-04](/img/pinus_contorta_var._murryana_04.jpg "pinus-contorta-04")
+
+![pinus-contorta-05](/img/national_champion_lodgepole_pine_big_bear_california_american_forests_brian_kelley_7-13-2018.jpg)
