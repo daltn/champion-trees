@@ -22,7 +22,7 @@ image2:
 ---
 ![western red cedar 3](/img/6234_thuja-plicata_nolan_creek_western_red_cedar_8-14-2018_brian_kelley_detail.jpg "western red cedar 3")
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/626563905&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633305538&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ![western red cedar 4](/img/6234_thuja-plicata_nolan_creek_western_red_cedar_8-14-2018_brian_kelley_base.jpg "western red cedar 4")
 
