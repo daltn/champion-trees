@@ -22,9 +22,11 @@ image2:
 ---
 ![nootkatensis-03](/img/5759_cupressus_nootkatensis_alaska_yellow_cedar_national_champion_willamette_national_forest_oregon_8-4-2018_american_forests_brian_kelley_grove.jpg)
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/606037287&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 ![nootkatensis-04](/img/cupressus_nootkatensis_alaska_yellow_cedar_potetial_runner-up_national_champion_willamette_national_forest_oregon_8-4-2018_american_forests_brian_kelley_scale.jpg)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/606037287&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 
 ![nootkatensis-05](/img/5759_cupressus_nootkatensis_alaska_yellow_cedar_national_champion_willamette_national_forest_oregon_8-4-2018_american_forests_brian_kelley_scale.jpg)
 
