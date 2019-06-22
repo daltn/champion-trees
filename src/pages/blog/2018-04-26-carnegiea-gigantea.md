@@ -1,5 +1,5 @@
 ---
-templateKey: alt-layout
+templateKey: blog-post
 title_type: 'National Champion:'
 title: Carnegiea gigantea
 date: 2018-07-11T22:09:00.000Z
