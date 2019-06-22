@@ -14,11 +14,11 @@ total_af_points: '471'
 image1:
   alt: concolor-01
   image: >-
-    /img/6289_abies_concolor_var._lowiana_california_white_fir_national_champion_yosemite_national_park_american_forests_brian_kelley_base.jpg
+    /img/6289_abies_concolor_var._lowiana_california_white_fir_national_champion_yosemite_national_park_american_forests_brian_kelley_bark_1.jpg
 image2:
   alt: concolor-02
   image: >-
-    /img/6289_abies_concolor_var._lowiana_california_white_fir_national_champion_yosemite_national_park_american_forests_brian_kelley_bark_1.jpg
+    /img/6289_abies_concolor_var._lowiana_california_white_fir_national_champion_yosemite_national_park_american_forests_brian_kelley_base.jpg
 ---
 ![concolor-03](/img/6289_abies_concolor_var._lowiana_california_white_fir_national_champion_yosemite_national_park_american_forests_brian_kelley_canopy.jpg)
 
