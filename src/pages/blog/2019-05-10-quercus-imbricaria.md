@@ -13,10 +13,10 @@ crown_spread: '83’ '
 total_af_points: '330'
 image1:
   alt: shingle oak 01
-  image: /img/quercus_imbricaria_01.jpg
+  image: /img/quercus_imbricaria_02.jpg
 image2:
   alt: shingle oak 02
-  image: /img/quercus_imbricaria_02.jpg
+  image: /img/quercus_imbricaria_01.jpg
 ---
 ![shingle oak 03](/img/quercus_imbricaria_03.jpg "shingle oak 03")
 
