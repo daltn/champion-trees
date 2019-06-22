@@ -12,7 +12,7 @@ height: '184’ '
 crown_spread: 69’
 total_af_points: '499'
 image1:
-  alt: Pinus-01
+  alt: pinus-01
   image: /img/pinus_jeffreyi_01.jpg
 image2:
   alt: pinus-02
