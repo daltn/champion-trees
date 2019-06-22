@@ -2,7 +2,7 @@
 templateKey: blog-post
 title_type: 'Former Champion:'
 title: Pinus lambertiana
-date: 2019-06-22T20:33:51.236Z
+date: 2018-11-11T21:33:00.000Z
 common_name: Merced Trail Sugar Pine
 location: 'Yosemite National Park, California. '
 crowned: '2015'
