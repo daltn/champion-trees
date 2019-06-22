@@ -13,13 +13,17 @@ crown_spread: 48’
 total_af_points: '605'
 image1:
   alt: western red cedar 1
-  image: /img/thuja_plicata_01.jpg
+  image: >-
+    /img/6234_thuja-plicata_nolan_creek_western_red_cedar_8-14-2018_brian_kelley_full.jpg
 image2:
   alt: western red cedar 2
-  image: /img/thuja_plicata_02.jpg
+  image: >-
+    /img/6234_thuja-plicata_nolan_creek_western_red_cedar_8-14-2018_brian_kelley_canopy.jpg
 ---
-![western red cedar 3](/img/thuja_plicata_03.jpg "western red cedar 3")
+![western red cedar 3](/img/6234_thuja-plicata_nolan_creek_western_red_cedar_8-14-2018_brian_kelley_base.jpg "western red cedar 3")
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/626563905&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-![western red cedar 4](/img/thuja_plicata_04.jpg "western red cedar 4")
+![western red cedar 4](/img/6234_thuja-plicata_nolan_creek_western_red_cedar_8-14-2018_brian_kelley_detail.jpg "western red cedar 4")
+
+![western red cedar 5](/img/6234_thuja-plicata_nolan_creek_western_red_cedar_8-14-2018_brian_kelley_scale.jpg)
