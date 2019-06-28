@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title_type: 'National Champion:'
+title_type: 'Former Champion:'
 title: Cupressus nootkatensis
 date: 2018-08-04T19:08:00.000Z
 common_name: Alaska Yellow Cedar
