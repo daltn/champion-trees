@@ -5,7 +5,7 @@ title: Cupressus macrocarpa
 date: 2018-11-03T12:00:00.000Z
 common_name: Monterey Cypress
 location: 'Pescadero, CA.'
-crowned: '2017'
+crowned: '2018'
 photographed: '2018'
 circumference: 588"
 height: 102'
