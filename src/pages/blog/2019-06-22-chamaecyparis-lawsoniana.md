@@ -5,11 +5,11 @@ title: Chamaecyparis lawsoniana
 date: 2018-10-08T18:26:00.000Z
 common_name: Port Orford Cedar
 location: 'Rogue River National Forest, Oregon'
-crowned: '2013'
+crowned: '2014'
 photographed: '2018'
-circumference: '522'
-height: '242'
-crown_spread: '35'
+circumference: 522"
+height: 242'
+crown_spread: 35'
 total_af_points: '773'
 image1:
   alt: lawsoniana-01
