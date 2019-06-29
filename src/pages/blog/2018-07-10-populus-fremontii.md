@@ -5,11 +5,11 @@ title: Populus fremontii
 date: 2018-07-10T00:25:00.000Z
 common_name: Fremont Cottonwood
 location: 'Yavapai, Arizona'
-crowned: '2012'
+crowned: '2018'
 photographed: '2018'
 circumference: 560”
 height: 102’
-crown_spread: '160.5'
+crown_spread: 160'
 total_af_points: '702'
 image1:
   alt: Fremont Cottonwood 01
