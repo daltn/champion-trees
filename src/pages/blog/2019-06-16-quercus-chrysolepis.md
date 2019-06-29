@@ -5,7 +5,7 @@ title: Quercus chrysolepis
 date: 2018-11-11T19:07:00.000Z
 common_name: Canyon Live Oak
 location: 'Oak Glen, CA'
-crowned: '2018'
+crowned: '2015'
 photographed: '2018'
 circumference: 473"
 height: 124'
