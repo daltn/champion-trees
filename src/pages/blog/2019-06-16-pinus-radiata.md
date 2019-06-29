@@ -5,7 +5,7 @@ title: Pinus radiata
 date: 2018-10-09T21:08:00.000Z
 common_name: Monterey Pine
 location: 'Fortuna, California.'
-crowned: '2016'
+crowned: '2018'
 photographed: '2018'
 circumference: 221"
 height: 160'
