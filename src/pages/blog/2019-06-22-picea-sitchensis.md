@@ -7,9 +7,9 @@ common_name: 'Sitka Spruce, Quinault'
 location: 'Olympic National Park, South Shore of Quinault Lake, Washington'
 crowned: '2018'
 photographed: '2018'
-circumference: '740'
-height: '191'
-crown_spread: '80'
+circumference: 740"
+height: 191'
+crown_spread: 80'
 total_af_points: '951'
 image1:
   alt: Quinault-01
