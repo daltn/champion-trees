@@ -5,7 +5,7 @@ title: Viburnum prunifolium
 date: 2019-04-14T21:02:00.000Z
 common_name: Smooth Blackhaw
 location: 'Patrick Henrys Red Hill Park, VA'
-crowned: '2010'
+crowned: '2018'
 photographed: '2019'
 circumference: '76'
 height: '33'
