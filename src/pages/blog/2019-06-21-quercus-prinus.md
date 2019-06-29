@@ -1,15 +1,15 @@
 ---
 templateKey: blog-post
 title_type: 'National Champion:'
-title: Quercus prinus
+title: Quercus montana
 date: 2018-06-12T21:23:00.000Z
 common_name: Chestnut Oak
 location: 'Atlantic Highlands, NJ'
-crowned: '2016'
+crowned: '2017'
 photographed: '2018'
-circumference: '335'
-height: '100'
-crown_spread: '91'
+circumference: 335"
+height: 100'
+crown_spread: 91'
 total_af_points: '458'
 image1:
   alt: prinus-01
