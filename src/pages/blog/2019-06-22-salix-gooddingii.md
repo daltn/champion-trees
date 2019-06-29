@@ -5,11 +5,11 @@ title: Salix gooddingii
 date: 2018-07-07T20:14:00.000Z
 common_name: Goodings Willow
 location: 'Taos, New Mexico'
-crowned: '2010'
+crowned: '2012'
 photographed: '2018'
-circumference: '351'
-height: '110'
-crown_spread: '95'
+circumference: 351"
+height: 110'
+crown_spread: 95'
 total_af_points: '485'
 image1:
   alt: gooddingii-01
