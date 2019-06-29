@@ -5,11 +5,11 @@ title: Pinus jeffreyi
 date: 2018-07-23T19:20:00.000Z
 common_name: Smokey Jack Jeffery Pine
 location: 'Yosemite National Park, California'
-crowned: '2015'
+crowned: '2016'
 photographed: '2018'
-circumference: '282'
-height: '186'
-crown_spread: '66'
+circumference: 282"
+height: 186'
+crown_spread: 66'
 total_af_points: '484'
 image1:
   alt: jeffreyi-01
