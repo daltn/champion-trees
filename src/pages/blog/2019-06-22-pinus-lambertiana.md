@@ -5,11 +5,11 @@ title: Pinus lambertiana
 date: 2018-11-11T21:33:00.000Z
 common_name: Sugar Pine
 location: 'Yosemite National Park, California. '
-crowned: '2015'
+crowned: '2016'
 photographed: '2018'
-circumference: '362'
-height: '241'
-crown_spread: '48'
+circumference: 362"
+height: 241'
+crown_spread: 48'
 total_af_points: '615'
 image1:
   alt: lambertiana-01
