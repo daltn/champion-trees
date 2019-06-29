@@ -1,15 +1,15 @@
 ---
 templateKey: blog-post
-title_type: 'National Champion:'
+title_type: 'National Co Champion:'
 title: Heteromeles arbutifolia
 date: 2018-11-05T21:45:00.000Z
 common_name: Toyon
 location: 'Gaviota, California'
 crowned: '2015'
 photographed: '2018'
-circumference: '58'
-height: '32'
-crown_spread: '28'
+circumference: 58"
+height: 32'
+crown_spread: 28'
 total_af_points: '97'
 image1:
   alt: Heteromeles-01
