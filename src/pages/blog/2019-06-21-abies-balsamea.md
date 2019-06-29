@@ -5,11 +5,11 @@ title: Abies balsamea
 date: 2018-07-02T19:31:00.000Z
 common_name: Balsam Fir
 location: 'Fairfield, Pennsylvania'
-crowned: '2009'
+crowned: '2011'
 photographed: '2018'
-circumference: '160'
-height: '104'
-crown_spread: '53'
+circumference: 160"
+height: 104'
+crown_spread: 53'
 total_af_points: '277'
 image1:
   alt: balsamea-01
