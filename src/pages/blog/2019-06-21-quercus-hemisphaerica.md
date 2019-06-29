@@ -5,11 +5,11 @@ title: Quercus hemisphaerica
 date: 2019-04-15T22:00:00.000Z
 common_name: Darlington Oak
 location: 'Macclesfield, North Carolina'
-crowned: '2014'
+crowned: '2015'
 photographed: '2019'
-circumference: '247'
-height: '96'
-crown_spread: '90'
+circumference: 247"
+height: 96'
+crown_spread: 90'
 total_af_points: '366'
 image1:
   alt: hemisphaerica-01
