@@ -5,11 +5,11 @@ title: Juniperus occidentalis
 date: 2018-08-08T17:11:00.000Z
 common_name: Western Juniper
 location: 'Lost Forest Research Natural Area, Oregon'
-crowned: '2014'
+crowned: '2016'
 photographed: '2018'
-circumference: '223'
-height: '78'
-crown_spread: '42'
+circumference: 223"
+height: 78'
+crown_spread: 42'
 total_af_points: '312'
 image1:
   alt: occidentalis-01
