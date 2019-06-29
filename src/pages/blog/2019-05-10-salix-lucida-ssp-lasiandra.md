@@ -5,11 +5,11 @@ title: Salix lucida ssp lasiandra
 date: 2018-10-30T01:32:00.000Z
 common_name: Pacific Willow
 location: 'Golden Gate National Recreation Area, California'
-crowned: '2013'
+crowned: '2016'
 photographed: '2018'
 circumference: 101”
 height: 90’
-crown_spread: '33'
+crown_spread: 33'
 total_af_points: '199'
 image1:
   alt: pacific willow 01
