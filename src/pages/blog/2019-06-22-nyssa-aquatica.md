@@ -5,7 +5,7 @@ title: Nyssa aquatica
 date: 2018-07-05T19:57:00.000Z
 common_name: Water Tupelo
 location: 'Monroe, Arkansas'
-crowned: '2006'
+crowned: '2018'
 photographed: '2018'
 circumference: '451'
 height: '125'
