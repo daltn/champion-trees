@@ -8,8 +8,8 @@ location: 'Yosemite National Park, California'
 crowned: '1999'
 photographed: '2018'
 circumference: 358”
-height: 169.3’
-crown_spread: 37.1'
+height: 169’
+crown_spread: 37'
 total_af_points: '537'
 image1:
   alt: abies-01
