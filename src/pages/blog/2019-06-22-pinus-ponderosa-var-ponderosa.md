@@ -5,11 +5,11 @@ title: Pinus ponderosa var. ponderosa
 date: 2018-08-05T17:33:00.000Z
 common_name: 'Ponderosa Pine '
 location: 'La Pine State Park, Oregon'
-crowned: '2013'
+crowned: '2014'
 photographed: '2018'
-circumference: '348'
-height: '166'
-crown_spread: '68'
+circumference: 348"
+height: 166'
+crown_spread: 68'
 total_af_points: '532'
 image1:
   alt: ponderosa-01
