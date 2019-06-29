@@ -1,15 +1,15 @@
 ---
 templateKey: blog-post
-title_type: 'National Champion:'
+title_type: 'National Co Champion:'
 title: Quercus agrifolia
 date: 2018-07-14T22:54:00.000Z
 common_name: Coast Live Oak
 location: 'Cherry Valley, California. '
 crowned: '2015'
 photographed: '2018'
-circumference: '338'
-height: '65'
-crown_spread: '114'
+circumference: 338"
+height: 65'
+crown_spread: 114'
 total_af_points: '431'
 image1:
   alt: agrifolia-01
