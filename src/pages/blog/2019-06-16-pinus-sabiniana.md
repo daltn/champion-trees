@@ -5,7 +5,7 @@ title: Pinus sabiniana
 date: 2018-10-19T17:30:00.000Z
 common_name: Gray Pine
 location: 'Bright Star Wilderness, California.'
-crowned: '2015'
+crowned: '2018'
 photographed: '2018'
 circumference: 204"
 height: 118'
