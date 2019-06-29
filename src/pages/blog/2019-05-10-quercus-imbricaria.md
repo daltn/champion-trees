@@ -7,7 +7,7 @@ common_name: Shingle Oak
 location: 'Vinton County, Ohio'
 crowned: '2014'
 photographed: '2018'
-circumference: 214.7”
+circumference: 214”
 height: 94’
 crown_spread: '83’ '
 total_af_points: '330'
