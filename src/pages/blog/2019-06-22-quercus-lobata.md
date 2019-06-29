@@ -5,7 +5,7 @@ title: Quercus lobata
 date: 2018-07-27T19:46:00.000Z
 common_name: Valley Oak
 location: 'Covelo, California'
-crowned: '2010'
+crowned: '2014'
 photographed: '2018'
 circumference: 348"
 height: 153'
