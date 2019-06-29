@@ -9,7 +9,7 @@ crowned: '2014'
 photographed: '2019'
 circumference: 338”
 height: 82.5’
-crown_spread: '122'
+crown_spread: 122'
 total_af_points: '481.5'
 image1:
   alt: eastern white oak 1
