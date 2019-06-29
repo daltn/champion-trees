@@ -5,11 +5,11 @@ title: Acer saccharum
 date: 2018-06-27T21:03:00.000Z
 common_name: Sugar Maple
 location: 'Charlemont, Massachusetts'
-crowned: '2007'
+crowned: '2008'
 photographed: '2018'
-circumference: '233'
-height: '112'
-crown_spread: '91'
+circumference: 233"
+height: 112'
+crown_spread: 91'
 total_af_points: '368'
 image1:
   alt: saccharum-01
