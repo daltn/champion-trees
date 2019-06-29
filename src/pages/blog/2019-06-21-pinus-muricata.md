@@ -5,11 +5,11 @@ title: Pinus muricata
 date: 2018-10-09T20:04:00.000Z
 common_name: Bishop Pine
 location: 'Point Reyes National Seashore, California'
-crowned: '2010'
+crowned: '2016'
 photographed: '2018'
-circumference: '242'
-height: '82'
-crown_spread: '118'
+circumference: 242"
+height: 82'
+crown_spread: 118'
 total_af_points: '354'
 image1:
   alt: Muricata-01
