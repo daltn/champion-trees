@@ -7,9 +7,9 @@ common_name: Smooth Blackhaw
 location: 'Patrick Henrys Red Hill Park, VA'
 crowned: '2018'
 photographed: '2019'
-circumference: '76'
-height: '33'
-crown_spread: '40'
+circumference: 76"
+height: 33'
+crown_spread: 40'
 total_af_points: '119'
 image1:
   alt: prunifolium-01
