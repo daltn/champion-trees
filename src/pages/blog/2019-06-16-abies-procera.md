@@ -7,9 +7,9 @@ common_name: Noble Fir
 location: 'Gifford Pinchot National Forest, Washington.'
 crowned: '2018'
 photographed: '2018'
-circumference: '316'
-height: '251.67'
-crown_spread: '44'
+circumference: 316"
+height: 251'
+crown_spread: 44'
 total_af_points: '579'
 image1:
   alt: procera-01
