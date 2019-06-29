@@ -13,7 +13,8 @@ crown_spread: 9’
 total_af_points: '151'
 image1:
   alt: carne-01
-  image: /img/carnegiea-gigantea_03.jpg
+  image: >-
+    /img/5537_carnegiea-gigantea_saguaro_cactus_co_champion_tonto_national_forest_7-10-2018_american_forest_brian_kelley_detail.jpg
 image2:
   alt: carne-02
   image: >-
