@@ -5,11 +5,11 @@ title: Aesculus californica
 date: 2018-11-04T21:22:00.000Z
 common_name: California Buckeye
 location: 'Swanton Pacific Ranch, California'
-crowned: '2015'
+crowned: '2016'
 photographed: '2018'
-circumference: '176'
-height: '46'
-crown_spread: '60'
+circumference: 176"
+height: 46'
+crown_spread: 60'
 total_af_points: '237'
 image1:
   alt: Californica-01
