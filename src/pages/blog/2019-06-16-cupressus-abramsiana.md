@@ -5,11 +5,11 @@ title: Cupressus abramsiana
 date: 2018-11-02T19:25:00.000Z
 common_name: Santa Cruz Cypress
 location: 'Regional Parks Botanic Garden, California.'
-crowned: '2018'
+crowned: '2019'
 photographed: '2018'
-circumference: '79'
-height: '58'
-crown_spread: '37'
+circumference: 79"
+height: 58'
+crown_spread: 37'
 total_af_points: '147'
 image1:
   alt: abramsiana-01
