@@ -5,11 +5,11 @@ title: Ulmus pumila
 date: 2018-07-03T21:43:00.000Z
 common_name: Siberian Elm
 location: 'Ross County, OH'
-crowned: '2001'
+crowned: '2012'
 photographed: '2018'
-circumference: '260'
-height: '92'
-crown_spread: '114'
+circumference: 260"
+height: 92'
+crown_spread: 114'
 total_af_points: '381'
 image1:
   alt: pumila-01
