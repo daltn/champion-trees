@@ -7,9 +7,9 @@ common_name: Valley Oak
 location: 'Covelo, California'
 crowned: '2010'
 photographed: '2018'
-circumference: '348'
-height: '153'
-crown_spread: '99'
+circumference: 348"
+height: 153'
+crown_spread: 99'
 total_af_points: '526'
 image1:
   alt: lobata-01
