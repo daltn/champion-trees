@@ -5,11 +5,11 @@ title: Torreya californica
 date: 2018-11-06T22:11:00.000Z
 common_name: California Torreya
 location: 'Big Basin State Park, CA'
-crowned: '2013'
+crowned: '2012'
 photographed: '2018'
-circumference: '133'
-height: '105'
-crown_spread: '60'
+circumference: 133"
+height: 105'
+crown_spread: 60'
 total_af_points: '253'
 image1:
   alt: torreya-01
