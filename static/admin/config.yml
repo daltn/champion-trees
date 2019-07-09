@@ -17,7 +17,7 @@ collections:
           name: 'templateKey',
           widget: 'select',
           default: 'blog-post',
-          options: ['blog-post', 'alt-layout'],
+          options: ['blog-post', 'alt-layout', 'draft'],
         }
       - {
           label: 'Title Type',
@@ -25,7 +25,12 @@ collections:
           widget: 'select',
           default: 'National Champion:',
           options:
-            ['National Champion:', 'Former Champion:', 'National Co Champion:'],
+            [
+              'National Champion:',
+              'Former Champion:',
+              'National Co Champion:',
+              '  ',
+            ],
         }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
