@@ -28,8 +28,8 @@ collections:
             [
               'National Champion:',
               'Former Champion:',
-              'National Co Champion:',
               '  ',
+              'National Co Champion:',
             ],
         }
       - { label: 'Title', name: 'title', widget: 'string' }
