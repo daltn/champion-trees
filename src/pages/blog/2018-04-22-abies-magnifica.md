@@ -1,5 +1,5 @@
 ---
-templateKey: draft
+templateKey: blog-post
 title_type: 'National Champion:'
 title: Abies magnifica
 date: 2018-07-22T21:06:00.000Z
