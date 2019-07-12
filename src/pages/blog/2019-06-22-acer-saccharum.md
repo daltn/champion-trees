@@ -17,7 +17,6 @@ image1:
     /img/national_champion_sugar_maple_back_view_mohawk_trail_state_park_american_forest_brian_kelley_kodak_portra_160_toyo_4x5.jpg
 image2:
   alt: saccharum-02
-  image: >-
-    /img/4152_acer-saccharum_sugar_maple_co_champion_charlemont_ma_american_forests_brian_kelley_kodak_portra_160_05-04-18.jpg
+  image: /img/raw_sugar_maple_front_scanned.jpg
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633355641&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
