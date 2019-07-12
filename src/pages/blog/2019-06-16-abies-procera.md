@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: draft
 title_type: 'National Champion:'
 title: Abies procera
 date: 2018-09-30T19:42:00.000Z
