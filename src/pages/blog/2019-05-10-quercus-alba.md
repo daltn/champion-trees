@@ -20,7 +20,7 @@ image2:
 ---
 ![eastern white oak 3](/img/quercus_alba_02.jpg "eastern white oak 3")
 
-![Quercus_alba__full](/img/5395_quercus_alba_eastern_white_oak_warfield_virginia_sunset_2_american_forests_brian_kelley_4-19-2019_full_with_house_2.jpg "Quercus_alba__full")
+![Quercus_alba__full](/img/5395_quercus_alba_eastern_white_oak_warfield_virginia_american_forests_brian_kelley_4-19-2019_house_1.jpg "Quercus_alba__full")
 
 ![eastern white oak 4](/img/quercus_alba_04.jpg "eastern white oak 4")
 
