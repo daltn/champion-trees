@@ -13,10 +13,10 @@ crown_spread: 90'
 total_af_points: '366'
 image1:
   alt: hemisphaerica-01
-  image: /img/5623_quercus_hemisphaerica_darlington_oak_full_1.jpg
+  image: /img/5623_quercus_hemisphaerica_darlington_oak_trunk.jpg
 image2:
   alt: hemisphaerica-02
-  image: /img/5623_quercus_hemisphaerica_darlington_oak_trunk.jpg
+  image: /img/5623_quercus_hemisphaerica_darlington_oak_full_1.jpg
 ---
 ![hemisphaerica-03](/img/5623_quercus_hemisphaerica_darlington_oak_full_3.jpg)
 
@@ -26,4 +26,4 @@ image2:
 
 ![hemisphaerica-05](/img/5623_quercus_hemisphaerica_darlington_oak_leaf_1.jpg)
 
-![](/img/5623_quercus_hemisphaerica_darlington_oak_scale.jpg)
+![hemisphaerica-06](/img/5623_quercus_hemisphaerica_darlington_oak_scale.jpg)
