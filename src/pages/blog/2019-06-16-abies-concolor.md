@@ -26,4 +26,4 @@ image2:
 
 ![concolor-04](/img/6289_abies_concolor_var._lowiana_california_white_fir_national_champion_yosemite_national_park_american_forests_brian_kelley_base_2.jpg)
 
-![](/img/6289_abies_concolor_var._lowiana_california_white_fir_national_champion_yosemite_national_park_american_forests_brian_kelley_scale.jpg)
+![concolor-05](/img/6289_abies_concolor_var._lowiana_california_white_fir_national_champion_yosemite_national_park_american_forests_brian_kelley_scalewestern-red-cedar.jpg)
