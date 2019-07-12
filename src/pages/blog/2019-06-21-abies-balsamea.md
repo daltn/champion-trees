@@ -14,14 +14,14 @@ total_af_points: '277'
 image1:
   alt: balsamea-01
   image: >-
-    /img/2907_abies_balsemea_balsam_fir__adams_county_pa_american_forests_brian_kelley_canopy.jpg
+    /img/2907_abies_balsemea_balsam_fir__adams_county_pa_american_forests_brian_kelley_trunk.jpg
 image2:
   alt: balsamea-02
   image: >-
-    /img/2907_abies_balsemea_balsam_fir__adams_county_pa_american_forests_brian_kelley_trunk_horizontal.jpg
+    /img/2907_abies_balsemea_balsam_fir__adams_county_pa_american_forests_brian_kelley_canopy.jpg
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/606064656&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-![balsamea-03](/img/2907_abies_balsemea_balsam_fir__adams_county_pa_american_forests_brian_kelley_trunk.jpg)
+![balsamea-03](/img/2907_abies_balsemea_balsam_fir__adams_county_pa_american_forests_brian_kelley_trunk_horizontal.jpg)
 
 ![balsamea-04](/img/2907_abies_balsemea_balsam_fir__adams_county_pa_american_forests_brian_kelley_needles.jpg)
