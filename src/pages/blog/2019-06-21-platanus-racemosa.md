@@ -23,3 +23,9 @@ image2:
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/611850927&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ![racemosa-03](/img/5158_platanus_racemosa_california_sycamore_santa_barbara_california_11-6-2018_american_forests_brian_kelley_base.jpg)
+
+![racemosa-04](/img/5158_platanus_racemosa_california_sycamore_santa_barbara_california_11-6-2018_american_forests_brian_kelley_scale.jpg)
+
+![racemosa-05](/img/5158_platanus_racemosa_california_sycamore_santa_barbara_california_11-6-2018_american_forests_brian_kelley_seed_pod.jpg)
+
+![racemosa-06](/img/5158_platanus_racemosa_california_sycamore_santa_barbara_california_11-6-2018_american_forests_brian_kelley_leaf.jpg)
