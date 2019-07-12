@@ -31,3 +31,5 @@ image2:
 ![chrysolepis-06](/img/5133_quercus_chrysolepis_canyon_live_oak_oak_glen_california_11-11-2018_american_forests_brian_kelley_leaf_3.jpg)
 
 ![chrysolepis-07](/img/5133_quercus_chrysolepis_canyon_live_oak_oak_glen_california_11-11-2018_american_forests_brian_kelley_pollen_1.jpg)
+
+![chrysolepis-08](/img/5133_quercus_chrysolepis_canyon_live_oak_oak_glen_california_11-11-2018_american_forests_brian_kelley_acorn_1.jpg)
