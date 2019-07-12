@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: draft
 title_type: 'Former Champion:'
 title: Nyssa aquatica
 date: 2018-07-05T19:57:00.000Z
