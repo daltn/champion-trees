@@ -13,9 +13,11 @@ crown_spread: 28'
 total_af_points: '97'
 image1:
   alt: Heteromeles-01
-  image: /img/heteromeles_arbutifolia_toyon_gaviota_california_11-5-2018.jpg
+  image: /img/heteromeles_arbutifolia_toyon_gaviota_california_11-5-2018_full.jpg
 image2:
   alt: Heteromeles-02
   image: /img/heteromeles_arbutifolia_toyon_gaviota_california_11-5-2018_base.jpg
 ---
+![Heteromeles-03](/img/heteromeles_arbutifolia_toyon_gaviota_california_11-5-2018_leaf_fruit.jpg "Heteromeles-03")
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/602496702&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
