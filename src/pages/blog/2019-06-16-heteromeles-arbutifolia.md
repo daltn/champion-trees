@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: draft
 title_type: 'National Champion:'
 title: Heteromeles arbutifolia
 date: 2018-11-05T21:45:00.000Z
