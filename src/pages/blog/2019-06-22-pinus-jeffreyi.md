@@ -22,4 +22,4 @@ image2:
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/629722620&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-![](/img/former_national_champion_smoky_jack_jeffery_pine_yosemite_national_park_7-23-2018_american_forests_brian_kelley_scale.jpg)
+![jeffreyi-03](/img/former_national_champion_smoky_jack_jeffery_pine_yosemite_national_park_7-23-2018_american_forests_brian_kelley_scale.jpg)
