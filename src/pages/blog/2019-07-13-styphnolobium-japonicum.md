@@ -22,11 +22,7 @@ image2:
 ---
 ![Styphnolobium-japonicum-03](/img/6102_styphnolobium_japonicum_japanese_pagoda_edgartown_marthas_vineyard_7_3_2019_american_forests_brian_kelley_plaque.jpg)
 
-
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/650614844&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-
 
 ![Styphnolobium-japonicum-04](/img/6102_styphnolobium_japonicum_japanese_pagoda_edgartown_marthas_vineyard_7_3_2019_american_forests_brian_kelley_car_scale.jpg)
 
