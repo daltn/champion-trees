@@ -22,8 +22,6 @@ image2:
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/602499483&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-
-
 ![Cephalanthus occidentalis 03](/img/2767_cephalanthus_occidentalis_common_buttonbush_kern_co_ca_american_forests_brian_kelley_fruit.jpg)
 
 ![Cephalanthus occidentalis 04](/img/2767_cephalanthus_occidentalis_common_buttonbush_kern_co_ca_american_forests_brian_kelley_leaf.jpg)
