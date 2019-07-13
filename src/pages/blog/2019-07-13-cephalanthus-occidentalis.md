@@ -7,9 +7,9 @@ common_name: Common Button Bush
 location: 'Buttonwillow, CA. '
 crowned: '2018'
 photographed: '2018'
-circumference: '60'
-height: '26'
-crown_spread: '38'
+circumference: 60"
+height: 26'
+crown_spread: 38'
 total_af_points: '96'
 image1:
   alt: Cephalanthus occidentalis-01
