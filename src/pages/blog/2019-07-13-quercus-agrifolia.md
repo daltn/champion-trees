@@ -18,7 +18,7 @@ image1:
 image2:
   alt: Quercus agrifolia 02
   image: >-
-    /img/5732_quercus_agrifolia_coast_live_oak_halter_ranch_california_10-14-2018__co_champion_american_forests_brian_kelley__sunset.jpg
+    /img/5732_quercus_agrifolia_coast_live_oak_halter_ranch_california_10-14-2018__co_champion_american_forests_brian_kelley_1.jpg
 ---
 ![Quercus agrifolia 03](/img/5732_quercus_agrifolia_coast_live_oak_halter_ranch_california_10-14-2018__co_champion_american_forests_brian_kelley_under_the_canopy.jpg)
 
@@ -26,7 +26,7 @@ image2:
 
 ![Quercus agrifolia 04](/img/5732_quercus_agrifolia_coast_live_oak_halter_ranch_california_10-14-2018__co_champion_american_forests_brian_kelley__sunset_1.jpg)
 
-![Quercus agrifolia 05](/img/5732_quercus_agrifolia_coast_live_oak_halter_ranch_california_10-14-2018__co_champion_american_forests_brian_kelley_1.jpg)
+![Quercus agrifolia 05](/img/5732_quercus_agrifolia_coast_live_oak_halter_ranch_california_10-14-2018__co_champion_american_forests_brian_kelley__sunset.jpg)
 
 ![Quercus agrifolia 06](/img/5732_quercus_agrifolia_coast_live_oak_halter_ranch_california_10-14-2018__co_champion_american_forests_brian_kelley_base.jpg)
 
