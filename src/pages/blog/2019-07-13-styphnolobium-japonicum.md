@@ -7,9 +7,9 @@ common_name: Japanese Pagoda
 location: 'Edgartown, MA'
 crowned: '2018'
 photographed: '2019'
-circumference: '240'
-height: '78'
-crown_spread: '107'
+circumference: 240"
+height: 78'
+crown_spread: 107'
 total_af_points: '345'
 image1:
   alt: Styphnolobium-japonicum-01
