@@ -22,8 +22,6 @@ image2:
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/611844081&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-
-
 ![Quercus marilandica 03](/img/5468_quercus_-marilandica_blackjack_oak_american_forests_brian_kelley_from_cementary.jpg)
 
 ![Quercus marilandica 04](/img/5468_quercus_-marilandica_blackjack_oak_american_forests_brian_kelley_scale.jpg)
