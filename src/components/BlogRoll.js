@@ -50,9 +50,11 @@ class BlogRoll extends Component {
                   </section>
                   <div className="imageContainer">
                     <Img
-                      imgStyle={{ paddingTop: `0px` }}
+                      imgStyle={{ paddingTop: `0px`, with: `45vw` }}
                       className={
-                        this.state.hover === post.id ? 'idxImgHover' : 'idxImg'
+                        this.state.hover === post.id
+                          ? 'idxImgHover imageContainer'
+                          : 'idxImg imageContainer'
                       }
                       fluid={
                         post.frontmatter.image1.image.childImageSharp.fluid
@@ -103,7 +105,7 @@ export default () => (
                   alt
                   image {
                     childImageSharp {
-                      fluid(maxWidth: 1000, quality: 70) {
+                      fluid(maxWidth: 800, quality: 60) {
                         ...GatsbyImageSharpFluid
                       }
                     }
