@@ -105,7 +105,7 @@ export default () => (
                   alt
                   image {
                     childImageSharp {
-                      fluid(maxWidth: 800, quality: 60) {
+                      fluid(maxWidth: 1200, quality: 80) {
                         ...GatsbyImageSharpFluid
                       }
                     }
