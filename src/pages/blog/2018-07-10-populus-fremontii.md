@@ -13,7 +13,7 @@ crown_spread: 160'
 total_af_points: '702'
 image1:
   alt: Fremont Cottonwood 01
-  image: /img/populus_fremontii_01.jpg
+  image: /img/populus_fremontii_04.jpg
 image2:
   alt: Fremont Cottonwood 02
   image: /img/populus_fremontii_02.jpg
@@ -22,4 +22,4 @@ image2:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/611950827&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-![Fremont Cottonwood 04](/img/populus_fremontii_04.jpg "Fremont Cottonwood 04")
+![Fremont Cottonwood 04](/img/populus_fremontii_01.jpg "Fremont Cottonwood 04")
