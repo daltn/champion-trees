@@ -14,7 +14,7 @@ total_af_points: '458'
 image1:
   alt: montana-01
   image: >-
-    /img/6089_quercus_michauxii_swamp_chestnut_oak_new_jersey__american_forests_brian_kelley_6_9_2018_2.jpg
+    /img/6089_quercus_michauxii_swamp_chestnut_oak_new_jersey__american_forests_brian_kelley_6_9_2018_with_owner.jpg
 image2:
   alt: montana-02
   image: >-
@@ -24,4 +24,4 @@ image2:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/611914086&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-![montana-04](/img/6089_quercus_michauxii_swamp_chestnut_oak_new_jersey__american_forests_brian_kelley_6_9_2018_with_owner.jpg)
+![montana-04](/img/6089_quercus_michauxii_swamp_chestnut_oak_new_jersey__american_forests_brian_kelley_6_9_2018_2.jpg)
