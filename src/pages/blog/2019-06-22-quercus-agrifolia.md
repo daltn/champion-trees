@@ -14,7 +14,7 @@ total_af_points: '431'
 image1:
   alt: agrifolia-01
   image: >-
-    /img/5486_quercus_agrifolia_co_champion_coast_live_oak_scale_cherry_valley_ca_7-14-2018_american_forests_brian_kelley.jpg
+    /img/5486_quercus_agrifolia_co_champion_coast_live_oak_leaf_semi_curl_cherry_valley_ca_7-14-2018_american_forests_brian_kelley.jpg
 image2:
   alt: agrifolia-02
   image: >-
@@ -24,6 +24,6 @@ image2:
 
 ![agrifolia-03](/img/5486_quercus_agrifolia_co_champion_coast_live_oak_leaf_cherry_valley_ca_7-14-2018_american_forests_brian_kelley.jpg)
 
-![agrifolia-04](/img/5486_quercus_agrifolia_co_champion_coast_live_oak_leaf_semi_curl_cherry_valley_ca_7-14-2018_american_forests_brian_kelley.jpg)
+![agrifolia-04](/img/5486_quercus_agrifolia_co_champion_coast_live_oak_scale_cherry_valley_ca_7-14-2018_american_forests_brian_kelley.jpg)
 
 ![agrifolia-05](/img/5486_quercus_agrifolia_co_champion_coast_live_oak_leaf_full_curl_cherry_valley_ca_7-14-2018_american_forests_brian_kelley.jpg)
