@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title_type: 'National Champion:'
-title: Eucalyptus Globulus
+title: Eucalyptus globulus
 date: 2017-10-07T22:13:00.000Z
 common_name: Bluegum Eucalyptus
 location: 'Petrolia, California'
