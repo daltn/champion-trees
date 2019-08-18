@@ -14,11 +14,11 @@ total_af_points: '253'
 image1:
   alt: torreya-01
   image: >-
-    /img/5476_torreya_californica_national_champion_big_basin_state_park_11_3_2018_american_forests_brian_kelley_base.jpg
+    /img/5476_torreya_californica_national_champion_big_basin_state_park_11_3_2018_american_forests_brian_kelley_fullscan.jpg
 image2:
   alt: torreya-02
   image: >-
-    /img/5476_torreya_californica_national_champion_big_basin_state_park_11_3_2018_american_forests_brian_kelley_full.jpg
+    /img/5476_torreya_californica_national_champion_big_basin_state_park_11_3_2018_american_forests_brian_kelley_base.jpg
 ---
 ![torreya-03](/img/5476_torreya_californica_national_champion_big_basin_state_park_11_3_2018_american_forests_brian_kelley_scale.jpg)
 
