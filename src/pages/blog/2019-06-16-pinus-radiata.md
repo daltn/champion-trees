@@ -14,7 +14,7 @@ total_af_points: '403'
 image1:
   alt: Radiata-01
   image: >-
-    /img/5817_pinus_radiata_monterey_pine_national_champion_fortuna_california_american_forests_brian_kelley_canopy_1.jpg
+    /img/5817_pinus_radiata_monterey_pine_rohner_park_fortuna_ca_american_forests_brian_kelley_1.jpg
 image2:
   alt: Radiata-02
   image: >-
