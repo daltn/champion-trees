@@ -13,12 +13,15 @@ crown_spread: 160'
 total_af_points: '702'
 image1:
   alt: Fremont Cottonwood 01
-  image: /img/populus_fremontii_04.jpg
+  image: >-
+    /img/5182_populus_fremontii_fremont_cottonwood_crutch_branch_sunset_american_forest_brian_kelley_skully_valley_az_2018_base_vertical.jpg
 image2:
   alt: Fremont Cottonwood 02
   image: /img/populus_fremontii_02.jpg
 ---
 ![Fremont Cottonwood 03](/img/populus_fremontii_03.jpg "Fremont Cottonwood 03")
+
+![Fremont Cottonwood 05](/img/populus_fremontii_04.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/611950827&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
