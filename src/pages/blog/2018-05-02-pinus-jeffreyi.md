@@ -13,10 +13,12 @@ crown_spread: 69’
 total_af_points: '499'
 image1:
   alt: pinus-01
-  image: /img/pinus_jeffreyi_01.jpg
+  image: >-
+    /img/6313_pinus_jeffreyi_national_champion_jeffrey_pine_huntington_lake_ca_american_forests_brian_kelley_base.jpg
 image2:
   alt: pinus-02
-  image: /img/pinus_jeffreyi_02.jpg
+  image: >-
+    /img/6313_pinus_jeffreyi_national_champion_jeffrey_pine_huntington_lake_ca_american_forests_brian_kelley_scale_hat.jpg
 ---
 ![pinus-03](/img/pinus_jeffreyi_03.jpg "pinus-03")
 
