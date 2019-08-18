@@ -14,7 +14,7 @@ total_af_points: '537'
 image1:
   alt: abies-01
   image: >-
-    /img/2908_abies_magnifica_national_champion_california_red_fir_7-22-2018_yosemite_national_park_california_american_forests_brian_kelley_base.jpg
+    /img/2908_abies_magnifica_national_champion_california_red_fir_7-22-2018_yosemite_national_park_california_american_forests_brian_kelley_base_scan.jpg
 image2:
   alt: abies-02
   image: >-
