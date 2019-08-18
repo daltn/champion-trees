@@ -18,7 +18,7 @@ image1:
 image2:
   alt: abramsiana-02
   image: >-
-    /img/6222_cupressus_abramsiana_santa_cruz_cypress_national_champion_tilden_botanical_park_california_11-1-2018_american_forests_brian_kelley_canopy.jpg
+    /img/6222_cupressus_abramsiana_santa_cruz_cypress_national_champion_tilden_botanical_park_california_11-1-2018_american_forests_brian_kelley_trunk.jpg
 ---
 ![abramsiana-03](/img/6222_cupressus_abramsiana_santa_cruz_cypress_national_champion_tilden_botanical_park_california_11-1-2018_american_forests_brian_kelley_cones.jpg)
 
