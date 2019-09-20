@@ -18,9 +18,9 @@ image1:
 image2:
   alt: Pinus rigida - 02
   image: >-
-    /img/3258_pinus_rigida_national_champion_pitch_pine_new_hampshire_8_22_2019_american_forests_brian_kelley_farmhouse.jpg
+    /img/3258_pinus_rigida_national_champion_pitch_pine_new_hampshire_8_22_2019_american_forests_brian_kelley_full.jpg
 ---
-![Pinus rigida - 03](/img/3258_pinus_rigida_national_champion_pitch_pine_new_hampshire_8_22_2019_american_forests_brian_kelley_full.jpg)
+![Pinus rigida - 03](/img/3258_pinus_rigida_national_champion_pitch_pine_new_hampshire_8_22_2019_american_forests_brian_kelley_farmhouse.jpg)
 
 ![Pinus rigida - 04](/img/3258_pinus_rigida_national_champion_pitch_pine_new_hampshire_8_22_2019_american_forests_brian_kelley_wide_1.jpg)
 
