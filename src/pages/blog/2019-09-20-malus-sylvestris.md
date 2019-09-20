@@ -20,7 +20,7 @@ image2:
   image: >-
     /img/5645_malus_sylvestris_national_common_apple_tree_maine_9_10_2019_american_forests_brian_kelley_base_1.jpg
 ---
-![Malus sylvestris - 03](/img/5645_malus_sylvestris_national_common_apple_tree_maine_9_10_2019_american_forests_brian_kelley_base_2.jpg)
+![Malus sylvestris - 03](/img/5645_malus_sylvestris_national_common_apple_tree_maine_9_10_2019_american_forests_brian_kelley.jpg)
 
 ![Malus sylvestris -04](/img/5645_malus_sylvestris_national_common_apple_tree_maine_9_10_2019_american_forests_brian_kelley_base_3.jpg)
 
@@ -34,4 +34,4 @@ image2:
 
 ![Malus sylvestris-09](/img/5645_malus_sylvestris_national_common_apple_tree_maine_9_10_2019_american_forests_brian_kelley_scale.jpg)
 
-![Malus sylvestris -10](/img/5645_malus_sylvestris_national_common_apple_tree_maine_9_10_2019_american_forests_brian_kelley.jpg)
+![Malus sylvestris -10](/img/5645_malus_sylvestris_national_common_apple_tree_maine_9_10_2019_american_forests_brian_kelley_base_2.jpg)
