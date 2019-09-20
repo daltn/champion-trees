@@ -26,7 +26,7 @@ image2:
 
 ![Magnolia acuminata -05](/img/3067_magnolia_acuminata_national_champion_cucumber_magnolia_stark_ohio_american_forests_brian_kelley_7-31-2019_wide.jpg)
 
-![Magnolia acuminata -06](/img/3067_magnolia_acuminata_national_champion_cucumber_magnolia_stark_ohio_american_forests_brian_kelley_7-31-2019_dried_leaf.jpg)
+![Magnolia acuminata -06](/img/3067_magnolia_acuminata_national_champion_cucumber_magnolia_stark_ohio_american_forests_brian_kelley_7-31-2019_leaf.jpg)
 
 ![Magnolia acuminata -07](/img/3067_magnolia_acuminata_national_champion_cucumber_magnolia_stark_ohio_american_forests_brian_kelley_7-31-2019_dried_leaf.jpg)
 
