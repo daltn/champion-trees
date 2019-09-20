@@ -14,13 +14,13 @@ total_af_points: '415'
 image1:
   alt: Magnolia acuminata -01
   image: >-
-    /img/3067_magnolia_acuminata_national_champion_cucumber_magnolia_stark_ohio_american_forests_brian_kelley_7-31-2019_base_1.jpg
+    /img/3067_magnolia_acuminata_national_champion_cucumber_magnolia_stark_ohio_american_forests_brian_kelley_7-31-2019_full.jpg
 image2:
   alt: Magnolia acuminata -02
   image: >-
     /img/3067_magnolia_acuminata_national_champion_cucumber_magnolia_stark_ohio_american_forests_brian_kelley_7-31-2019_base_2.jpg
 ---
-![Magnolia acuminata -03](/img/3067_magnolia_acuminata_national_champion_cucumber_magnolia_stark_ohio_american_forests_brian_kelley_7-31-2019_full.jpg)
+![Magnolia acuminata -03](/img/3067_magnolia_acuminata_national_champion_cucumber_magnolia_stark_ohio_american_forests_brian_kelley_7-31-2019_base_1.jpg)
 
 ![Magnolia acuminata -04](/img/3067_magnolia_acuminata_national_champion_cucumber_magnolia_stark_ohio_american_forests_brian_kelley_7-31-2019_plaque.jpg)
 
