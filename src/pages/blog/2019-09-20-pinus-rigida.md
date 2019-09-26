@@ -3,7 +3,7 @@ templateKey: blog-post
 title_type: 'National Champion:'
 title: Pinus rigida
 date: 2019-08-21T18:09:00.806Z
-common_name: Pine pitch
+common_name: Pitch Pine
 location: 'Merrimack, NH'
 crowned: '2013'
 photographed: '2019'
