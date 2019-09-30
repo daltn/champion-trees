@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Styphnolobium japonicum
 date: 2019-07-03T10:11:00.000Z
 common_name: Japanese Pagoda
-location: 'Edgartown, MA'
+location: 'Edgartown, Massachusetts '
 crowned: '2018'
 photographed: '2019'
 circumference: 240"
