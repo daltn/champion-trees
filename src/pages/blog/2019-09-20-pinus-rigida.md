@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Pinus rigida
 date: 2019-08-21T18:09:00.806Z
 common_name: Pitch Pine
-location: 'Merrimack, NH'
+location: 'Merrimack, New Hampshire'
 crowned: '2013'
 photographed: '2019'
 circumference: 173"
