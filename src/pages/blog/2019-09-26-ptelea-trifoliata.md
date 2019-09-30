@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Ptelea trifoliata
 date: 2019-07-21T18:10:00.000Z
 common_name: Common Hop Tree
-location: 'Monroe County, NY'
+location: 'Monroe County, New York'
 crowned: '2018'
 photographed: '2019'
 circumference: 20"
