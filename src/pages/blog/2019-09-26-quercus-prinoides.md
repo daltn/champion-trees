@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Quercus prinoides
 date: 2019-07-23T18:54:00.000Z
 common_name: Dwarf chinkapin Oak
-location: 'Monroe County, NY'
+location: 'Monroe County, New York'
 crowned: '2019'
 photographed: '2019'
 circumference: '47'
