@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Crataegus succulenta
 date: 2019-07-21T19:03:00.000Z
 common_name: Fleshy Hawthorn
-location: 'Rochester, NY'
+location: 'Rochester, New York'
 crowned: '2019'
 photographed: '2019'
 circumference: 41"
