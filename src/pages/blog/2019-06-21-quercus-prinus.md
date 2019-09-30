@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Quercus montana
 date: 2018-06-12T21:23:00.000Z
 common_name: Chestnut Oak
-location: 'Atlantic Highlands, NJ'
+location: 'Atlantic Highlands, New Jersey'
 crowned: '2017'
 photographed: '2018'
 circumference: 335"
