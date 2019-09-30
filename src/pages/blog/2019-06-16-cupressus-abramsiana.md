@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Cupressus abramsiana
 date: 2018-11-02T19:25:00.000Z
 common_name: Santa Cruz Cypress
-location: 'Regional Parks Botanic Garden, California.'
+location: 'Regional Parks Botanic Garden, California'
 crowned: '2019'
 photographed: '2018'
 circumference: 79"
