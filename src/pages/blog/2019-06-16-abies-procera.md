@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Abies procera
 date: 2018-09-30T19:42:00.000Z
 common_name: Noble Fir
-location: 'Gifford Pinchot National Forest, Washington.'
+location: 'Gifford Pinchot National Forest, Washington'
 crowned: '2018'
 photographed: '2018'
 circumference: 316"
