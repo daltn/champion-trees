@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Fraxinus nigra
 date: 2017-06-04T17:36:00.000Z
 common_name: Black Ash
-location: 'Thompson Park, NJ'
+location: 'Thompson Park, New Jersey'
 crowned: '2017'
 photographed: '2017'
 circumference: 137"
