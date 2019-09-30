@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Betula alleghaniensis
 date: 2017-07-12T17:48:00.000Z
 common_name: Yellow Birch
-location: 'Kennebec, ME'
+location: 'Kennebec, Maine'
 crowned: '2017'
 photographed: '2017'
 circumference: 242"
