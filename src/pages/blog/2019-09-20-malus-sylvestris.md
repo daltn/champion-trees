@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Malus sylvestris
 date: 2019-09-20T17:32:22.676Z
 common_name: Common Apple
-location: 'West Falmouth, ME'
+location: 'West Falmouth, Maine'
 crowned: '2017'
 photographed: '2019'
 circumference: 197"
