@@ -4,7 +4,7 @@ title_type: 'National Co Champion:'
 title: Ulmus pumila
 date: 2018-07-03T21:43:00.000Z
 common_name: Siberian Elm
-location: 'Ross County, OH'
+location: 'Ross County, Ohio'
 crowned: '2012'
 photographed: '2018'
 circumference: 260"
