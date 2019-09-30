@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Cephalanthus occidentalis
 date: 2018-11-19T17:55:00.000Z
 common_name: Common Button Bush
-location: 'Buttonwillow, CA. '
+location: 'Buttonwillow, California'
 crowned: '2018'
 photographed: '2018'
 circumference: 60"
