@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Quercus marilandica
 date: 2019-04-17T17:58:00.000Z
 common_name: Blackjack Oak
-location: 'Siler City, NC'
+location: 'Siler City, North Carolina'
 crowned: '2014'
 photographed: '2019'
 circumference: 115"
