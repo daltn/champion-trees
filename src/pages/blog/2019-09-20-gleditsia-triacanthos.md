@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Gleditsia triacanthos
 date: 2019-08-20T19:03:00.000Z
 common_name: Honeylocust
-location: 'Sullivan County, NH'
+location: 'Sullivan County, New Hampshire'
 crowned: '2018'
 photographed: '2019'
 circumference: 202"
