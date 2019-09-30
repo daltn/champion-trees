@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Torreya californica
 date: 2018-11-06T22:11:00.000Z
 common_name: California Torreya
-location: 'Big Basin State Park, CA'
+location: 'Big Basin State Park, California'
 crowned: '2012'
 photographed: '2018'
 circumference: 133"
