@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Quercus rubra
 date: 2019-08-01T19:45:00.000Z
 common_name: Northern Red Oak
-location: 'Ashtabula, OH'
+location: 'Ashtabula, Ohio'
 crowned: '2019'
 photographed: '2019'
 circumference: 335"
