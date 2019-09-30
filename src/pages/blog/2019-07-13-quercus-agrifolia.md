@@ -4,7 +4,7 @@ title_type: 'National Co Champion:'
 title: Quercus agrifolia
 date: 2018-10-14T17:13:00.000Z
 common_name: Coast Live Oak
-location: 'Halter Ranch, CA.'
+location: 'Halter Ranch, California'
 crowned: '2017'
 photographed: '2018'
 circumference: 348"
