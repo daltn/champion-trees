@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Picea mariana
 date: 2019-09-20T17:18:54.701Z
 common_name: Black Spruce
-location: 'Hancock, ME'
+location: 'Hancock, Maine'
 crowned: '2018'
 photographed: '2019'
 circumference: 75"
