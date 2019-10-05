@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Magnolia acuminata
 date: 2019-07-31T19:17:00.000Z
 common_name: Cucumbertree Magnolia
-location: 'Stark, OH'
+location: 'Stark, Ohio'
 crowned: '2013'
 photographed: '2019'
 circumference: 299"
