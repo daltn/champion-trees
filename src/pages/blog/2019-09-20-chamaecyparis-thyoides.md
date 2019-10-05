@@ -4,7 +4,7 @@ title_type: 'National Champion:'
 title: Chamaecyparis thyoides
 date: 2019-07-30T19:33:00.000Z
 common_name: Atlantic White-Cedar
-location: 'Muskingum, OH'
+location: 'Muskingum, Ohio'
 crowned: '2019'
 photographed: '2019'
 circumference: 194"
