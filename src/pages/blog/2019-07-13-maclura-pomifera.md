@@ -4,7 +4,7 @@ title_type: 'National Co Champion:'
 title: Maclura pomifera
 date: 2019-04-04T18:09:00.000Z
 common_name: Osage Orange
-location: 'Patrick Henry Red Hill Memorial Park, VA'
+location: 'Patrick Henry Red Hill Memorial Park, Virginia'
 crowned: '2017'
 photographed: '2019'
 circumference: 328"
