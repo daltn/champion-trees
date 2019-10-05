@@ -4,7 +4,7 @@ title_type: 'Former Champion:'
 title: Acer saccharinum
 date: 2019-08-22T18:22:12.787Z
 common_name: Silver Maple
-location: 'Hillsborough, NH'
+location: 'Hillsborough, New Hampshire'
 crowned: '2018'
 photographed: '2019'
 circumference: 264"
