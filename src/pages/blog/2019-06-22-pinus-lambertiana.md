@@ -20,7 +20,3 @@ image2:
     /img/former_co_champion_sugar_pine_yosemite_national_park_daniel_kelley_brian_kelley.jpg
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633349905&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-
-
-![lambertiana-03](/img/former_co_champion_sugar_pine_yosemite_national_park_brian_kelley.jpg)
