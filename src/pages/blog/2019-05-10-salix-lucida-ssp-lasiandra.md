@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title_type: 'National Champion:'
+title_type: 'Former Champion:'
 title: Salix lucida ssp lasiandra
 date: 2018-10-30T01:32:00.000Z
 common_name: Pacific Willow
