@@ -2,7 +2,7 @@
 templateKey: blog-post
 title_type: 'National Champion:'
 title: Aesculus glabra
-date: 2019-12-12T18:10:35.239Z
+date: 2019-10-12T17:10:00.000Z
 common_name: Ohio Buckeye
 location: 'Lexington, Kentucky'
 crowned: '2017'
