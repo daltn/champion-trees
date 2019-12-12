@@ -28,8 +28,8 @@ image2:
 
 ![Fraxinus quadrangulata - 05](/img/4646_fraxinus_quadrangulata_national_champion_blue_ash_louisville_kentucky_10-13-2019_american_forests_brian_kelley_construction_scene.jpg)
 
-![Fraxinus quadrangulata - 06](/img/4646_fraxinus_quadrangulata_national_champion_blue_ash_louisville_kentucky_10-13-2019_american_forests_brian_kelley_scale.jpg)
+![Fraxinus quadrangulata - 06](/img/4646_fraxinus_quadrangulata_national_champion_blue_ash_louisville_kentucky_10-13-2019_american_forests_brian_kelley_construction_leaf.jpg)
 
 ![Fraxinus quadrangulata - 07](/img/4646_fraxinus_quadrangulata_national_champion_blue_ash_louisville_kentucky_10-13-2019_american_forests_brian_kelley_seeds.jpg)
 
-![Fraxinus quadrangulata - 08](/img/4646_fraxinus_quadrangulata_national_champion_blue_ash_louisville_kentucky_10-13-2019_american_forests_brian_kelley_construction_leaf.jpg)
+![Fraxinus quadrangulata - 08](/img/4646_fraxinus_quadrangulata_national_champion_blue_ash_louisville_kentucky_10-13-2019_american_forests_brian_kelley_scale.jpg)
