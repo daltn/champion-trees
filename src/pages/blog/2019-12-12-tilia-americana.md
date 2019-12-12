@@ -2,7 +2,7 @@
 templateKey: blog-post
 title_type: 'National Champion:'
 title: Tilia americana
-date: 2019-12-12T17:32:58.254Z
+date: 2019-10-11T16:32:00.000Z
 common_name: American basswood
 location: 'Lexington, Kentucky '
 crowned: '2017'
