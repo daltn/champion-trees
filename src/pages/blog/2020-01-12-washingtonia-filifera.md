@@ -7,9 +7,9 @@ common_name: California Fan Palm
 location: 'Sacramento, California'
 crowned: '1991'
 photographed: '2019'
-circumference: '141'
-height: '67'
-crown_spread: '18'
+circumference: 141"
+height: 67"
+crown_spread: 18'
 total_af_points: '213'
 image1:
   alt: Washingtonia filifera - 01
