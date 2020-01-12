@@ -24,8 +24,6 @@ image2:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/718530979&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-
-
 ![Catalpa bignonioides - 04](/img/5882_catalpa_bignonioides_southern_catalpa_national_champion_maryland_american_forests_brian_kelley_wide_base_2.jpg)
 
 ![Catalpa bignonioides - 05](/img/5882_catalpa_bignonioides_southern_catalpa_national_champion_maryland_american_forests_brian_kelley_full_leaf.jpg)
