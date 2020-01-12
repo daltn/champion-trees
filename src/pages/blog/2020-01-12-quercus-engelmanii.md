@@ -7,9 +7,9 @@ common_name: Engelmann Oak
 location: 'Pasadena, California'
 crowned: '1951'
 photographed: '2019'
-circumference: '144'
-height: '84'
-crown_spread: '106'
+circumference: 144"
+height: 84"
+crown_spread: 106'
 total_af_points: '255'
 image1:
   alt: Quercus engelmanii - 01
