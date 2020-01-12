@@ -20,8 +20,6 @@ image2:
   image: >-
     /img/former_national_champion_betula_alleghaniensis_yellow_birch_deer_isle_9-13-2019_american_forests_brian_kelley_full_1.jpg
 ---
-![Betula alleghaniensis - 03](/img/former_national_champion_betula_alleghaniensis_yellow_birch_deer_isle_9-13-2019_american_forests_brian_kelley_full_1.jpg)
-
 ![Betula alleghaniensis -04](/img/former_national_champion_betula_alleghaniensis_yellow_birch_deer_isle_9-13-2019_american_forests_brian_kelley_leaf.jpg)
 
 ![Betula alleghaniensis -05](/img/former_national_champion_betula_alleghaniensis_yellow_birch_deer_isle_9-13-2019_american_forests_brian_kelley_scale.jpg)
