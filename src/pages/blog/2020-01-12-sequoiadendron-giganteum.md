@@ -5,7 +5,7 @@ title: Sequoiadendron giganteum
 date: 2019-10-29T21:07:23.930Z
 common_name: Giant Sequoia
 location: 'Sequoia National Park, California'
-crowned: '1940'
+crowned: '2019'
 photographed: '2019'
 circumference: 1020"
 height: 274"
