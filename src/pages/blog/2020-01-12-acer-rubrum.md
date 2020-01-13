@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title_type: 'National Champion:'
+title_type: 'National Co Champion:'
 title: Acer rubrum
 date: 2020-01-12T20:53:30.193Z
 common_name: Red Maple
 location: 'Canton, New Jersey'
-crowned: '2012'
+crowned: '2014'
 photographed: '2019'
 circumference: 270"
 height: 91'
