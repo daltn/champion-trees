@@ -5,7 +5,7 @@ title: Metesequoia glyptostroboides
 date: 2018-05-30T20:12:00.000Z
 common_name: Dawn Redwood
 location: 'Willowwood Arboretum, New Jersey'
-crowned: '2017'
+crowned: '2016'
 photographed: '2018'
 circumference: 212"
 height: 112"
