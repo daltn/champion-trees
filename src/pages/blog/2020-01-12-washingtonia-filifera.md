@@ -5,7 +5,7 @@ title: Washingtonia filifera
 date: 2019-11-06T19:22:00.000Z
 common_name: California Fan Palm
 location: 'Sacramento, California'
-crowned: '1991'
+crowned: '2018'
 photographed: '2019'
 circumference: 141"
 height: 67"
