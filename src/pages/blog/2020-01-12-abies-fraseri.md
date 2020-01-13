@@ -5,7 +5,7 @@ title: Abies fraseri
 date: 2019-10-09T20:48:00.000Z
 common_name: Fraser Fir
 location: 'Harrisonburg, Virginia'
-crowned: '2009'
+crowned: '2012'
 photographed: '2019'
 circumference: 116"
 height: 96"
