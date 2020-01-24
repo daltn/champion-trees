@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title_type: 'National Champion:'
+title_type: 'National Co Champion:'
 title: Quercus rubra
 date: 2019-08-01T19:45:00.000Z
 common_name: Northern Red Oak
