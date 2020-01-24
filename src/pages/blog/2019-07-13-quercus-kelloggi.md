@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title_type: 'National Champion:'
+title_type: 'Former Champion:'
 title: Quercus kelloggi
 date: 2018-11-17T18:00:00.000Z
 common_name: California Black Oak
