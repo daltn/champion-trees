@@ -2,7 +2,7 @@
 templateKey: blog-post
 title_type: 'National Champion:'
 title: Ulmus pumila
-date: 2020-10-13T22:37:00.000Z
+date: 2019-10-13T22:37:00.000Z
 common_name: Siberian Elm
 location: 'Salt Lake City, Utah'
 crowned: '2015'
