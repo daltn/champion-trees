@@ -18,7 +18,7 @@ image1:
 image2:
   alt: Ulmus pumila - 02
   image: >-
-    /img/5646_ulmus_pumila_national_co_champion_siberian_elm_salt_lake_city_utah_10_22_2019_american_forests_brian_kelley_base_1.jpg
+    /img/5646_ulmus_pumila_national_co_champion_siberian_elm_salt_lake_city_utah_10_22_2019_american_forests_brian_kelley_base_1_portra_160.jpg
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/743045473&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
