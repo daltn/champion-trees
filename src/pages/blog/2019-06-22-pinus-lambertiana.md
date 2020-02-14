@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: draft
 title_type: 'Former Champion:'
 title: Pinus lambertiana
 date: 2018-11-11T21:33:00.000Z
