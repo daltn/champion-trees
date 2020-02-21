@@ -20,7 +20,7 @@ image2:
   image: >-
     /img/3282_pinus_torreyana_torrey_pine_carpenteria_ca_american_forests_brian_kelley_base_1.jpg
 ---
-![Pinus Torreyana - 03](/img/3282_pinus_torreyana_torrey_pine_carpenteria_ca_american_forests_brian_kelley_bark.jpg)
+![Pinus Torreyana - 03](/img/3282_pinus_torreyana_torrey_pine_carpenteria_ca_american_forests_brian_kelley_2.jpg)
 
 ![Pinus Torreyana - 04](/img/3282_pinus_torreyana_torrey_pine_carpenteria_ca_american_forests_brian_kelley_3.jpg)
 
@@ -28,6 +28,6 @@ image2:
 
 ![Pinus Torreyana - 06](/img/3282_pinus_torreyana_torrey_pine_carpenteria_ca_american_forests_brian_kelley_needles_1.jpg)
 
-![Pinus Torreyana - 07](/img/3282_pinus_torreyana_torrey_pine_carpenteria_ca_american_forests_brian_kelley_2.jpg)
+![Pinus Torreyana - 07](/img/3282_pinus_torreyana_torrey_pine_carpenteria_ca_american_forests_brian_kelley_bark.jpg)
 
 ![Pinus Torreyana - 08](/img/3282_pinus_torreyana_torrey_pine_carpenteria_ca_american_forests_brian_kelley_scale.jpg)
