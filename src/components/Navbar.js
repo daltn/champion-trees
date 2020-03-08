@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'gatsby';
+import donateButton from '../img/donate.png';
 
 class Navbar extends Component {
   componentDidMount() {
@@ -64,6 +65,27 @@ class Navbar extends Component {
               >
                 American Forests
               </a>
+              <form
+                action="https://www.paypal.com/cgi-bin/webscr"
+                method="post"
+                target="_top"
+              >
+                <input type="hidden" name="cmd" value="_s-xclick" />
+                <input
+                  type="hidden"
+                  name="hosted_button_id"
+                  value="8UNNM9P2SGX3G"
+                />
+                <input
+                  type="image"
+                  className="donateButton"
+                  src={donateButton}
+                  border="0"
+                  name="submit"
+                  title="PayPal button"
+                  alt="Donate button"
+                />
+              </form>
             </div>
           </div>
         </div>
