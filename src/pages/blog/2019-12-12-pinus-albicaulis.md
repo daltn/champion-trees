@@ -7,9 +7,9 @@ common_name: Whitebark Pine
 location: 'Humboldt-Toiyabe National Forest, California'
 crowned: '2018'
 photographed: '2019'
-circumference: '235'
-height: '54'
-crown_spread: '37'
+circumference: 235"
+height: 54'
+crown_spread: 37'
 total_af_points: '299'
 image1:
   alt: Pinus albicaulis -01
