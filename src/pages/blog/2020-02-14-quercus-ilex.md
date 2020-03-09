@@ -7,9 +7,9 @@ common_name: Holly Oak
 location: 'Sacramento Capital Park, California'
 crowned: '2009'
 photographed: '2019'
-circumference: '132'
-height: '70'
-crown_spread: '92'
+circumference: 132"
+height: 70'
+crown_spread: 92'
 total_af_points: '225'
 image1:
   alt: Quercus ilex - 01
