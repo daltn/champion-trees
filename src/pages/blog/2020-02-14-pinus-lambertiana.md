@@ -4,12 +4,12 @@ title_type: 'National Champion:'
 title: Pinus lambertiana
 date: 2019-10-26T15:25:08.393Z
 common_name: Sugar Pine
-location: Calaveras Big Trees State Park
+location: 'Calaveras Big Trees State Park, California'
 crowned: '2016'
 photographed: '2019'
-circumference: '362'
-height: '241'
-crown_spread: '48'
+circumference: 362"
+height: 241'
+crown_spread: 48'
 total_af_points: '615'
 image1:
   alt: Pinus lambertiana - 01
