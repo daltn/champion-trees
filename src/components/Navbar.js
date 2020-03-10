@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'gatsby';
-import donateButton from '../img/donate.png';
+import donateButton from '../img/donate.svg';
+import ggLogo from '../img/gg-logo.png';
 
 class Navbar extends Component {
   componentDidMount() {
@@ -34,14 +35,13 @@ class Navbar extends Component {
         aria-label="main-navigation"
       >
         <div className="container">
-          <div className="navbar-brand">
-            <Link
-              to="/"
-              className="navbar-item has-text-weight-bold"
-              title="Logo"
-              id="logo"
-            >
-              Gathering Growth
+          <div>
+            <Link to="/" className="navbar-item" title="Logo">
+              <img
+                src={ggLogo}
+                alt="gathering growth logo"
+                className="gg-logo"
+              />
             </Link>
             <div className="navbar-burger burger" data-target="navMenu">
               <span aria-hidden="true" />

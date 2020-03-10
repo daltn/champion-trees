@@ -1,10 +1,18 @@
 @font-face
   font-family: 'SuisseIntl';
   src: url('../fonts/SuisseIntl-Regular.otf') format('opentype');
-
 @font-face
   font-family: 'SuisseIntl-Bold';
   src: url('../fonts/SuisseIntl-Bold.otf') format('opentype');
+@font-face
+  font-family: 'Chelt Book';
+  src: url('../fonts/CheltenhamStdBook.otf') format('opentype');
+@font-face
+  font-family: 'Chelt Italic';
+  src: url('../fonts/CheltenhamStdBookItalic.otf') format('opentype');
+@font-face
+  font-family: 'Chelt Bold';
+  src: url('../fonts/CheltenhamStdBold.otf') format('opentype');
 
 @import "~bulma/sass/utilities/initial-variables"
 
@@ -18,6 +26,9 @@ $black: #2b2523
 
 .navbar-item
   padding-left: 18px
+  font-family: "Chelt Bold"
+  font-size: 1rem
+  letter-spacing: 0.5px
 
 
 #tree
@@ -58,7 +69,7 @@ a.has-text-weight-bold:hover
   text-align: left
 
 body
-  font-family: 'SuisseIntl', sans-serif;
+  font-family: 'Chelt Book', Georgia, Times New Roman, serif
   font-size: 13.5px
 
 h1 h2 h3 h4
@@ -83,7 +94,6 @@ img
 .navbar
   position: fixed
   top: 0px
-  padding-top: 30px
   background: transparent
   width: 100%
 
@@ -106,7 +116,7 @@ img
   opacity: 1
 
 .marginTop
-  margin-top: 100px
+  margin-top: 150px
 
 .searchResult
   background-color: #ffffff
@@ -115,7 +125,7 @@ img
   border: 0
   border-bottom: 5px solid $body-color
   background-color: white
-  font-family: 'SuisseIntl', sans-serif
+  font-family: 'Chelt Book', Georgia, serif
   font-size: 1.75em
   width: 60%
   transition: all 0.5s ease-out
@@ -129,9 +139,18 @@ li
   list-style-type: none
   padding: 2vh 0
 
+.navbar-item img
+  max-height: none
+
 .donateButton
-  width: 75px
+  width: 115px
   margin: 5px 18px
+  z-index: -10;
+
+.gg-logo
+  width: 180px
+  height: auto
+
 
 
 @media screen and (max-width: 700px)
@@ -145,7 +164,8 @@ li
     align-items: center
 
   .donateButton
-    margin: 0 0 0 6vw;
+    width: 115px;
+    margin: 0 10px 0 6vw;
   .navbar-item
     padding-left: 6vw
   .mainContainer
