@@ -7,9 +7,9 @@ common_name: Glossy Privet
 location: 'Sacramento, California'
 crowned: '2009'
 photographed: '2019'
-circumference: '107'
-height: '62'
-crown_spread: '65'
+circumference: 107"
+height: 62'
+crown_spread: 65'
 total_af_points: '185'
 image1:
   alt: Ligustrum Lucidum - 01

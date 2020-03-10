@@ -18,11 +18,11 @@ image1:
 image2:
   alt: Quercus engelmanii  - 02
   image: >-
-    /img/3150_quercus_engelmannii_national_champion_engelmann_oak_pasadena_ca_11_24_2019_american_forests_brian_kelley_base_1.jpg
+    /img/3150_quercus_engelmannii_national_champion_engelmann_oak_pasadena_ca_11_24_2019_american_forests_brian_kelley_full_3.jpg
 ---
 ![Quercus engelmanii - 03](/img/3150_quercus_engelmannii_national_champion_engelmann_oak_pasadena_ca_11_24_2019_american_forests_brian_kelley_full_1.jpg)
 
-![Quercus engelmanii - 04](/img/3150_quercus_engelmannii_national_champion_engelmann_oak_pasadena_ca_11_24_2019_american_forests_brian_kelley_full_3.jpg)
+![Quercus engelmanii - 04](/img/3150_quercus_engelmannii_national_champion_engelmann_oak_pasadena_ca_11_24_2019_american_forests_brian_kelley_base_1.jpg)
 
 ![Quercus engelmanii - 05](/img/3150_quercus_engelmannii_national_champion_engelmann_oak_pasadena_ca_11_24_2019_american_forests_brian_kelley_full_2.jpg)
 
