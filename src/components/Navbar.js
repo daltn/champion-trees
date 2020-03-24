@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'gatsby';
+import donateButton from '../img/donate.svg';
 
 import ggLogo from '../img/gg-logo.png';
 
@@ -66,7 +67,11 @@ class Navbar extends Component {
                 American Forests
               </a>
               <Link className="navbar-item" to="/donate">
-                Donate
+                <img
+                  className="donateButton"
+                  src={donateButton}
+                  alt="donate button"
+                />
               </Link>
             </div>
           </div>

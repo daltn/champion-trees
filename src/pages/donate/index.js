@@ -50,6 +50,7 @@ const Donate = () => (
                 <input
                   type="image"
                   className="donateButton"
+                  style={{ marginTop: `30px;` }}
                   src={donateButton}
                   border="0"
                   name="submit"
