@@ -9,30 +9,10 @@ const Donate = () => (
       <div className="container">
         <div className="columns">
           <div className="content column is-8">
-            <h1>Donation</h1>
+            <h1>Donate</h1>
             <p>
               All donations are tax deductible through Gathering Growth’s fiscal
               sponsor Sustainable Markets Foundation.
-            </p>
-            <p>
-              To pay by check, please make checks payable to Sustainable Markets
-              Foundation with Gathering Growth in the memo.
-            </p>
-            <p>
-              Checks can be mailed to:
-              <br />
-              <br />
-              Sustainable Markets Foundation
-              <br /> C/O Gathering Growth
-              <br /> 45 West 36th Street, 6th Floor
-              <br />
-              New York, NY 10018-7635
-            </p>
-            <p>
-              If you’d like to wire money, you can find information to do so{' '}
-              <Link to="/donate/wire" title="Logo">
-                here.
-              </Link>
             </p>
             <p>
               To donate via Paypal:
@@ -58,6 +38,26 @@ const Donate = () => (
                   alt="Donate button"
                 />
               </form>
+            </p>
+            <p>
+              To pay by check, please make checks payable to Sustainable Markets
+              Foundation with Gathering Growth in the memo.
+            </p>
+            <p>
+              Checks can be mailed to:
+              <br />
+              <br />
+              Sustainable Markets Foundation
+              <br /> C/O Gathering Growth
+              <br /> 45 West 36th Street, 6th Floor
+              <br />
+              New York, NY 10018-7635
+            </p>
+            <p>
+              If you’d like to wire money, you can find information to do so{' '}
+              <Link to="/donate/wire" title="Logo">
+                here.
+              </Link>
             </p>
           </div>
         </div>
