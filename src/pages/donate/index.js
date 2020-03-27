@@ -9,13 +9,13 @@ const Donate = () => (
       <div className="container">
         <div className="columns">
           <div className="content column is-8">
-            <h1>Donate</h1>
+            <h1>Donate Today</h1>
             <p>
               All donations are tax deductible through Gathering Growth’s fiscal
               sponsor Sustainable Markets Foundation.
             </p>
-            <p>
-              To donate via Paypal:
+            <div className="flex-col">
+              <p style={{ margin: `0 15px 0 0` }}>To donate via Paypal</p>
               <form
                 action="https://www.paypal.com/cgi-bin/webscr"
                 method="post"
@@ -38,10 +38,11 @@ const Donate = () => (
                   alt="Donate button"
                 />
               </form>
-            </p>
+            </div>
+
             <p>
-              To pay by check, please make checks payable to Sustainable Markets
-              Foundation with Gathering Growth in the memo.
+              To donate by check please make checks payable to Sustainable
+              Markets Foundation with Gathering Growth in the memo.
             </p>
             <p>
               Checks can be mailed to:
@@ -54,10 +55,15 @@ const Donate = () => (
               New York, NY 10018-7635
             </p>
             <p>
-              If you’d like to wire money, you can find information to do so{' '}
-              <Link to="/donate/wire" title="Logo">
-                here.
-              </Link>
+              To donate via wire transfer, please click{' '}
+              <Link
+                style={{ textDecoration: 'underline' }}
+                to="/donate/wire"
+                title="Logo"
+              >
+                here
+              </Link>{' '}
+              for more information.
             </p>
           </div>
         </div>
