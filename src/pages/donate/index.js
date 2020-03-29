@@ -44,10 +44,8 @@ const Donate = () => (
               To donate by check please make checks payable to Sustainable
               Markets Foundation with Gathering Growth in the memo.
             </p>
-            <p>
-              Checks can be mailed to:
-              <br />
-              <br />
+            <p>Checks can be mailed to:</p>
+            <p style={{ fontSize: `0.9rem` }}>
               Sustainable Markets Foundation
               <br /> C/O Gathering Growth
               <br /> 45 West 36th Street, 6th Floor
