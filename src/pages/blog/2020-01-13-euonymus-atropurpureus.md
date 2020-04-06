@@ -8,7 +8,7 @@ location: 'St. Louis, Missouri'
 crowned: '2016'
 photographed: '2019'
 circumference: 107"
-height: 38"
+height: 38'
 crown_spread: 40'
 total_af_points: '155'
 image1:
@@ -21,8 +21,6 @@ image2:
     /img/2763_euonymus_atropurpureus_national_champion_eastern_burning_bush_st_louis_mo_american_forests_10_15_2019_brian_kelley_base_2.jpg
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/742985530&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-
 
 ![Euonymus atropurpureus - 03](/img/2763_euonymus_atropurpureus_national_champion_eastern_burning_bush_st_louis_mo_american_forests_10_15_2019_brian_kelley_full.jpg)
 
