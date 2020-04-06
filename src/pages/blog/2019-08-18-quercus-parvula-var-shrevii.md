@@ -7,9 +7,9 @@ common_name: Shreve Oak
 location: 'Davenport, California'
 crowned: '2012'
 photographed: '2017'
-circumference: '244'
-height: '89'
-crown_spread: '75'
+circumference: 244"
+height: 89'
+crown_spread: 75'
 total_af_points: '352'
 image1:
   alt: Quercus parvula var. shrevii - 01
