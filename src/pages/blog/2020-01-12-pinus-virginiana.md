@@ -8,7 +8,7 @@ location: 'Fairfax County, Virginia'
 crowned: '2017'
 photographed: '2019'
 circumference: 108"
-height: 91"
+height: 91'
 crown_spread: 43'
 total_af_points: '210'
 image1:
