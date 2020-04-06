@@ -8,8 +8,8 @@ location: 'Owensboro, Kentucky'
 crowned: '2011'
 photographed: '2019'
 circumference: 283"
-height: 62"
-crown_spread: 51"
+height: 62'
+crown_spread: 51'
 total_af_points: '358'
 image1:
   alt: Sassafras albidum - 01
