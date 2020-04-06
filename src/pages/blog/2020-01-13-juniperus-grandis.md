@@ -8,7 +8,7 @@ location: 'Stanislaus National Forest, California'
 crowned: '2015'
 photographed: '2019'
 circumference: 481"
-height: 78"
+height: 78'
 crown_spread: 56'
 total_af_points: '573'
 image1:
