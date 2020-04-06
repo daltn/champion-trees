@@ -8,7 +8,7 @@ location: 'Louisville, Kentucky'
 crowned: '2014'
 photographed: '2019'
 circumference: 282"
-height: 90"
+height: 90'
 crown_spread: 82'
 total_af_points: '393'
 image1:
