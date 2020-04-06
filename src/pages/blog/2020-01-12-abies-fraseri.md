@@ -8,7 +8,7 @@ location: 'Harrisonburg, Virginia'
 crowned: '2012'
 photographed: '2019'
 circumference: 116"
-height: 96"
+height: 96'
 crown_spread: 45'
 total_af_points: '223'
 image1:
