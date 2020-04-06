@@ -7,9 +7,9 @@ common_name: Island Live Oak
 location: 'Santa Barbara Botanic Garden, California'
 crowned: '2016'
 photographed: '2017'
-circumference: '91'
-height: '52'
-crown_spread: '60'
+circumference: 91"
+height: 52'
+crown_spread: 60'
 total_af_points: '159'
 image1:
   alt: Quercus tomentella - 01
