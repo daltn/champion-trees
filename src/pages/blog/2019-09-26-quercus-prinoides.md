@@ -7,9 +7,9 @@ common_name: Dwarf chinkapin Oak
 location: 'Monroe County, New York'
 crowned: '2019'
 photographed: '2019'
-circumference: '47'
-height: '34'
-crown_spread: '40'
+circumference: 47"
+height: 34'
+crown_spread: 40'
 total_af_points: '91'
 image1:
   alt: Quercus prinoides -01
