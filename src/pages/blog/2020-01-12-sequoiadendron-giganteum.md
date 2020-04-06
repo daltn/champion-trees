@@ -8,7 +8,7 @@ location: 'Sequoia National Park, California'
 crowned: '2019'
 photographed: '2019'
 circumference: 1020"
-height: 274"
+height: 274'
 crown_spread: 107'
 total_af_points: '1321'
 image1:
