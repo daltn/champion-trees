@@ -8,7 +8,7 @@ location: 'Pasadena, California'
 crowned: '2019'
 photographed: '2019'
 circumference: 144"
-height: 84"
+height: 84'
 crown_spread: 106'
 total_af_points: '255'
 image1:
