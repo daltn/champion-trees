@@ -7,9 +7,9 @@ common_name: Norway Spruce
 location: 'Salisbury, Connecticut '
 crowned: '2014'
 photographed: '2018'
-circumference: '218'
-height: '124'
-crown_spread: '59'
+circumference: 218"
+height: 124'
+crown_spread: 59'
 total_af_points: '357'
 image1:
   alt: Picea abies 01
