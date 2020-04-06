@@ -7,9 +7,9 @@ common_name: Blue Ash
 location: 'Louisville, Kentucky'
 crowned: '2019'
 photographed: '2019'
-circumference: '208'
-height: '82'
-crown_spread: '72'
+circumference: 208"
+height: 82'
+crown_spread: 72'
 total_af_points: '308'
 image1:
   alt: Fraxinus quadrangulata - 01
