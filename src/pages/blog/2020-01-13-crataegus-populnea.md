@@ -8,7 +8,7 @@ location: 'Ravenna, Ohio'
 crowned: '2019'
 photographed: '2019'
 circumference: 33"
-height: 28"
+height: 28'
 crown_spread: 24'
 total_af_points: '67'
 image1:
