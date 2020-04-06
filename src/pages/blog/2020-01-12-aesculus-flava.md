@@ -8,7 +8,7 @@ location: 'Iron Gate, Virginia'
 crowned: '2017'
 photographed: '2019'
 circumference: 295"
-height: 81"
+height: 81'
 crown_spread: 56'
 total_af_points: '390'
 image1:
