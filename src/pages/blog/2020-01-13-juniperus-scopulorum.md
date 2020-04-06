@@ -8,7 +8,7 @@ location: 'Cache National Forest, Utah'
 crowned: '2017'
 photographed: '2019'
 circumference: 284"
-height: 40"
+height: 40'
 crown_spread: 29'
 total_af_points: '331'
 image1:
