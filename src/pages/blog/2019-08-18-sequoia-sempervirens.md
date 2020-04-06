@@ -7,9 +7,9 @@ common_name: Coast Redwood
 location: 'Jedediah Smith Redwoods State Park, California'
 crowned: '2016'
 photographed: '2017'
-circumference: '895'
-height: '307'
-crown_spread: '83'
+circumference: 895"
+height: 307'
+crown_spread: 83'
 total_af_points: '3327'
 image1:
   alt: Sequoia sempervirens - 01
