@@ -8,7 +8,7 @@ location: 'Murray City Park, Utah'
 crowned: '2014'
 photographed: '2019'
 circumference: 217"
-height: 80"
+height: 80'
 crown_spread: 80'
 total_af_points: '312'
 image1:

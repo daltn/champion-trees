@@ -7,9 +7,9 @@ common_name: Great Basin Bristlecone
 location: 'Humboldt-Toiyabe National Forest, Nevada'
 crowned: '2018'
 photographed: '2019'
-circumference: '455'
-height: '52'
-crown_spread: '45'
+circumference: 455"
+height: 52'
+crown_spread: 45'
 total_af_points: '518'
 image1:
   alt: Pinus longaeva -01

@@ -7,9 +7,9 @@ common_name: American basswood
 location: 'Lexington, Kentucky '
 crowned: '2017'
 photographed: '2019'
-circumference: '276'
-height: '102'
-crown_spread: '85'
+circumference: 276"
+height: 102'
+crown_spread: 85'
 total_af_points: '399'
 image1:
   alt: Tilia americana - 01

@@ -7,9 +7,9 @@ common_name: Black Oak
 location: 'Hartford, Connecticut'
 crowned: '2012'
 photographed: '2018'
-circumference: '347'
-height: '78'
-crown_spread: '89'
+circumference: 347"
+height: 78'
+crown_spread: 89'
 total_af_points: '447'
 image1:
   alt: Quercus velutina 01

@@ -8,7 +8,7 @@ location: 'Rutgers Gardens,Nnew Jersey'
 crowned: '2013'
 photographed: '2019'
 circumference: 66"
-height: 62"
+height: 62'
 crown_spread: 46'
 total_af_points: '140'
 image1:

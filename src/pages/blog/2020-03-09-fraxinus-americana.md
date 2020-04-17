@@ -8,7 +8,7 @@ location: 'Morristown, New Jersey'
 crowned: '2019'
 photographed: '2019'
 circumference: 255"
-height: 115"
+height: 115'
 crown_spread: 111'
 total_af_points: '398'
 image1:

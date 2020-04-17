@@ -8,7 +8,7 @@ location: 'Salt Lake City, Utah'
 crowned: '2015'
 photographed: '2019'
 circumference: 261"
-height: 108"
+height: 108'
 crown_spread: 117'
 total_af_points: '398'
 image1:

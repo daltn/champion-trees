@@ -8,7 +8,7 @@ location: 'Sacramento, California'
 crowned: '2018'
 photographed: '2019'
 circumference: 141"
-height: 67"
+height: 67'
 crown_spread: 18'
 total_af_points: '213'
 image1:

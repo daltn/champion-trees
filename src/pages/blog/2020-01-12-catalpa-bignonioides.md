@@ -8,7 +8,7 @@ location: 'Towson, Maryland'
 crowned: '2017'
 photographed: '2019'
 circumference: 251"
-height: 75"
+height: 75'
 crown_spread: 82'
 total_af_points: '347'
 image1:

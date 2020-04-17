@@ -7,9 +7,9 @@ common_name: Bluegum Eucalyptus
 location: 'Petrolia, California'
 crowned: '2016'
 photographed: '2017'
-circumference: '586'
-height: '141'
-crown_spread: '126'
+circumference: 586"
+height: 141'
+crown_spread: 126'
 total_af_points: '759'
 image1:
   alt: Eucalyptus Globulus - 01

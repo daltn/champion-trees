@@ -8,7 +8,7 @@ location: 'Willowwood Arboretum, New Jersey'
 crowned: '2016'
 photographed: '2018'
 circumference: 212"
-height: 112"
+height: 112'
 crown_spread: 60'
 total_af_points: '339'
 image1:
