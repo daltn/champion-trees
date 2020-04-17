@@ -4,7 +4,7 @@ title: Information
 ---
 ### Mission Statement
 
-Gathering Growth has partnered with American Forests to create a photographic archive of Champion Trees in the United States. Our commitment is to inspire and inform the public on the necessities of forest preservation and the importance of trees in our everyday lives.
+Gathering Growth Foundation works to visually preserve the legacy of significant trees and forests in the United States.
 
 ### Champion Trees
 
@@ -14,9 +14,9 @@ Champion Trees are the largest of their species. In the U.S. there are 795 Champ
 
 ‘When we tug at a single thing in nature we find it attached to the rest of the world’ - John Muir
 
-With the rapid increase of urban sprawl, the rise of global temperature, invasive insects and much more, our forests are dwindling at alarming rates. In 2017, the photographer and archivist, Brian Kelley began to create the archive, to preserve these champions legacies and to call attention to the importance of protecting the delicate ecosystems they inhabit.
+With the rapid increase of urban sprawl, the rise of global temperature, invasive insects and much more, our forests are dwindling at alarming rates. In 2017, the photographer and archivist, Brian Kelley began to create this archive, to preserve these trees legacies and to call attention to the importance of protecting the delicate ecosystems they inhabit.
 
-The large format photographs, captured entirely by Kelley, provide an insight into the Champion Tree’s life and the environment it occupies whether it be a major tourist destination, the streets of New York City, or The Lost Forest in the Oregon Desert. Each photograph is accompanied by audio recordings of the surrounding landscape, capturing the sounds that encompass each tree.
+The large format photographs, captured entirely by Kelley, provide an insight into the tree’s life and the environment it occupies whether it be a major tourist destination, the streets of New York City, or The Lost Forest in the Oregon Desert. Each photograph is accompanied by audio recordings of the surrounding landscape, capturing the sounds that encompass each tree.
 
 ### More About Brian Kelley
 
