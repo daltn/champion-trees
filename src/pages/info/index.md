@@ -20,7 +20,7 @@ The large format photographs, captured entirely by Kelley, provide an insight in
 
 ### More About Brian Kelley
 
-Brian Kelley (b. 1988) is a photographer and archivist, originally from Horseheads, NY. In 2006, he moved to NYC where he received a B.F.A. in Photography from the School of Visual Arts. Kelley’s mixed-media approach has allowed him to pursue artwork with disruptive capacities—exhaustive research, slow & meditative composition, and the repurposing of photographic mediums—all employed to reveal the artifacts left behind by the precession of simulacra. Kelley's artistic pursuit contributes to the cultural archive of American ephemera, building on series such as “[Parks](https://standardsmanual.com/products/parks)” a collection of over 300 United States national park maps, ephemera, and brochures spanning over a 100 years. Kelley is currently based between Brooklyn and Lumberland, NY. 
+Brian Kelley (b. 1988) is a photographer and archivist, originally from Horseheads, NY. He moved to NYC, in 2006 and completed his a B.F.A. in Photography from the School of Visual Arts. Kelley’s mixed-media approach has allowed him to pursue artwork with disruptive capacities—exhaustive research, slow & meditative composition, and the repurposing of photographic mediums—all employed to reveal the artifacts left behind by the precession of simulacra. Kelley's artistic pursuit contributes to the cultural archive of American ephemera, building on series such as “[Parks](https://standardsmanual.com/products/parks)” a collection of over 300 United States national park maps, ephemera, and brochures spanning over a 100 years. Kelley is currently based between Brooklyn and Lumberland, NY. 
 
 ## News
 
