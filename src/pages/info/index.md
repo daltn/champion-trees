@@ -1,6 +1,6 @@
 ---
 templateKey: info-page
-title: Information
+title: About Us
 ---
 ### Mission Statement
 
@@ -8,7 +8,7 @@ Gathering Growth Foundation works to visually preserve the legacy of significant
 
 ### Champion Trees
 
-Champion Trees are the largest of their species. In the U.S. there are 795 Champion Trees recorded by the environmental non-profit, American Forests. Surviving the ravages of human and nature, their lives spanning hundreds and even thousands of years, these silent sentinels have watched history unfold around them.
+Champion Trees are the largest of their species. In the U.S. there are 795 Champion Trees recorded by the environmental non-profit, [American Forests](https://www.americanforests.org/get-involved/americas-biggest-trees/champion-trees-national-register/). Surviving the ravages of human and nature, their lives spanning hundreds and even thousands of years, these silent sentinels have watched history unfold around them.
 
 ### More About Gathering Growth
 
@@ -20,7 +20,7 @@ The large format photographs, captured entirely by Kelley, provide an insight in
 
 ### More About Brian Kelley
 
-Brian Kelley (b. 1988) moved to New York City in 2006 and received his BFA in photography from the School of Visual Arts. Kelley’s work resists the hurried march of consumerist modernity, seeking to halt the cyclical emptiness of our material lives to capture a sense of culture at “the end of history.” A mixed-media approach has allowed him to pursue artwork with disruptive capacities—exhaustive research, slow & meditative composition, and the repurposing of photographic mediums—all employed to reveal the artifacts left behind by the precession of simulacra. Kelley was born in Horseheads, NY and currently lives in Lumberland, NY.
+Brian Kelley (b. 1988) is a photographer and archivist, originally from Horseheads, NY. In 2006, he moved to NYC where he received a B.F.A. in Photography from the School of Visual Arts. Kelley’s mixed-media approach has allowed him to pursue artwork with disruptive capacities—exhaustive research, slow & meditative composition, and the repurposing of photographic mediums—all employed to reveal the artifacts left behind by the precession of simulacra. Kelley's artistic pursuit contributes to the cultural archive of American ephemera, building on series such as “[Parks](https://standardsmanual.com/products/parks)” a collection of over 300 United States national park maps, ephemera, and brochures spanning over a 100 years. Kelley is currently based between Brooklyn and Lumberland, NY. 
 
 ## News
 
