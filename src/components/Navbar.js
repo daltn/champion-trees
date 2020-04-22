@@ -6,21 +6,15 @@ import ggLogo from '../img/gg-logo.png';
 
 class Navbar extends Component {
   componentDidMount() {
-    // Get all "navbar-burger" elements
     const $navbarBurgers = Array.prototype.slice.call(
       document.querySelectorAll('.navbar-burger'),
       0
     );
-    // Check if there are any navbar burgers
     if ($navbarBurgers.length > 0) {
-      // Add a click event on each of them
       $navbarBurgers.forEach(el => {
         el.addEventListener('click', () => {
-          // Get the target from the "data-target" attribute
           const target = el.dataset.target;
           const $target = document.getElementById(target);
-
-          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
           el.classList.toggle('is-active');
           $target.classList.toggle('is-active');
         });
@@ -52,20 +46,18 @@ class Navbar extends Component {
           </div>
           <div id="navMenu" className="navbar-menu">
             <div className="navbar-end">
+              <Link className="navbar-item" to="/archive">
+                Archive
+              </Link>
+              <Link className="navbar-item" to="/video">
+                Video
+              </Link>
               <Link className="navbar-item" to="/search">
                 Search
               </Link>
               <Link className="navbar-item" to="/info">
-                Information
+                About
               </Link>
-              <a
-                href="https://www.americanforests.org/get-involved/americas-biggest-trees/"
-                className="navbar-item"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                American Forests
-              </a>
               <Link className="navbar-item" to="/donate">
                 <img
                   className="donateButton"
