@@ -60,21 +60,3 @@ Kelley</a>
 
 Furthermore / From Equinox -
 <a href="https://furthermore.equinox.com/articles/2018/06/allbirds-nurture-your-passion" target="_blank" rel="noopener noreferrer">Master the summer: nurture your passion</a>
-
-## Contact
-
-**Brian Kelley** <br />
-Gathering Growth Photographer & Archivist <br />
-<mailto:b.kelley@gatheringgrowth.com>
-
-**Sara Meghdari** <br />
-Project Manager <br />
-<mailto:s.meghdari@gatheringgrowth.com>
-
-### Connect With Us
-
-<a href="https://www.instagram.com/champion_trees/" target="_blank" rel="noopener noreferrer" >
-<img style="padding-top:0;margin-bottom:30px" src="./instagram-icon.svg" width=25 alt="instagram" ></a>
-&nbsp; &nbsp;
-<a href="https://soundcloud.com/user-954267106" target="_blank" rel="noopener noreferrer">
-<img style="padding-top:0;margin-bottom:30px" src="./soundcloud.svg" width=25 alt="soundcloud" ></a>

@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
+import ContactCard from '../components/ContactCard';
 
 export const InfoPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
@@ -16,6 +17,7 @@ export const InfoPageTemplate = ({ title, content, contentComponent }) => {
             <PageContent content={content} />
           </div>
         </div>
+        <ContactCard />
       </div>
     </section>
   );

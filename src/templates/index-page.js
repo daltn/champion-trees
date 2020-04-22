@@ -1,15 +1,21 @@
 import React from 'react';
 import Layout from '../components/Layout';
+import ContactCard from '../components/ContactCard.js';
 
 export const IndexPageTemplate = () => (
   <div>
-    <section className="section mainContainer">
-      <div className="container" />
-      <h1>
-        Working to visually preserve the legacy of significant trees and forest
+    <section className="section mainContainer" id="idx">
+      <div className="container" style={{ marginLeft: `300px` }} />
+      <h1 className="idx-title">
+        Working to visually preserve the legacy of significant trees and forests
         in the United States.
       </h1>
-      <div style={{ padding: `56.25% 0 0 0`, position: `relative` }}>
+      <div
+        style={{
+          padding: `56.25% 0 0 0`,
+          position: `relative`,
+        }}
+      >
         <iframe
           src="https://player.vimeo.com/video/409899424"
           style={{
@@ -24,6 +30,7 @@ export const IndexPageTemplate = () => (
           allowFullScreen
         />
       </div>
+      <ContactCard />
     </section>
   </div>
 );
