@@ -17,7 +17,7 @@ collections:
           name: 'templateKey',
           widget: 'select',
           default: 'blog-post',
-          options: ['blog-post', 'alt-layout', 'draft'],
+          options: ['blog-post', 'draft'],
         }
       - {
           label: 'Title Type',

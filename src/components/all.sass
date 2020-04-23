@@ -89,8 +89,7 @@ img
   position: fixed
   top: 0px
   background: transparent
-  width: 80%
-  border: 1px solid blue
+  width: 100%
 
 .nav-bar-brand
   padding-left: 10px
@@ -151,9 +150,6 @@ li
     position: relative
     bottom: 92px
 
-// .navbar-burger
-//   bottom: 125px
-
 .content table tbody tr:last-child td
   border-bottom-width: 1px
 
@@ -166,29 +162,27 @@ li
   margin-bottom: 1rem
 
 .idx-title
-  font-size: 2.5rem
-  line-height: 2.5rem
+  font-size: 2rem
+  line-height: 2.25rem
   color: $black
-  width: 60%
+  width: 100%
   margin-bottom: 30px
 
 .flex-card
   display: flex
-  flex-direction:column
+  flex-direction: column
 
 .flex-card div
-  margin-right: 40px
+  margin: 0 40px 40px 0
 
 
 .flex-contain
-  display: flex
-  justify-content: space-between
   margin-top: 50px
   line-height: 1.2rem
   font-size: 0.9rem
 
-#idx
-  width: 80%
+.navbar-brand .navbar-item
+  padding: 0
 
 .navbar-menu
   display: none
@@ -213,6 +207,7 @@ li
     text-align: center
     position: relative
     bottom: 0
+    width: 80%
   .navbar-item:last-child
     padding-right: 0
   .navbar-end
@@ -220,23 +215,36 @@ li
     display: flex
     justify-content: center
     align-items: center
-    border: 1px solid salmon
     position: absolute
     right: 0
+  .flex-card
+    display: flex
+    flex-direction: row
   .navbar-burger
     display: none
   .donateButton
     width: 115px
     margin: 0
   .navbar-item
-    padding-left: 5vw
+    padding: 0 0 0 50px
+  .flex-contain
+    display: flex
+    justify-content: space-between
+    margin-top: 50px
+    line-height: 1.2rem
+    font-size: 0.9rem
   .mainContainer
     margin-left: 0px
-    border: 1px solid cyan
     margin: 0 10%
     padding: 5% 0 0
+  .idx-title
+    font-size: 2.5rem
+    line-height: 2.75rem
+    color: $black
+    width: 80%
+    margin-bottom: 30px
   #postContainer
-    margin-left: 14%
+    margin: 0
 
 
 

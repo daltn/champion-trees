@@ -17,8 +17,8 @@ export const InfoPageTemplate = ({ title, content, contentComponent }) => {
             <PageContent content={content} />
           </div>
         </div>
-        <ContactCard />
       </div>
+      <ContactCard />
     </section>
   );
 };
