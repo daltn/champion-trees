@@ -24,21 +24,26 @@ class Navbar extends Component {
 
   render() {
     return (
-      <nav
-        className="navbar is-transparent"
-        role="navigation"
-        aria-label="main-navigation"
-      >
-        <div className="container">
-          <div>
-            <Link to="/" className="navbar-item" title="Logo">
+      <div>
+        <nav
+          className="navbar is-transparent"
+          role="navigation"
+          aria-label="main-navigation"
+        >
+          <div className="navbar-brand">
+            <Link to="/" title="Logo" class="navbar-item">
               <img
                 src={ggLogo}
                 alt="gathering growth logo"
                 className="gg-logo"
               />
             </Link>
-            <div className="navbar-burger burger" data-target="navMenu">
+            <div
+              className="navbar-burger burger"
+              aria-label="menu"
+              aria-expanded="false"
+              data-target="navMenu"
+            >
               <span aria-hidden="true" />
               <span aria-hidden="true" />
               <span aria-hidden="true" />
@@ -67,8 +72,8 @@ class Navbar extends Component {
               </Link>
             </div>
           </div>
-        </div>
-      </nav>
+        </nav>
+      </div>
     );
   }
 }

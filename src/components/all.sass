@@ -19,7 +19,6 @@ $black: #2b2523
   box-shadow:none !important
 
 .navbar-item
-  padding-left: 18px
   font-family: "Chelt Bold"
   font-size: 1rem
   letter-spacing: 0.5px
@@ -90,7 +89,8 @@ img
   position: fixed
   top: 0px
   background: transparent
-  width: 100%
+  width: 80%
+  border: 1px solid blue
 
 .nav-bar-brand
   padding-left: 10px
@@ -149,10 +149,10 @@ li
 .navbar .navbar-menu
     text-align: center
     position: relative
-    bottom: 82px
+    bottom: 92px
 
-.navbar-burger
-  bottom: 125px
+// .navbar-burger
+//   bottom: 125px
 
 .content table tbody tr:last-child td
   border-bottom-width: 1px
@@ -178,19 +178,20 @@ li
 
 .flex-card div
   margin-right: 40px
-  line-height: 1.5rem
-  font-size: 1rem
+
 
 .flex-contain
   display: flex
   justify-content: space-between
   margin-top: 50px
+  line-height: 1.2rem
+  font-size: 0.9rem
 
 #idx
-
   width: 80%
-  margin-left: 20%
 
+.navbar-menu
+  display: none
 
 @media screen and (max-width: 700px)
   .idxImgHover
@@ -199,15 +200,31 @@ li
 
 @media screen and (min-width: 600px)
   .navbar
-    width: 100%
+    display: flex
+    align-items: center
+    width: 80%
+    margin: 0 10%
   #navMenu
     display: flex
     justify-content: space-between
     align-items: center
+    width: 80%
   .navbar .navbar-menu
     text-align: center
-    position: static
-    bottom: none
+    position: relative
+    bottom: 0
+  .navbar-item:last-child
+    padding-right: 0
+  .navbar-end
+    margin-left: 0%
+    display: flex
+    justify-content: center
+    align-items: center
+    border: 1px solid salmon
+    position: absolute
+    right: 0
+  .navbar-burger
+    display: none
   .donateButton
     width: 115px
     margin: 0
@@ -215,6 +232,9 @@ li
     padding-left: 5vw
   .mainContainer
     margin-left: 0px
+    border: 1px solid cyan
+    margin: 0 10%
+    padding: 5% 0 0
   #postContainer
     margin-left: 14%
 

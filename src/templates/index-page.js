@@ -5,7 +5,6 @@ import ContactCard from '../components/ContactCard.js';
 export const IndexPageTemplate = () => (
   <div>
     <section className="section mainContainer" id="idx">
-      <div className="container" style={{ marginLeft: `300px` }} />
       <h1 className="idx-title">
         Working to visually preserve the legacy of significant trees and forests
         in the United States.
