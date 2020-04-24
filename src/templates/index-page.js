@@ -24,6 +24,7 @@ export const IndexPageTemplate = () => (
             width: `100%`,
             height: `100%`,
           }}
+          title="Pine Tree Vid"
           frameBorder="0"
           allow="autoplay; fullscreen"
           allowFullScreen

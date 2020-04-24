@@ -11,7 +11,7 @@ export const VideoPageTemplate = ({ title, content, contentComponent }) => {
     <section className="section mainContainer">
       <div className="container">
         <div className="columns">
-          <div className="content column is-6">
+          <div className="content column">
             <h2>{title}</h2>
             <PageContent content={content} />
           </div>
