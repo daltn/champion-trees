@@ -17,7 +17,7 @@ collections:
           name: 'templateKey',
           widget: 'select',
           default: 'blog-post',
-          options: ['blog-post', 'alt-layout', 'draft'],
+          options: ['blog-post', 'draft'],
         }
       - {
           label: 'Title Type',
@@ -73,6 +73,19 @@ collections:
           name: 'templateKey',
           widget: 'hidden',
           default: 'info-page',
+        }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'Video'
+    label: 'Video'
+    folder: 'src/pages/video'
+    create: false
+    fields:
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'video-page',
         }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }

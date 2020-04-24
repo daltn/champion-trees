@@ -3,9 +3,8 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
-import ContactCard from '../components/ContactCard';
 
-export const InfoPageTemplate = ({ title, content, contentComponent }) => {
+export const VideoPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
@@ -18,23 +17,22 @@ export const InfoPageTemplate = ({ title, content, contentComponent }) => {
           </div>
         </div>
       </div>
-      <ContactCard />
     </section>
   );
 };
 
-InfoPageTemplate.propTypes = {
+VideoPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 };
 
-const InfoPage = ({ data }) => {
+const VideoPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <InfoPageTemplate
+      <VideoPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -43,14 +41,14 @@ const InfoPage = ({ data }) => {
   );
 };
 
-InfoPage.propTypes = {
+VideoPage.propTypes = {
   data: PropTypes.object.isRequired,
 };
 
-export default InfoPage;
+export default VideoPage;
 
-export const InfoPageQuery = graphql`
-  query InfoPage($id: String!) {
+export const VideoPageQuery = graphql`
+  query VideoPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {

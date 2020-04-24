@@ -26,9 +26,9 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
+    <section>
       {helmet || ''}
-      <div className="container content">
+      <div className="mainContainer">
         <div className="columns is-multiline">
           <div className="column is-6">
             <a

@@ -19,8 +19,7 @@ $black: #2b2523
   box-shadow:none !important
 
 .navbar-item
-  padding-left: 18px
-  font-family: "Chelt Bold"
+  font-family: "Chelt Bold", Georgia, serif
   font-size: 1rem
   letter-spacing: 0.5px
 
@@ -89,26 +88,30 @@ img
 .navbar
   position: fixed
   top: 0px
-  background: transparent
   width: 100%
+  background-color: #fff
 
 .nav-bar-brand
   padding-left: 10px
 
 .imageContainer
   position: fixed
-  top: 0
+  top: 160px
   right: 0
-  z-index: -5
-  height: 85vh
-  width: 45vw
+  height: 100%
+  width: 40vw
   overflow: auto
+  z-index: -5
+
 
 .idxImg
   opacity: 0
+  display: none
 
 .idxImgHover
   opacity: 1
+  display: block
+
 
 .marginTop
   margin-top: 150px
@@ -140,19 +143,15 @@ li
 .donateButton
   width: 115px
   margin: 10px 0 0 0
-  z-index: -10;
 
 .gg-logo
   width: auto
-  height: 170px
+  height: 160px
 
 .navbar .navbar-menu
     text-align: center
     position: relative
-    bottom: 82px
-
-.navbar-burger
-  bottom: 125px
+    bottom: 92px
 
 .content table tbody tr:last-child td
   border-bottom-width: 1px
@@ -165,34 +164,104 @@ li
   align-items: center
   margin-bottom: 1rem
 
+.idx-title
+  font-size: 2rem
+  line-height: 2.25rem
+  color: $black
+  width: 100%
+  margin-bottom: 30px
+
+.flex-card
+  display: flex
+  flex-direction: column
+
+.flex-card div
+  margin: 0 40px 40px 0
+
+
+.flex-contain
+  margin-top: 50px
+  line-height: 1.2rem
+  font-size: 0.9rem
+
+.navbar-brand .navbar-item
+  padding: 0
+
+.navbar-burger
+  z-index: 10
+
+.navbar .navbar-menu
+  position: absolute
+  text-align: center
+  top: 0
+  width: 100%
+
+.navbar-end
+  background-color: #fff
+
+.navbar-end .navbar-item:hover
+  background-color: #fff
+
 
 @media screen and (max-width: 700px)
   .idxImgHover
     opacity: 0
 
 
-@media screen and (min-width: 900px)
+@media screen and (min-width: 600px)
   .navbar
-    width: 90%
+    display: flex
+    align-items: center
+    width: 80%
+    margin: 0 10%
   #navMenu
     display: flex
     justify-content: space-between
     align-items: center
+    width: 80%
   .navbar .navbar-menu
     text-align: center
-    position: static
-    bottom: none
+    position: relative
+    bottom: 0
+    width: 80%
+    background-color: #fff;
+  .navbar-item:last-child
+    padding-right: 0
+  .navbar-end
+    margin-left: 0%
+    display: flex
+    justify-content: center
+    align-items: center
+    position: absolute
+    right: 0
+  .flex-card
+    display: flex
+    flex-direction: row
+  .navbar-burger
+    display: none
   .donateButton
     width: 115px
     margin: 0
   .navbar-item
-    padding-left: 5vw
-  .navbar-item:first-child
-    padding-left: 10px
+    padding: 0 0 0 50px
+  .flex-contain
+    display: flex
+    justify-content: space-between
+    margin-top: 50px
+    line-height: 1.2rem
+    font-size: 0.9rem
   .mainContainer
     margin-left: 0px
+    margin: 0 10%
+    padding: 5% 0 0
+  .idx-title
+    font-size: 2.5rem
+    line-height: 2.75rem
+    color: $black
+    width: 80%
+    margin-bottom: 30px
   #postContainer
-    margin-left: 14%
+    margin: 0
 
 
 
