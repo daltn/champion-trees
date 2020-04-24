@@ -19,7 +19,7 @@ $black: #2b2523
   box-shadow:none !important
 
 .navbar-item
-  font-family: "Chelt Bold"
+  font-family: "Chelt Bold", Georgia, serif
   font-size: 1rem
   letter-spacing: 0.5px
 
@@ -96,18 +96,22 @@ img
 
 .imageContainer
   position: fixed
-  top: 0
+  top: 160px
   right: 0
-  z-index: -5
-  height: 85vh
-  width: 45vw
+  height: 100%
+  width: 40vw
   overflow: auto
+  z-index: -5
+
 
 .idxImg
   opacity: 0
+  display: none
 
 .idxImgHover
   opacity: 1
+  display: block
+
 
 .marginTop
   margin-top: 150px
@@ -139,11 +143,10 @@ li
 .donateButton
   width: 115px
   margin: 10px 0 0 0
-  z-index: -10;
 
 .gg-logo
   width: auto
-  height: 170px
+  height: 160px
 
 .navbar .navbar-menu
     text-align: center
@@ -184,8 +187,21 @@ li
 .navbar-brand .navbar-item
   padding: 0
 
-.navbar-menu
-  display: none
+.navbar-burger
+  z-index: 10
+
+.navbar .navbar-menu
+  position: absolute
+  text-align: center
+  top: 0
+  width: 100%
+
+.navbar-end
+  background-color: #fff
+
+.navbar-end .navbar-item:hover
+  background-color: #fff
+
 
 @media screen and (max-width: 700px)
   .idxImgHover
