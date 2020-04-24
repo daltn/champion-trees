@@ -25,11 +25,7 @@ class Navbar extends Component {
   render() {
     return (
       <div>
-        <nav
-          className="navbar is-transparent"
-          role="navigation"
-          aria-label="main-navigation"
-        >
+        <nav className="navbar" role="navigation" aria-label="main-navigation">
           <div className="navbar-brand">
             <Link to="/" title="Logo" class="navbar-item">
               <img
