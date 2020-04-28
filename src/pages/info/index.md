@@ -2,7 +2,6 @@
 templateKey: info-page
 title: About Us
 ---
-
 ### Mission Statement
 
 Gathering Growth Foundation works to visually preserve the legacy of significant trees and forests in the United States.
@@ -24,6 +23,12 @@ The large format photographs, captured entirely by Kelley, provide an insight in
 Brian Kelley (b. 1988) is a photographer and archivist, originally from Horseheads, NY. He moved to NYC in 2006 and received his a B.F.A. in Photography from the School of Visual Arts in 2010. Kelley’s mixed-media approach has allowed him to pursue artwork with disruptive capacities—exhaustive research, slow & meditative composition, and the repurposing of photographic mediums—all employed to reveal the artifacts left behind by the precession of simulacra. Kelley's artistic pursuit contributes to the cultural archive of American ephemera, building on series such as “[Parks](https://standardsmanual.com/products/parks)” a collection of over 300 United States national park maps, ephemera, and brochures spanning over a 100 years. Currently, Kelley is based between Brooklyn and Lumberland, NY.
 
 ## News
+
+### 2020
+
+Field Mag - <a href="https://www.fieldmag.com/articles/worlds-largest-pine-tree-video-gathering-growth?utm_source=facebook&utm_medium=social&utm_campaign=fb-general&utm_content=20200428-bigpinetree" target="_blank" rel="noopener noreferrer"> Video: Discovering the World's Largest Pine Tree</a>
+
+Outside Magazine - <a href="https://www.outsideonline.com/2411956/big-tree-hunter-california#close" target="_blank" rel="noopener noreferrer"> Meet California's Best Big-Tree Hunter</a>
 
 ### 2019
 
