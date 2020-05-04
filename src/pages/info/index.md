@@ -18,8 +18,6 @@ With the rapid increase of urban sprawl, the rise of global temperature, invasiv
 
 The large format photographs, captured entirely by Kelley, provide an insight into the tree’s life and the environment it occupies whether it be a major tourist destination, the streets of New York City, or The Lost Forest in the Oregon Desert. Each photograph is accompanied by audio recordings of the surrounding landscape, capturing the sounds that encompass each tree.
 
-## To Subscribe to the Gathering Growth Monthly Newsletter! <a href="http://eepurl.com/g0540j"> Click Here</a>
-
 ### More About Brian Kelley
 
 Brian Kelley (b. 1988) is a photographer and archivist, originally from Horseheads, NY. He moved to NYC in 2006 and received his a B.F.A. in Photography from the School of Visual Arts in 2010. Kelley’s mixed-media approach has allowed him to pursue artwork with disruptive capacities—exhaustive research, slow & meditative composition, and the repurposing of photographic mediums—all employed to reveal the artifacts left behind by the precession of simulacra. Kelley's artistic pursuit contributes to the cultural archive of American ephemera, building on series such as “[Parks](https://standardsmanual.com/products/parks)” a collection of over 300 United States national park maps, ephemera, and brochures spanning over a 100 years. Currently, Kelley is based between Brooklyn and Lumberland, NY.
@@ -67,3 +65,5 @@ Kelley</a>
 
 Furthermore / From Equinox -
 <a href="https://furthermore.equinox.com/articles/2018/06/allbirds-nurture-your-passion" target="_blank" rel="noopener noreferrer">Master the summer: nurture your passion</a>
+
+## <a href="http://eepurl.com/g0540j"> Click Here</a> to Subscribe to the Gathering Growth Monthly Newsletter!
