@@ -67,5 +67,3 @@ Kelley</a>
 
 Furthermore / From Equinox -
 <a href="https://furthermore.equinox.com/articles/2018/06/allbirds-nurture-your-passion" target="_blank" rel="noopener noreferrer">Master the summer: nurture your passion</a>
-
-
