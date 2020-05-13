@@ -1,8 +1,8 @@
 import React from 'react';
 import soundcloud from '../img/soundcloud.svg';
 import instagram from '../img/instagram-icon.svg';
-import fb from '../img/fb.png';
-import twitter from '../img/twitter.png';
+import fb from '../img/fb.svg';
+import twitter from '../img/twitter.svg';
 
 const ContactCard = () => {
   return (
